@@ -241,256 +241,256 @@ ua = ["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.
 	"Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_2 like Mac https://m.baidu.com/mip/c/s/zhangzifan.com/wechat-user-agent.htmlOS X) AppleWebKit/604.4.7 (KHTML, like Gecko) Mobile/15C202 MicroMessenger/6.6.1 NetType/4G Language/zh_CN",
 	"Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_1 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Mobile/15B150 MicroMessenger/6.6.1 NetType/WIFI Language/zh_CN",
 	"Mozilla/5.0 (iphone x Build/MXB48T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043632 Safari/537.36 MicroMessenger/6.6.1.1220(0x26060135) NetType/WIFI Language/zh_CN",
-	"/5.0 ; MSIE 9.0; Windows NT 6.0  12.14"
-	"/5.0 X11; ; Linux i686; rv:26.0 Gecko/20100101 Firefox/26.0"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows NT 6.2 /535.7 KHTML,  Gecko Comodo_Dragon/16.1.1.0 /16.0.912.63 Safari/535.7"
-	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Linux; U;  4.0.3; -ch; HTC  /IML74K /534.30 KHTML,  Gecko /4.0  Safari/534.30"
+	"/5.0 ; MSIE 9.0; Windows NT 6.0  12.14",
+	"/5.0 X11; ; Linux i686; rv:26.0 Gecko/20100101 Firefox/26.0",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows NT 6.2 /535.7 KHTML,  Gecko Comodo_Dragon/16.1.1.0 /16.0.912.63 Safari/535.7",
+	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Linux; U;  4.0.3; -ch; HTC  /IML74K /534.30 KHTML,  Gecko /4.0  Safari/534.30",
 	"/5.0 Linux; U;  2.3; -us /999+ KHTML,  Gecko Safari/999.9"
-	"/5.0 Linux; U;  2.3.5; zh-; HTC_IncredibleS_S710e /GRJ90 /533.1 KHTML,  Gecko /4.0  Safari/533.1"
-	"/5.0 Linux; U;  2.3.5; -us; HTC  /GRI40 /533.1 KHTML,  Gecko /4.0  Safari/533.1"
-	"/5.0 Linux; U;  2.3.4; fr-fr; HTC  /GRJ22 /533.1 KHTML,  Gecko /4.0  Safari/533.1"
-	"/5.0 Linux; U;  2.3.4; -us; T- myTouch 3G  /GRI40 /533.1 KHTML,  Gecko /4.0  Safari/533.1"
-	"/5.0 Linux; U;  2.3.3; zh-tw; HTC_Pyramid /GRI40 /533.1 KHTML,  Gecko /4.0  Safari/533.1"
-	"/5.0 Linux; U;  2.3.3; zh-tw; HTC_Pyramid /GRI40 /533.1 KHTML,  Gecko /4.0  Safari"
-	"/5.0 Linux; U;  2.3.3; zh-tw; HTC  /GRI40 /533.1 KHTML,  Gecko /4.0  Safari/533.1"
-	"/5.0 Linux; U;  2.3.3; ko-kr; LG-LU3000 /GRI40 /533.1 KHTML,  Gecko /4.0  Safari/533.1"
-	"/5.0 Linux; U;  2.3.3; -us; HTC_DesireS_S510e /GRI40 /533.1 KHTML,  Gecko /4.0  Safari/533.1"
-	"/5.0 Linux; U;  2.3.3; -us; HTC_DesireS_S510e /GRI40 /533.1 KHTML,  Gecko /4.0 "
-	"/5.0 Linux; U;  2.3.3; -; HTC  /GRI40 /533.1 KHTML,  Gecko /4.0  Safari/533.1"
-	"/5.0 Linux; U;  2.3.3; -ch; HTC  /FRF91 /533.1 KHTML,  Gecko /4.0  Safari/533.1"
-	"/5.0 Linux; U;  2.2; fr-; HTC  /FRF91 /533.1 KHTML,  Gecko /4.0  Safari/533.1"
-	"/5.0 Linux; U;  2.2; -; HTC_DesireHD_A9191 /FRF91 /533.1 KHTML,  Gecko /4.0  Safari/533.1"
-	"/5.0 Linux; U;  2.2.1; fr-fr; HTC_DesireZ_A7272 /FRG83D /533.1 KHTML,  Gecko /4.0  Safari/533.1"
-	"/5.0 Linux; U;  2.2.1; -gb; HTC_DesireZ_A7272 /FRG83D /533.1 KHTML,  Gecko /4.0  Safari/533.1"
-	"/5.0 Linux; U;  2.2.1; -; LG-P505R /FRG83 /533.1 KHTML,  Gecko /4.0  Safari/533.1"
-	"/9.80 X11; Linux i686; /14.10 Presto/2.12.388 /12.16"
-	"/9.80 Windows NT 6.0 Presto/2.12.388 /12.14"
-	"/5.0 Windows NT 6.0; rv:2.0 Gecko/20100101 Firefox/4.0  12.14"
-	"/5.0 ; MSIE 9.0; Windows NT 6.0  12.14"
-	"/12.80 Windows NT 5.1; U;  Presto/2.10.289 /12.02"
-	"/9.80 Windows NT 6.1; U; es-ES Presto/2.9.181 /12.00"
-	"/9.80 Windows NT 5.1; U; zh- Presto/2.9.181 /12.00"
-	"/12.0Windows NT 5.2;U;Presto/22.9.168 /12.00"
-	"/12.0Windows NT 5.1;U;Presto/22.9.168 /12.00"
-	"/5.0 Windows NT 5.1 Gecko/20100101 Firefox/14.0 /12.0"
-	"/9.80 Windows NT 6.1; WOW64; U;  Presto/2.10.229 /11.62"
-	"/9.80 Windows NT 6.0; U; pl Presto/2.10.229 /11.62"
-	"/9.80 Macintosh; Intel Mac OS X 10.6.8; U; fr Presto/2.9.168 /11.52"
-	"/9.80 Macintosh; Intel Mac OS X 10.6.8; U;  Presto/2.9.168 /11.52"
-	"/9.80 Windows NT 5.1; U;  Presto/2.9.168 /11.51"
-	"/5.0 ; MSIE 9.0; Windows NT 6.1;   11.51"
-	"/9.80 X11; Linux x86_64; U; fr Presto/2.9.168 /11.50"
-	"/9.80 X11; Linux i686; U;  Presto/2.9.168 /11.50"
-	"/9.80 X11; Linux i686; U;  Presto/2.8.131 /11.11"
-	"/9.80 X11; Linux i686; U; es-ES Presto/2.8.131 /11.11"
-	"/5.0 Windows NT 5.1; U; ; rv:1.8.1 Gecko/20061208 Firefox/5.0  11.11"
-	"/9.80 X11; Linux x86_64; U;  Presto/2.8.131 /11.10"
-	"/9.80 Windows NT 6.0; U;  Presto/2.8.99 /11.10"
-	"/9.80 Windows NT 5.1; U; zh-tw Presto/2.8.131 /11.10"
-	"/9.80 Windows NT 6.1;  /15165; U;  Presto/2.8.149 /11.1"
-	"/9.80 X11; Linux x86_64; U; /10.10 maverick; pl Presto/2.7.62 /11.01"
-	"/9.80 X11; Linux i686; U;  Presto/2.7.62 /11.01"
-	"/9.80 X11; Linux i686; U; fr Presto/2.7.62 /11.01"
-	"/9.80 Windows NT 6.1; U; zh-tw Presto/2.7.62 /11.01"
-	"/9.80 Windows NT 6.1; U; zh- Presto/2.7.62 /11.01"
-	"/9.80 Windows NT 6.1; U; sv Presto/2.7.62 /11.01"
-	"/9.80 Windows NT 6.1; U; -US Presto/2.7.62 /11.01"
-	"/9.80 Windows NT 6.1; U; cs Presto/2.7.62 /11.01"
-	"/9.80 Windows NT 6.0; U; pl Presto/2.7.62 /11.01"
-	"/9.80 Windows NT 5.2; U;  Presto/2.7.62 /11.01"
-	"/9.80 Windows NT 5.1; U; Presto/2.7.62 /11.01"
-	"/9.80 Windows NT 5.1; U; cs Presto/2.7.62 /11.01"
-	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.2.13 Gecko/20101213 /9.80 Windows NT 6.1; U; zh-tw Presto/2.7.62 /11.01"
-	"/5.0 Windows NT 6.1; U; nl; rv:1.9.1.6 Gecko/20091201 Firefox/3.5.6  11.01"
-	"/5.0 Windows NT 6.1; U; ; rv:1.9.1.6 Gecko/20091201 Firefox/3.5.6  11.01"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1;   11.01"
-	"/9.80 X11; Linux x86_64; U; pl Presto/2.7.62 /11.00"
-	"/9.80 X11; Linux i686; U;  Presto/2.7.62 /11.00"
-	"/9.80 Windows NT 6.1; U; zh- Presto/2.6.37 /11.00"
-	"/9.80 Windows NT 6.1; U; pl Presto/2.7.62 /11.00"
-	"/9.80 Windows NT 6.1; U; ko Presto/2.7.62 /11.00"
-	"/9.80 Windows NT 6.1; U; fi Presto/2.7.62 /11.00"
-	"/9.80 Windows NT 6.1; U; -GB Presto/2.7.62 /11.00"
-	"/9.80 Windows NT 6.1 x64; U;  Presto/2.7.62 /11.00"
-	"/9.80 Windows NT 6.0; U;  Presto/2.7.39 /11.00"
-	"/9.80 Windows NT 5.1; U;  Presto/2.7.39 /11.00"
-	"/9.80 Windows NT 5.1; U; MRA 5.5  02842;  Presto/2.7.62 /11.00"
-	"/9.80 Windows NT 5.1; U;  Presto/2.7.62 /11.00"
-	"/5.0 Windows NT 6.0; U; ; rv:1.9.1.6 Gecko/20091201 Firefox/3.5.6  11.00"
-	"/5.0 Windows NT 5.1; U; pl; rv:1.9.1.6 Gecko/20091201 Firefox/3.5.6  11.00"
-	"/5.0 Windows NT 5.1; U; ; rv:1.9.1.6 Gecko/20091201 Firefox/3.5.6  11.00"
-	"/4.0 ; MSIE 8.0; X11; Linux x86_64; pl  11.00"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1; fr  11.00"
+	"/5.0 Linux; U;  2.3.5; zh-; HTC_IncredibleS_S710e /GRJ90 /533.1 KHTML,  Gecko /4.0  Safari/533.1",
+	"/5.0 Linux; U;  2.3.5; -us; HTC  /GRI40 /533.1 KHTML,  Gecko /4.0  Safari/533.1",
+	"/5.0 Linux; U;  2.3.4; fr-fr; HTC  /GRJ22 /533.1 KHTML,  Gecko /4.0  Safari/533.1",
+	"/5.0 Linux; U;  2.3.4; -us; T- myTouch 3G  /GRI40 /533.1 KHTML,  Gecko /4.0  Safari/533.1",
+	"/5.0 Linux; U;  2.3.3; zh-tw; HTC_Pyramid /GRI40 /533.1 KHTML,  Gecko /4.0  Safari/533.1",
+	"/5.0 Linux; U;  2.3.3; zh-tw; HTC_Pyramid /GRI40 /533.1 KHTML,  Gecko /4.0  Safari",
+	"/5.0 Linux; U;  2.3.3; zh-tw; HTC  /GRI40 /533.1 KHTML,  Gecko /4.0  Safari/533.1",
+	"/5.0 Linux; U;  2.3.3; ko-kr; LG-LU3000 /GRI40 /533.1 KHTML,  Gecko /4.0  Safari/533.1",
+	"/5.0 Linux; U;  2.3.3; -us; HTC_DesireS_S510e /GRI40 /533.1 KHTML,  Gecko /4.0  Safari/533.1",
+	"/5.0 Linux; U;  2.3.3; -us; HTC_DesireS_S510e /GRI40 /533.1 KHTML,  Gecko /4.0 ",
+	"/5.0 Linux; U;  2.3.3; -; HTC  /GRI40 /533.1 KHTML,  Gecko /4.0  Safari/533.1",
+	"/5.0 Linux; U;  2.3.3; -ch; HTC  /FRF91 /533.1 KHTML,  Gecko /4.0  Safari/533.1",
+	"/5.0 Linux; U;  2.2; fr-; HTC  /FRF91 /533.1 KHTML,  Gecko /4.0  Safari/533.1",
+	"/5.0 Linux; U;  2.2; -; HTC_DesireHD_A9191 /FRF91 /533.1 KHTML,  Gecko /4.0  Safari/533.1",
+	"/5.0 Linux; U;  2.2.1; fr-fr; HTC_DesireZ_A7272 /FRG83D /533.1 KHTML,  Gecko /4.0  Safari/533.1",
+	"/5.0 Linux; U;  2.2.1; -gb; HTC_DesireZ_A7272 /FRG83D /533.1 KHTML,  Gecko /4.0  Safari/533.1",
+	"/5.0 Linux; U;  2.2.1; -; LG-P505R /FRG83 /533.1 KHTML,  Gecko /4.0  Safari/533.1",
+	"/9.80 X11; Linux i686; /14.10 Presto/2.12.388 /12.16",
+	"/9.80 Windows NT 6.0 Presto/2.12.388 /12.14",
+	"/5.0 Windows NT 6.0; rv:2.0 Gecko/20100101 Firefox/4.0  12.14",
+	"/5.0 ; MSIE 9.0; Windows NT 6.0  12.14",
+	"/12.80 Windows NT 5.1; U;  Presto/2.10.289 /12.02",
+	"/9.80 Windows NT 6.1; U; es-ES Presto/2.9.181 /12.00",
+	"/9.80 Windows NT 5.1; U; zh- Presto/2.9.181 /12.00",
+	"/12.0Windows NT 5.2;U;Presto/22.9.168 /12.00",
+	"/12.0Windows NT 5.1;U;Presto/22.9.168 /12.00",
+	"/5.0 Windows NT 5.1 Gecko/20100101 Firefox/14.0 /12.0",
+	"/9.80 Windows NT 6.1; WOW64; U;  Presto/2.10.229 /11.62",
+	"/9.80 Windows NT 6.0; U; pl Presto/2.10.229 /11.62",
+	"/9.80 Macintosh; Intel Mac OS X 10.6.8; U; fr Presto/2.9.168 /11.52",
+	"/9.80 Macintosh; Intel Mac OS X 10.6.8; U;  Presto/2.9.168 /11.52",
+	"/9.80 Windows NT 5.1; U;  Presto/2.9.168 /11.51",
+	"/5.0 ; MSIE 9.0; Windows NT 6.1;   11.51",
+	"/9.80 X11; Linux x86_64; U; fr Presto/2.9.168 /11.50",
+	"/9.80 X11; Linux i686; U;  Presto/2.9.168 /11.50",
+	"/9.80 X11; Linux i686; U;  Presto/2.8.131 /11.11",
+	"/9.80 X11; Linux i686; U; es-ES Presto/2.8.131 /11.11",
+	"/5.0 Windows NT 5.1; U; ; rv:1.8.1 Gecko/20061208 Firefox/5.0  11.11",
+	"/9.80 X11; Linux x86_64; U;  Presto/2.8.131 /11.10",
+	"/9.80 Windows NT 6.0; U;  Presto/2.8.99 /11.10",
+	"/9.80 Windows NT 5.1; U; zh-tw Presto/2.8.131 /11.10",
+	"/9.80 Windows NT 6.1;  /15165; U;  Presto/2.8.149 /11.1",
+	"/9.80 X11; Linux x86_64; U; /10.10 maverick; pl Presto/2.7.62 /11.01",
+	"/9.80 X11; Linux i686; U;  Presto/2.7.62 /11.01",
+	"/9.80 X11; Linux i686; U; fr Presto/2.7.62 /11.01",
+	"/9.80 Windows NT 6.1; U; zh-tw Presto/2.7.62 /11.01",
+	"/9.80 Windows NT 6.1; U; zh- Presto/2.7.62 /11.01",
+	"/9.80 Windows NT 6.1; U; sv Presto/2.7.62 /11.01",
+	"/9.80 Windows NT 6.1; U; -US Presto/2.7.62 /11.01",
+	"/9.80 Windows NT 6.1; U; cs Presto/2.7.62 /11.01",
+	"/9.80 Windows NT 6.0; U; pl Presto/2.7.62 /11.01",
+	"/9.80 Windows NT 5.2; U;  Presto/2.7.62 /11.01",
+	"/9.80 Windows NT 5.1; U; Presto/2.7.62 /11.01",
+	"/9.80 Windows NT 5.1; U; cs Presto/2.7.62 /11.01",
+	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.2.13 Gecko/20101213 /9.80 Windows NT 6.1; U; zh-tw Presto/2.7.62 /11.01",
+	"/5.0 Windows NT 6.1; U; nl; rv:1.9.1.6 Gecko/20091201 Firefox/3.5.6  11.01",
+	"/5.0 Windows NT 6.1; U; ; rv:1.9.1.6 Gecko/20091201 Firefox/3.5.6  11.01",
+	"/4.0 ; MSIE 8.0; Windows NT 6.1;   11.01",
+	"/9.80 X11; Linux x86_64; U; pl Presto/2.7.62 /11.00",
+	"/9.80 X11; Linux i686; U;  Presto/2.7.62 /11.00",
+	"/9.80 Windows NT 6.1; U; zh- Presto/2.6.37 /11.00",
+	"/9.80 Windows NT 6.1; U; pl Presto/2.7.62 /11.00",
+	"/9.80 Windows NT 6.1; U; ko Presto/2.7.62 /11.00",
+	"/9.80 Windows NT 6.1; U; fi Presto/2.7.62 /11.00",
+	"/9.80 Windows NT 6.1; U; -GB Presto/2.7.62 /11.00",
+	"/9.80 Windows NT 6.1 x64; U;  Presto/2.7.62 /11.00",
+	"/9.80 Windows NT 6.0; U;  Presto/2.7.39 /11.00",
+	"/9.80 Windows NT 5.1; U;  Presto/2.7.39 /11.00",
+	"/9.80 Windows NT 5.1; U; MRA 5.5  02842;  Presto/2.7.62 /11.00",
+	"/9.80 Windows NT 5.1; U;  Presto/2.7.62 /11.00",
+	"/5.0 Windows NT 6.0; U; ; rv:1.9.1.6 Gecko/20091201 Firefox/3.5.6  11.00",
+	"/5.0 Windows NT 5.1; U; pl; rv:1.9.1.6 Gecko/20091201 Firefox/3.5.6  11.00",
+	"/5.0 Windows NT 5.1; U; ; rv:1.9.1.6 Gecko/20091201 Firefox/3.5.6  11.00",
+	"/4.0 ; MSIE 8.0; X11; Linux x86_64; pl  11.00",
+	"/4.0 ; MSIE 8.0; Windows NT 6.1; fr  11.00",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0;   11.00",
 	"/4.0 ; MSIE 8.0; Windows NT 6.0;   11.00"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0;   11.00"
-	"/4.0 ; MSIE 8.0; Windows NT 5.1; pl  11.00"
-	"/9.80 Windows NT 6.1; U; pl Presto/2.6.31 /10.70"
-	"/5.0 Windows NT 5.2; U; ; rv:1.9.1.6 Gecko/20091201 Firefox/3.5.6  10.70"
-	"/5.0 Windows NT 5.1; U; zh-; rv:1.9.1.6 Gecko/20091201 Firefox/3.5.6  10.70"
-	"/9.80 Windows NT 5.2; U; zh- Presto/2.6.30 /10.63"
+	"/4.0 ; MSIE 8.0; Windows NT 5.1; pl  11.00",
+	"/9.80 Windows NT 6.1; U; pl Presto/2.6.31 /10.70",
+	"/5.0 Windows NT 5.2; U; ; rv:1.9.1.6 Gecko/20091201 Firefox/3.5.6  10.70",
+	"/5.0 Windows NT 5.1; U; zh-; rv:1.9.1.6 Gecko/20091201 Firefox/3.5.6  10.70",
+	"/9.80 Windows NT 5.2; U; zh- Presto/2.6.30 /10.63",
 	"/9.80 Windows NT 5.2; U;  Presto/2.6.30 /10.63"
-	"/9.80 Windows NT 5.1; U; MRA 5.6  03278;  Presto/2.6.30 /10.63"
-	"/9.80 Windows NT 5.1; U; pl Presto/2.6.30 /10.62"
-	"/9.80 X11; Linux i686; U; es-ES Presto/2.6.30 /10.61"
-	"/9.80 Windows NT 6.1; U; zh- Presto/2.6.30 /10.61"
-	"/9.80 Windows NT 6.1; U;  Presto/2.6.30 /10.61"
-	"/9.80 Windows NT 6.0; U;  Presto/2.6.30 /10.61"
-	"/9.80 Windows NT 5.2; U;  Presto/2.6.30 /10.61"
-	"/9.80 Windows 98; U;  Presto/2.6.30 /10.61"
-	"/9.80 Macintosh; Intel Mac OS X; U; nl Presto/2.6.30 /10.61"
-	"/9.80 X11; Linux i686; U;  Presto/2.5.27 /10.60"
-	"/9.80 Windows NT 6.0; U; nl Presto/2.6.30 /10.60"
-	"/10.60 Windows NT 5.1; U; zh- Presto/2.6.30 /10.60"
-	"/10.60 Windows NT 5.1; U; -US Presto/2.6.30 /10.60"
-	"/9.80 X11; Linux i686; U;  Presto/2.5.24 /10.54"
-	"/9.80 X11; Linux i686; U; -GB Presto/2.5.24 /10.53"
-	"/5.0 Windows NT 5.1; U; zh-; rv:1.9.1.6 Gecko/20091201 Firefox/3.5.6  10.53"
-	"/5.0 Windows NT 5.1; U; Firefox/5.0; ; rv:1.9.1.6 Gecko/20091201 Firefox/3.5.6  10.53"
-	"/5.0 Windows NT 5.1; U; Firefox/4.5; ; rv:1.9.1.6 Gecko/20091201 Firefox/3.5.6  10.53"
-	"/5.0 Windows NT 5.1; U; Firefox/3.5; ; rv:1.9.1.6 Gecko/20091201 Firefox/3.5.6  10.53"
-	"/4.0 ; MSIE 8.0; Windows NT 5.1; ko  10.53"
-	"/9.80 Windows NT 6.1; U; fr Presto/2.5.24 /10.52"
-	"/9.80 Windows NT 6.1; U;  Presto/2.5.22 /10.51"
-	"/9.80 Windows NT 6.0; U; cs Presto/2.5.22 /10.51"
-	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"
-	"/9.80 Linux i686; U;  Presto/2.5.22 /10.51"
-	"/5.0 Windows NT 6.1; U; -GB; rv:1.9.1.6 Gecko/20091201 Firefox/3.5.6  10.51"
-	"/5.0 Linux i686; U; ; rv:1.9.1.6 Gecko/20091201 Firefox/3.5.6  10.51"
-	"/4.0 ; MSIE 8.0; Linux i686;   10.51"
-	"/9.80 Windows NT 6.1; U; zh-tw Presto/2.5.22 /10.50"
-	"/9.80 Windows NT 6.1; U; zh- Presto/2.5.22 /10.50"
-	"/9.80 Windows NT 6.1; U; sk Presto/2.6.22 /10.50"
-	"/9.80 Windows NT 6.1; U;  Presto/2.5.22 /10.50"
-	"/9.80 Windows NT 6.0; U; zh- Presto/2.5.22 /10.50"
-	"/9.80 Windows NT 5.1; U; sk Presto/2.5.22 /10.50"
-	"/9.80 Windows NT 5.1; U;  Presto/2.5.22 /10.50"
-	"/10.50 Windows NT 6.1; U; -GB Presto/2.2.2"
-	"/9.80 S60; SymbOS;  /9174; U;  Presto/2.7.81 /10.5"
-	"/9.80 X11; U; Linux i686; -US; rv:1.9.2.3 Presto/2.2.15 /10.10"
-	"/9.80 X11; Linux x86_64; U;  Presto/2.2.15 /10.10"
-	"/9.80 Windows NT 6.1; U;  Presto/2.2.15 /10.10"
-	"/9.80 Windows NT 6.0; U; Gecko/20100115; pl Presto/2.2.15 /10.10"
-	"/9.80 Windows NT 6.0; U;  Presto/2.2.15 /10.10"
-	"/9.80 Windows NT 5.1; U;  Presto/2.2.15 /10.10"
-	"/9.80 Windows NT 5.1; U; cs Presto/2.2.15 /10.10"
-	"/5.0 Windows NT 6.0; U; tr; rv:1.8.1 Gecko/20061208 Firefox/2.0.0  10.10"
-	"/4.0 ; MSIE 6.0; X11; Linux i686;   10.10"
-	"/4.0 ; MSIE 6.0; Windows NT 6.0; tr  10.10"
-	"/9.80 X11; Linux x86_64; U; -GB Presto/2.2.15 /10.01"
-	"/9.80 X11; Linux x86_64; U;  Presto/2.2.15 /10.00"
-	"/9.80 X11; Linux x86_64; U;  Presto/2.2.15 /10.00"
-	"/9.80 X11; Linux i686; U;  Presto/2.2.15 /10.00"
-	"/9.80 X11; Linux i686; U; -BR Presto/2.2.15 /10.00"
-	"/9.80 X11; Linux i686; U; pl Presto/2.2.15 /10.00"
-	"/9.80 X11; Linux i686; U; nb Presto/2.2.15 /10.00"
-	"/9.80 X11; Linux i686; U; -GB Presto/2.2.15 /10.00"
-	"/9.80 X11; Linux i686; U;  Presto/2.2.15 /10.00"
-	"/9.80 X11; Linux i686; U; ; pl Presto/2.2.15 /10.00"
-	"/9.80 X11; Linux i686; U;  Presto/2.2.15 /10.00"
-	"/9.80 Windows NT 6.1; U; zh- Presto/2.2.15 /10.00"
-	"/9.80 Windows NT 6.1; U; fi Presto/2.2.15 /10.00"
-	"/9.80 Windows NT 6.1; U;  Presto/2.2.15 /10.00"
-	"/9.80 Windows NT 6.1; U;  Presto/2.2.15 /10.00"
-	"/9.80 Windows NT 6.1; U; cs Presto/2.2.15 /10.00"
-	"/9.80 Windows NT 6.0; U;  Presto/2.2.15 /10.00"
-	"/9.80 Windows NT 6.0; U;  Presto/2.2.15 /10.00"
-	"/9.80 Windows NT 5.2; U;  Presto/2.2.15 /10.00"
-	"/9.80 Windows NT 5.1; U; zh- Presto/2.2.15 /10.00"
-	"/9.80 Windows NT 5.1; U;  Presto/2.2.15 /10.00"
-	"/9.99 X11; U; sk"
-	"/9.99 Windows NT 5.1; U; pl Presto/9.9.9"
-	"/9.80 J2ME/MIDP;  Mini/5.0 Windows; U; Windows NT 5.1;  /886; U;  Presto/2.4.15"
-	"/9.70 Linux ppc64 ; U;  Presto/2.2.1"
-	"/9.70 Linux i686 ; U; zh- Presto/2.2.0"
-	"/9.70 Linux i686 ; U; -us Presto/2.2.0"
-	"/9.70 Linux i686 ; U;  Presto/2.2.1"
-	"/9.70 Linux i686 ; U;  Presto/2.2.0"
-	"/9.70 Linux i686 ; U; ;  Presto/2.2.1"
-	"/9.70 Linux i686 ; U;  ;  Presto/2.2.1"
-	"/5.0 Linux i686 ; U; ; rv:1.8.1 Gecko/20061208 Firefox/2.0.0  9.70"
-	"/4.0 ; MSIE 6.0; Linux i686 ;   9.70"
-	"HTC_HD2_T8585 /9.70 Windows NT 5.1; U; "
-	" 9.7 Windows NT 5.2; U; "
-	"/9.64Windows NT 5.1; U;  Presto/2.1.1"
-	"/9.64 X11; Linux x86_64; U; pl Presto/2.1.1"
-	"/9.64 X11; Linux x86_64; U; hr Presto/2.1.1"
-	"/9.64 X11; Linux x86_64; U; -GB Presto/2.1.1"
-	"/9.64 X11; Linux x86_64; U;  Presto/2.1.1"
-	"/9.64 X11; Linux x86_64; U;  Presto/2.1.1"
-	"/9.64 X11; Linux x86_64; U; cs Presto/2.1.1"
-	"/9.64 X11; Linux i686; U; tr Presto/2.1.1"
-	"/9.64 X11; Linux i686; U; sv Presto/2.1.1"
-	"/9.64 X11; Linux i686; U; pl Presto/2.1.1"
-	"/9.64 X11; Linux i686; U; nb Presto/2.1.1"
-	"/9.64 X11; Linux i686; U; Linux ; nb Presto/2.1.1"
-	"/9.64 X11; Linux i686; U; Linux ;  Presto/2.1.1"
-	"/9.64 X11; Linux i686; U;  Presto/2.1.1"
-	"/9.64 X11; Linux i686; U;  Presto/2.1.1"
-	"/9.64 X11; Linux i686; U;  Presto/2.1.1"
-	"/9.64 Windows NT 6.1; U; MRA 5.5  02842;  Presto/2.1.1"
-	"/9.64 Windows NT 6.1; U;  Presto/2.1.1"
-	"/9.64 Windows NT 6.0; U; zh- Presto/2.1.1"
-	"/9.64 Windows NT 6.0; U; pl Presto/2.1.1"
-	"/9.63 X11; Linux x86_64; U;  Presto/2.1.1"
-	"/9.63 X11; Linux x86_64; U; cs Presto/2.1.1"
-	"/9.63 X11; Linux i686; U;  Presto/2.1.1"
-	"/9.63 X11; Linux i686; U; "
-	"/9.63 X11; Linux i686; U; nb Presto/2.1.1"
-	"/9.63 X11; Linux i686; U; "
-	"/9.63 X11; Linux i686; U;  Presto/2.1.1"
-	"/9.63 X11; Linux i686"
-	"/9.63 X11; FreeBSD 7.1-RELEASE i386; U;  Presto/2.1.1"
-	"/9.63 Windows NT 6.1; U;  Presto/2.1.1"
-	"/9.63 Windows NT 6.1; U;  Presto/2.1.1"
-	"/9.63 Windows NT 6.1; U;  Presto/2.1.1"
-	"/9.63 Windows NT 6.0; U; pl Presto/2.1.1"
-	"/9.63 Windows NT 6.0; U; nb Presto/2.1.1"
-	"/9.63 Windows NT 6.0; U; fr Presto/2.1.1"
-	"/9.63 Windows NT 6.0; U;  Presto/2.1.1"
-	"/9.63 Windows NT 6.0; U; cs Presto/2.1.1"
-	"/9.63 Windows NT 5.2; U;  Presto/2.1.1"
-	"/9.63 Windows NT 5.2; U;  Presto/2.1.1"
-	"/9.63 Windows NT 5.1; U; -BR Presto/2.1.1"
-	"/9.62 X11; Linux x86_64; U;  Presto/2.1.1"
-	"/9.62 X11; Linux x86_64; U; en_GB, en_US Presto/2.1.1"
-	"/9.62 X11; Linux i686; U; -BR Presto/2.1.1"
-	"/9.62 X11; Linux i686; U; Linux ;  Presto/2.1.1"
-	"/9.62 X11; Linux i686; U;  Presto/2.1.1"
-	"/9.62 X11; Linux i686; U; fi Presto/2.1.1"
-	"/9.62 X11; Linux i686; U;  Presto/2.1.1"
-	"/9.62 Windows NT 6.1; U;  Presto/2.1.1"
-	"/9.62 Windows NT 6.1; U;  Presto/2.1.1"
-	"/9.62 Windows NT 6.0; U; pl Presto/2.1.1"
-	"/9.62 Windows NT 6.0; U; nb Presto/2.1.1"
-	"/9.62 Windows NT 6.0; U; -GB Presto/2.1.1"
-	"/9.62 Windows NT 6.0; U;  Presto/2.1.1"
-	"/9.62 Windows NT 6.0; U;  Presto/2.1.1"
-	"/9.62 Windows NT 5.2; U;  Presto/2.1.1"
-	"/9.62 Windows NT 5.1; U; zh-tw Presto/2.1.1"
-	"/9.62 Windows NT 5.1; U; zh- Presto/2.1.1"
-	"/9.62 Windows NT 5.1; U; tr Presto/2.1.1"
-	"/9.62 Windows NT 5.1; U;  Presto/2.1.1"
-	"/9.62 Windows NT 5.1; U; -BR Presto/2.1.1"
-	"/9.61 X11; Linux x86_64; U; fr Presto/2.1.1"
-	"/9.61 X11; Linux i686; U;  Presto/2.1.1"
-	"/9.61 X11; Linux i686; U; pl Presto/2.1.1"
-	"/9.61 X11; Linux i686; U;  Presto/2.1.1"
-	"/9.61 X11; Linux i686; U;  Presto/2.1.1"
-	"/9.61 Windows NT 6.0; U;  Presto/2.1.1"
-	"/9.61 Windows NT 6.0; U; -BR Presto/2.1.1"
-	"/9.61 Windows NT 6.0; U; ://lucideer.com; -GB Presto/2.1.1"
-	"/9.61 Windows NT 6.0; U;  Presto/2.1.1"
-	"/9.61 Windows NT 5.2; U;  Presto/2.1.1"
-	"/9.61 Windows NT 5.1; U; zh-tw Presto/2.1.1"
-	"/9.61 Windows NT 5.1; U; zh- Presto/2.1.1"
-	"/9.61 Windows NT 5.1; U;  Presto/2.1.1"
-	"/9.61 Windows NT 5.1; U; fr Presto/2.1.1"
+	"/9.80 Windows NT 5.1; U; MRA 5.6  03278;  Presto/2.6.30 /10.63",
+	"/9.80 Windows NT 5.1; U; pl Presto/2.6.30 /10.62",
+	"/9.80 X11; Linux i686; U; es-ES Presto/2.6.30 /10.61",,
+	"/9.80 Windows NT 6.1; U; zh- Presto/2.6.30 /10.61",
+	"/9.80 Windows NT 6.1; U;  Presto/2.6.30 /10.61",
+	"/9.80 Windows NT 6.0; U;  Presto/2.6.30 /10.61",
+	"/9.80 Windows NT 5.2; U;  Presto/2.6.30 /10.61",
+	"/9.80 Windows 98; U;  Presto/2.6.30 /10.61",
+	"/9.80 Macintosh; Intel Mac OS X; U; nl Presto/2.6.30 /10.61",
+	"/9.80 X11; Linux i686; U;  Presto/2.5.27 /10.60",
+	"/9.80 Windows NT 6.0; U; nl Presto/2.6.30 /10.60",
+	"/10.60 Windows NT 5.1; U; zh- Presto/2.6.30 /10.60",
+	"/10.60 Windows NT 5.1; U; -US Presto/2.6.30 /10.60",
+	"/9.80 X11; Linux i686; U;  Presto/2.5.24 /10.54",
+	"/9.80 X11; Linux i686; U; -GB Presto/2.5.24 /10.53",
+	"/5.0 Windows NT 5.1; U; zh-; rv:1.9.1.6 Gecko/20091201 Firefox/3.5.6  10.53",
+	"/5.0 Windows NT 5.1; U; Firefox/5.0; ; rv:1.9.1.6 Gecko/20091201 Firefox/3.5.6  10.53",
+	"/5.0 Windows NT 5.1; U; Firefox/4.5; ; rv:1.9.1.6 Gecko/20091201 Firefox/3.5.6  10.53",
+	"/5.0 Windows NT 5.1; U; Firefox/3.5; ; rv:1.9.1.6 Gecko/20091201 Firefox/3.5.6  10.53",
+	"/4.0 ; MSIE 8.0; Windows NT 5.1; ko  10.53",
+	"/9.80 Windows NT 6.1; U; fr Presto/2.5.24 /10.52",
+	"/9.80 Windows NT 6.1; U;  Presto/2.5.22 /10.51",
+	"/9.80 Windows NT 6.0; U; cs Presto/2.5.22 /10.51",
+	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51",
+	"/9.80 Linux i686; U;  Presto/2.5.22 /10.51",
+	"/5.0 Windows NT 6.1; U; -GB; rv:1.9.1.6 Gecko/20091201 Firefox/3.5.6  10.51",
+	"/5.0 Linux i686; U; ; rv:1.9.1.6 Gecko/20091201 Firefox/3.5.6  10.51",
+	"/4.0 ; MSIE 8.0; Linux i686;   10.51",
+	"/9.80 Windows NT 6.1; U; zh-tw Presto/2.5.22 /10.50",
+	"/9.80 Windows NT 6.1; U; zh- Presto/2.5.22 /10.50",
+	"/9.80 Windows NT 6.1; U; sk Presto/2.6.22 /10.50",
+	"/9.80 Windows NT 6.1; U;  Presto/2.5.22 /10.50",
+	"/9.80 Windows NT 6.0; U; zh- Presto/2.5.22 /10.50",
+	"/9.80 Windows NT 5.1; U; sk Presto/2.5.22 /10.50",
+	"/9.80 Windows NT 5.1; U;  Presto/2.5.22 /10.50",
+	"/10.50 Windows NT 6.1; U; -GB Presto/2.2.2",
+	"/9.80 S60; SymbOS;  /9174; U;  Presto/2.7.81 /10.5",
+	"/9.80 X11; U; Linux i686; -US; rv:1.9.2.3 Presto/2.2.15 /10.10",
+	"/9.80 X11; Linux x86_64; U;  Presto/2.2.15 /10.10",
+	"/9.80 Windows NT 6.1; U;  Presto/2.2.15 /10.10",
+	"/9.80 Windows NT 6.0; U; Gecko/20100115; pl Presto/2.2.15 /10.10",
+	"/9.80 Windows NT 6.0; U;  Presto/2.2.15 /10.10",
+	"/9.80 Windows NT 5.1; U;  Presto/2.2.15 /10.10",
+	"/9.80 Windows NT 5.1; U; cs Presto/2.2.15 /10.10",
+	"/5.0 Windows NT 6.0; U; tr; rv:1.8.1 Gecko/20061208 Firefox/2.0.0  10.10",
+	"/4.0 ; MSIE 6.0; X11; Linux i686;   10.10",
+	"/4.0 ; MSIE 6.0; Windows NT 6.0; tr  10.10",
+	"/9.80 X11; Linux x86_64; U; -GB Presto/2.2.15 /10.01",
+	"/9.80 X11; Linux x86_64; U;  Presto/2.2.15 /10.00",
+	"/9.80 X11; Linux x86_64; U;  Presto/2.2.15 /10.00",
+	"/9.80 X11; Linux i686; U;  Presto/2.2.15 /10.00",
+	"/9.80 X11; Linux i686; U; -BR Presto/2.2.15 /10.00",
+	"/9.80 X11; Linux i686; U; pl Presto/2.2.15 /10.00",
+	"/9.80 X11; Linux i686; U; nb Presto/2.2.15 /10.00",
+	"/9.80 X11; Linux i686; U; -GB Presto/2.2.15 /10.00",
+	"/9.80 X11; Linux i686; U;  Presto/2.2.15 /10.00",
+	"/9.80 X11; Linux i686; U; ; pl Presto/2.2.15 /10.00",
+	"/9.80 X11; Linux i686; U;  Presto/2.2.15 /10.00",
+	"/9.80 Windows NT 6.1; U; zh- Presto/2.2.15 /10.00",
+	"/9.80 Windows NT 6.1; U; fi Presto/2.2.15 /10.00",
+	"/9.80 Windows NT 6.1; U;  Presto/2.2.15 /10.00",
+	"/9.80 Windows NT 6.1; U;  Presto/2.2.15 /10.00",
+	"/9.80 Windows NT 6.1; U; cs Presto/2.2.15 /10.00",
+	"/9.80 Windows NT 6.0; U;  Presto/2.2.15 /10.00",
+	"/9.80 Windows NT 6.0; U;  Presto/2.2.15 /10.00",
+	"/9.80 Windows NT 5.2; U;  Presto/2.2.15 /10.00",
+	"/9.80 Windows NT 5.1; U; zh- Presto/2.2.15 /10.00",
+	"/9.80 Windows NT 5.1; U;  Presto/2.2.15 /10.00",
+	"/9.99 X11; U; sk",
+	"/9.99 Windows NT 5.1; U; pl Presto/9.9.9",
+	"/9.80 J2ME/MIDP;  Mini/5.0 Windows; U; Windows NT 5.1;  /886; U;  Presto/2.4.15",
+	"/9.70 Linux ppc64 ; U;  Presto/2.2.1",
+	"/9.70 Linux i686 ; U; zh- Presto/2.2.0",
+	"/9.70 Linux i686 ; U; -us Presto/2.2.0",
+	"/9.70 Linux i686 ; U;  Presto/2.2.1",
+	"/9.70 Linux i686 ; U;  Presto/2.2.0",
+	"/9.70 Linux i686 ; U; ;  Presto/2.2.1",
+	"/9.70 Linux i686 ; U;  ;  Presto/2.2.1",
+	"/5.0 Linux i686 ; U; ; rv:1.8.1 Gecko/20061208 Firefox/2.0.0  9.70",
+	"/4.0 ; MSIE 6.0; Linux i686 ;   9.70",
+	"HTC_HD2_T8585 /9.70 Windows NT 5.1; U; ",
+	" 9.7 Windows NT 5.2; U; ",
+	"/9.64Windows NT 5.1; U;  Presto/2.1.1",
+	"/9.64 X11; Linux x86_64; U; pl Presto/2.1.1",
+	"/9.64 X11; Linux x86_64; U; hr Presto/2.1.1",
+	"/9.64 X11; Linux x86_64; U; -GB Presto/2.1.1",
+	"/9.64 X11; Linux x86_64; U;  Presto/2.1.1",
+	"/9.64 X11; Linux x86_64; U;  Presto/2.1.1",
+	"/9.64 X11; Linux x86_64; U; cs Presto/2.1.1",
+	"/9.64 X11; Linux i686; U; tr Presto/2.1.1",
+	"/9.64 X11; Linux i686; U; sv Presto/2.1.1",
+	"/9.64 X11; Linux i686; U; pl Presto/2.1.1",
+	"/9.64 X11; Linux i686; U; nb Presto/2.1.1",
+	"/9.64 X11; Linux i686; U; Linux ; nb Presto/2.1.1",
+	"/9.64 X11; Linux i686; U; Linux ;  Presto/2.1.1",
+	"/9.64 X11; Linux i686; U;  Presto/2.1.1",
+	"/9.64 X11; Linux i686; U;  Presto/2.1.1",
+	"/9.64 X11; Linux i686; U;  Presto/2.1.1",
+	"/9.64 Windows NT 6.1; U; MRA 5.5  02842;  Presto/2.1.1",
+	"/9.64 Windows NT 6.1; U;  Presto/2.1.1",
+	"/9.64 Windows NT 6.0; U; zh- Presto/2.1.1",
+	"/9.64 Windows NT 6.0; U; pl Presto/2.1.1",
+	"/9.63 X11; Linux x86_64; U;  Presto/2.1.1",
+	"/9.63 X11; Linux x86_64; U; cs Presto/2.1.1",
+	"/9.63 X11; Linux i686; U;  Presto/2.1.1",
+	"/9.63 X11; Linux i686; U; ",
+	"/9.63 X11; Linux i686; U; nb Presto/2.1.1",
+	"/9.63 X11; Linux i686; U; ",
+	"/9.63 X11; Linux i686; U;  Presto/2.1.1",
+	"/9.63 X11; Linux i686",
+	"/9.63 X11; FreeBSD 7.1-RELEASE i386; U;  Presto/2.1.1",
+	"/9.63 Windows NT 6.1; U;  Presto/2.1.1",
+	"/9.63 Windows NT 6.1; U;  Presto/2.1.1",
+	"/9.63 Windows NT 6.1; U;  Presto/2.1.1",
+	"/9.63 Windows NT 6.0; U; pl Presto/2.1.1",
+	"/9.63 Windows NT 6.0; U; nb Presto/2.1.1",
+	"/9.63 Windows NT 6.0; U; fr Presto/2.1.1",
+	"/9.63 Windows NT 6.0; U;  Presto/2.1.1",
+	"/9.63 Windows NT 6.0; U; cs Presto/2.1.1",
+	"/9.63 Windows NT 5.2; U;  Presto/2.1.1",
+	"/9.63 Windows NT 5.2; U;  Presto/2.1.1",
+	"/9.63 Windows NT 5.1; U; -BR Presto/2.1.1",
+	"/9.62 X11; Linux x86_64; U;  Presto/2.1.1",
+	"/9.62 X11; Linux x86_64; U; en_GB, en_US Presto/2.1.1",
+	"/9.62 X11; Linux i686; U; -BR Presto/2.1.1",
+	"/9.62 X11; Linux i686; U; Linux ;  Presto/2.1.1",
+	"/9.62 X11; Linux i686; U;  Presto/2.1.1",
+	"/9.62 X11; Linux i686; U; fi Presto/2.1.1",
+	"/9.62 X11; Linux i686; U;  Presto/2.1.1",
+	"/9.62 Windows NT 6.1; U;  Presto/2.1.1",
+	"/9.62 Windows NT 6.1; U;  Presto/2.1.1",
+	"/9.62 Windows NT 6.0; U; pl Presto/2.1.1",
+	"/9.62 Windows NT 6.0; U; nb Presto/2.1.1",
+	"/9.62 Windows NT 6.0; U; -GB Presto/2.1.1",
+	"/9.62 Windows NT 6.0; U;  Presto/2.1.1",
+	"/9.62 Windows NT 6.0; U;  Presto/2.1.1",
+	"/9.62 Windows NT 5.2; U;  Presto/2.1.1",
+	"/9.62 Windows NT 5.1; U; zh-tw Presto/2.1.1",
+	"/9.62 Windows NT 5.1; U; zh- Presto/2.1.1",
+	"/9.62 Windows NT 5.1; U; tr Presto/2.1.1",
+	"/9.62 Windows NT 5.1; U;  Presto/2.1.1",
+	"/9.62 Windows NT 5.1; U; -BR Presto/2.1.1",
+	"/9.61 X11; Linux x86_64; U; fr Presto/2.1.1",
+	"/9.61 X11; Linux i686; U;  Presto/2.1.1",
+	"/9.61 X11; Linux i686; U; pl Presto/2.1.1",
+	"/9.61 X11; Linux i686; U;  Presto/2.1.1",
+	"/9.61 X11; Linux i686; U;  Presto/2.1.1",
+,	"/9.61 Windows NT 6.0; U;  Presto/2.1.1",
+	"/9.61 Windows NT 6.0; U; -BR Presto/2.1.1",
+	"/9.61 Windows NT 6.0; U; ://lucideer.com; -GB Presto/2.1.1",
+	"/9.61 Windows NT 6.0; U;  Presto/2.1.1",
+	"/9.61 Windows NT 5.2; U;  Presto/2.1.1",
+	"/9.61 Windows NT 5.1; U; zh-tw Presto/2.1.1",
+	"/9.61 Windows NT 5.1; U; zh- Presto/2.1.1",
+	"/9.61 Windows NT 5.1; U;  Presto/2.1.1",
+	"/9.61 Windows NT 5.1; U; fr Presto/2.1.1",
 	"/9.61 Windows NT 5.1; U; -GB Presto/2.1.1"
-	"/9.61 Windows NT 5.1; U;  Presto/2.1.1"
-	"/9.61 Windows NT 5.1; U;  Presto/2.1.1"
+	"/9.61 Windows NT 5.1; U;  Presto/2.1.1",
+	"/9.61 Windows NT 5.1; U;  Presto/2.1.1",
 	"/9.61 Windows NT 5.1; U; cs Presto/2.1.1"
 	"/9.61 Macintosh; Intel Mac OS X; U;  Presto/2.1.1"
 	"/5.0 Windows NT 5.1; U; -GB; rv:1.8.1 Gecko/20061208 Firefox/2.0.0  9.61"
@@ -909,7 +909,7 @@ ua = ["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.
 	"/4.0 ; MSIE 6.0; Windows NT 5.1;   8.01"
 	"/4.0 ; MSIE 6.0; Windows NT 5.1;   8.01"
 	"/8.00 Windows NT 5.1; U; "
-	"/4.0 ; MSIE 6.0; Windows NT 5.1;   8.00"
+,	"/4.0 ; MSIE 6.0; Windows NT 5.1;   8.00"
 	"/8.0 X11; Linux i686; U; cs"
 	"/8.0 Windows NT 5.1; U; "
 	"/5.0 Windows NT 5.1; U;   8.0"
@@ -6468,1768 +6468,1767 @@ ua = ["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.
 	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7"
 	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0"
 	"/1.22 ; MSIE 2.0; Windows 3.1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322"
-	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/7.0 ; MSIE 2.0; Windows 3.1"
-	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10"
-	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;"
-	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007"
-	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2"
-	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15"
-	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57"
-	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0"
-	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0"
-	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/"
-	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1"
-	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125"
-	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1"
-	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2"
-	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US"
-	"Links 2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25"
-	"/4.0 ; MSIE 6.0; Windows NT 5.0; WOW64; /4.0; SLCC1"
-	"/1.22 ; Konqueror/4.3; Linux KHTML/4.3.5  Gecko"
-	"/4.0 ; MSIE 6.0; Windows CE;  6.5"
-	"/9.80 Macintosh; U; - Presto/2.8.131 /11.10"
-	"/5.0 X11; U; Linux i686; -US; rv:1.9.1.9 Gecko/20100318 /2.0.4-69.1mib2010.0 SeaMonkey/2.0.4"
-	"/4.0 ; MSIE 6.1; Windows XP Gecko/20060706 /7.0"
-	"/5.0 ; U; CPU OS 3_2  Mac OS X; -us /531.21.10 KHTML,  Gecko /4.0.4 /7B334b Safari/531.21.10"
-	"/5.0 Macintosh; I; Intel Mac OS X 10_6_7; -"
-	"/5.0 ; MSIE 9.0; Windows NT 6.1; /5.0"
+	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322",
+	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/7.0 ; MSIE 2.0; Windows 3.1",
+	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10",
+	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;",
+	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007",
+	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E",
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1",
+	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2",
+	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15",
+	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57",
+	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0",
+	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0",
+	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/",
+	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1",
+	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125",
+	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1",
+	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2",
+	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
+	"Links 2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25",
+	"/4.0 ; MSIE 6.0; Windows NT 5.0; WOW64; /4.0; SLCC1",
+	"/1.22 ; Konqueror/4.3; Linux KHTML/4.3.5  Gecko",
+	"/4.0 ; MSIE 6.0; Windows CE;  6.5",
+	"/9.80 Macintosh; U; - Presto/2.8.131 /11.10",
+	"/5.0 X11; U; Linux i686; -US; rv:1.9.1.9 Gecko/20100318 /2.0.4-69.1mib2010.0 SeaMonkey/2.0.4",
+	"/4.0 ; MSIE 6.1; Windows XP Gecko/20060706 /7.0",
+	"/5.0 ; U; CPU OS 3_2  Mac OS X; -us /531.21.10 KHTML,  Gecko /4.0.4 /7B334b Safari/531.21.10",
+	"/5.0 Macintosh; I; Intel Mac OS X 10_6_7; -",
+	"/5.0 ; MSIE 9.0; Windows NT 6.1; /5.0",
 	"/1.22 ; MSIE 6.0; Windows NT 6.1; /4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;  Center PC 6.0; OfficeLiveConnector.1.4; OfficeLivePatch.1.3"
-	"/5.0 ; /3.0; +://yandex.com/bots"
-	"/4.0 Macintosh; U; Intel Mac OS X 10_6_7; -US /534.16 KHTML,  Gecko /10.0.648.205 Safari/534.16"
-	"/1.22 X11; U; Linux x86_64; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1"
-	"/5.0 ; MSIE 2.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.2"
-	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"
-	"/5.0 ; MSIE 2.0; Windows CE;  7.0"
-	"/4.0 Macintosh; U; PPC Mac OS X; -US"
-	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7"
-	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0"
-	"/1.22 ; MSIE 2.0; Windows 3.1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322"
-	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/7.0 ; MSIE 2.0; Windows 3.1"
-	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10"
-	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;"
-	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007"
-	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179"
-	"/5.0 ; 008/0.83; ://www.80legs.com/webcrawler.html Gecko/2008032620"
-	"/4.0 ; MSIE 7.0; Windows NT 6.0  www.idealobserver.com"
-	"/5.0 ; /1.0; +://www.anyapex.com/.html"
-	"/4.0 ; Arachmo"
-	"/4.0 ; B-l-i--z-B-O-T"
-	"/5.0 ; Baiduspider/2.0; +://.com/search/spider.html"
-	"/5.0 ; Baiduspider/2.0; +://.com/search/spider.html"
-	"/5.0 ; /2.3; MSIE 6.0 ; +://.com/site_owners.html"
+	"/5.0 ; /3.0; +://yandex.com/bots",
+	"/4.0 Macintosh; U; Intel Mac OS X 10_6_7; -US /534.16 KHTML,  Gecko /10.0.648.205 Safari/534.16",
+	"/1.22 X11; U; Linux x86_64; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1",
+	"/5.0 ; MSIE 2.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.2",
+	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51",
+	"/5.0 ; MSIE 2.0; Windows CE;  7.0",
+	"/4.0 Macintosh; U; PPC Mac OS X; -US",
+	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7",
+	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0",
+	"/1.22 ; MSIE 2.0; Windows 3.1",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322",
+	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/7.0 ; MSIE 2.0; Windows 3.1",
+	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10",
+	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;",
+	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007",
+	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179",
+	"/5.0 ; 008/0.83; ://www.80legs.com/webcrawler.html Gecko/2008032620",
+	"/4.0 ; MSIE 7.0; Windows NT 6.0  www.idealobserver.com",
+	"/5.0 ; /1.0; +://www.anyapex.com/.html",
+	"/4.0 ; Arachmo",
+	"/4.0 ; B-l-i--z-B-O-T",
+	"/5.0 ; Baiduspider/2.0; +://.com/search/spider.html",
+	"/5.0 ; Baiduspider/2.0; +://.com/search/spider.html",
+	"/5.0 ; /2.3; MSIE 6.0 ; +://.com/site_owners.html",
 	"/1.0 +://.com/crawler/"
-	"/5.0 ; /2.0; +://.com/.htm"
-	"Sqworm/2.9.85-BETA beta_release; 20011115-775; i686-pc-linux-"
-	"/5.0 ; YandexImages/3.0; +://yandex.com/bots"
-	"/5.0 ; Yahoo! ; ://.yahoo.com//us/ysearch/"
-	"/5.0 ; /1.0; ://www.yodao.com//webmaster/spider/; "
-	"/5.0 ; /1.0; ://www.yodao.com//webmaster/spider/; "
-	"/4.0  /1.0  Link Checker @; ://.com"
-	"/4.0  /1.0  Link Checker .dlc@; ://.com"
-	"/4.0  /1.0 -@; ://.com"
-	"/5.0 ; U;  0.6;  /420+ KHTML,  Gecko"
-	"/5.0 ; MSIE 8.0; Windows NT 6.0; /4.0; Acoo Browser 1.98.744; .NET CLR 3.5.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; Acoo Browser; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729;  Browser"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; Acoo Browser; GTB6; /4.0 ; MSIE 6.0; Windows NT 5.1; SV1 ; InfoPath.1; .NET CLR 3.5.30729; .NET CLR 3.0.30618"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; Acoo Browser; .NET CLR 1.1.4322; .NET CLR 2.0.50727"
-	"/5.0 Macintosh; U; PPC Mac OS X;  /419 KHTML,  Gecko, Safari/419.3 /1.0.ALPHA"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.2 KHTML,  Gecko ChromePlus/4.0.222.3 /4.0.222.3 Safari/532.2"
-	"/5.0 Windows; U; Windows NT 6.1; -US /534.10 KHTML,  Gecko /8.0.552.215 Safari/534.10 ChromePlus/1.5.1.1"
-	"Links 2.7; Linux 3.7.9-2-ARCH x86_64; GNU C 4.7.1; "
-	"/5.0 Macintosh; Intel Mac OS X 10_9_3 /537.75.14 KHTML,  Gecko /7.0.3 Safari/7046A194A"
-	"/5.0 PLAYSTATION 3; 3.55"
-	"/5.0 PLAYSTATION 3; 2.00"
-	"/5.0 PLAYSTATION 3; 1.00"
-	"/5.0 Windows NT 6.3; WOW64; rv:24.0 Gecko/20100101 /24.4.0"
-	"/5.0 ; /1.0; +://www.abilogic.com/.html"
-	"SiteBar/3.3.8 Bookmark Server; :///"
-	"iTunes/9.0.3 Macintosh; U; Intel Mac OS X 10_6_2; -"
-	"iTunes/9.0.3 Macintosh; U; Intel Mac OS X 10_6_2; -"
-	"/4.0 ;  3.0; Macintosh"
-	"/5.0 Windows; U; Windows NT 5.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/3.6.3 FM  4.6.1"
-	"/5.0 Windows; U; Windows NT 5.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/3.6.3 .NET CLR 3.5.30729 Prevx 3.0.5 "
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.8.1.8 Gecko/20071004 Iceweasel/2.0.0.8 -2.0.0.6+2.0.0.8-Oetch1"
-	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.8.0.1 Gecko/20060111 Firefox/1.5.0.1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; {1C69E7AA-C14E-200E-5A77-8EAB2D667A07}"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; acc=baadshah; acc=;  DSL 1.1; "
-	"/4.0 ; MSIE 5.5; Windows 98"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1;   8.51"
-	"/5.0 Windows; U; Windows NT 5.1; -US; rv:1.8.0.1 Gecko/20060111 Firefox/1.5.0.1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; snprtz|S26320700000083|2600# Pack 1#2#5#154321|"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1;  Toolbar; ; .NET CLR 1.1.4322"
-	"/5.0 Macintosh; U; PPC Mac OS X; - /417.9 KHTML,  Gecko Safari/417.8"
-	"/5.0 X11; U; Linux i686; -US; rv:1.7.12 Gecko/20051010 Firefox/1.0.7   1.0.7"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0"
-	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; .NET CLR 2.0.50727; InfoPath.2"
-	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US"
-	"/4.0 ; MSIE 6.1; Windows XP"
-	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2"
-	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15"
-	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57"
-	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0"
-	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0"
-	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/"
-	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1"
-	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125"
-	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1"
-	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2"
-	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US"
-	"Links 2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25"
-	"/4.0 ; MSIE 6.0; Windows NT 5.0; WOW64; /4.0; SLCC1"
-	"/1.22 ; Konqueror/4.3; Linux KHTML/4.3.5  Gecko"
-	"/4.0 ; MSIE 6.0; Windows CE;  6.5"
-	"/9.80 Macintosh; U; - Presto/2.8.131 /11.10"
-	"/5.0 X11; U; Linux i686; -US; rv:1.9.1.9 Gecko/20100318 /2.0.4-69.1mib2010.0 SeaMonkey/2.0.4"
-	"/4.0 ; MSIE 6.1; Windows XP Gecko/20060706 /7.0"
-	"/5.0 ; U; CPU OS 3_2  Mac OS X; -us /531.21.10 KHTML,  Gecko /4.0.4 /7B334b Safari/531.21.10"
-	"/5.0 Macintosh; I; Intel Mac OS X 10_6_7; -"
-	"/5.0 ; MSIE 9.0; Windows NT 6.1; /5.0"
-	"/1.22 ; MSIE 6.0; Windows NT 6.1; /4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;  Center PC 6.0; OfficeLiveConnector.1.4; OfficeLivePatch.1.3"
-	"/5.0 ; /3.0; +://yandex.com/bots"
-	"/4.0 Macintosh; U; Intel Mac OS X 10_6_7; -US /534.16 KHTML,  Gecko /10.0.648.205 Safari/534.16"
-	"/1.22 X11; U; Linux x86_64; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1"
-	"/5.0 ; MSIE 2.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.2"
-	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"
-	"/5.0 ; MSIE 2.0; Windows CE;  7.0"
-	"/4.0 Macintosh; U; PPC Mac OS X; -US"
-	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7"
-	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0"
-	"/1.22 ; MSIE 2.0; Windows 3.1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322"
-	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/7.0 ; MSIE 2.0; Windows 3.1"
-	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10"
-	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;"
-	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007"
-	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179"
-	"/4.0 ; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322"
-	"/2.1 ://.com/.html"
-	"/9.20 Windows NT 6.0; U; "
+	"/5.0 ; /2.0; +://.com/.htm",
+	"Sqworm/2.9.85-BETA beta_release; 20011115-775; i686-pc-linux-",
+	"/5.0 ; YandexImages/3.0; +://yandex.com/bots",
+	"/5.0 ; Yahoo! ; ://.yahoo.com//us/ysearch/",
+	"/5.0 ; /1.0; ://www.yodao.com//webmaster/spider/; ",
+	"/5.0 ; /1.0; ://www.yodao.com//webmaster/spider/; ",
+	"/4.0  /1.0  Link Checker @; ://.com",
+	"/4.0  /1.0  Link Checker .dlc@; ://.com",
+	"/4.0  /1.0 -@; ://.com",
+	"/5.0 ; U;  0.6;  /420+ KHTML,  Gecko",
+	"/5.0 ; MSIE 8.0; Windows NT 6.0; /4.0; Acoo Browser 1.98.744; .NET CLR 3.5.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; Acoo Browser; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729;  Browser",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; Acoo Browser; GTB6; /4.0 ; MSIE 6.0; Windows NT 5.1; SV1 ; InfoPath.1; .NET CLR 3.5.30729; .NET CLR 3.0.30618",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; Acoo Browser; .NET CLR 1.1.4322; .NET CLR 2.0.50727",
+	"/5.0 Macintosh; U; PPC Mac OS X;  /419 KHTML,  Gecko, Safari/419.3 /1.0.ALPHA",
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.2 KHTML,  Gecko ChromePlus/4.0.222.3 /4.0.222.3 Safari/532.2",
+	"/5.0 Windows; U; Windows NT 6.1; -US /534.10 KHTML,  Gecko /8.0.552.215 Safari/534.10 ChromePlus/1.5.1.1",
+	"Links 2.7; Linux 3.7.9-2-ARCH x86_64; GNU C 4.7.1; ",
+	"/5.0 Macintosh; Intel Mac OS X 10_9_3 /537.75.14 KHTML,  Gecko /7.0.3 Safari/7046A194A",
+	"/5.0 PLAYSTATION 3; 3.55",
+	"/5.0 PLAYSTATION 3; 2.00",
+	"/5.0 PLAYSTATION 3; 1.00",
+	"/5.0 Windows NT 6.3; WOW64; rv:24.0 Gecko/20100101 /24.4.0",
+	"/5.0 ; /1.0; +://www.abilogic.com/.html",
+	"SiteBar/3.3.8 Bookmark Server; :///",
+	"iTunes/9.0.3 Macintosh; U; Intel Mac OS X 10_6_2; -",
+	"iTunes/9.0.3 Macintosh; U; Intel Mac OS X 10_6_2; -",
+	"/4.0 ;  3.0; Macintosh",
+	"/5.0 Windows; U; Windows NT 5.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/3.6.3 FM  4.6.1",
+	"/5.0 Windows; U; Windows NT 5.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/3.6.3 .NET CLR 3.5.30729 Prevx 3.0.5 ",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.8.1.8 Gecko/20071004 Iceweasel/2.0.0.8 -2.0.0.6+2.0.0.8-Oetch1",
+	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.8.0.1 Gecko/20060111 Firefox/1.5.0.1",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; {1C69E7AA-C14E-200E-5A77-8EAB2D667A07}",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; acc=baadshah; acc=;  DSL 1.1; ",
+	"/4.0 ; MSIE 5.5; Windows 98",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1;   8.51",
+	"/5.0 Windows; U; Windows NT 5.1; -US; rv:1.8.0.1 Gecko/20060111 Firefox/1.5.0.1",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; snprtz|S26320700000083|2600# Pack 1#2#5#154321|",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1;  Toolbar; ; .NET CLR 1.1.4322",
+	"/5.0 Macintosh; U; PPC Mac OS X; - /417.9 KHTML,  Gecko Safari/417.8",
+	"/5.0 X11; U; Linux i686; -US; rv:1.7.12 Gecko/20051010 Firefox/1.0.7   1.0.7",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1",
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1",
+	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0",
+	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; .NET CLR 2.0.50727; InfoPath.2",
+	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
+	"/4.0 ; MSIE 6.1; Windows XP",
+	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E",
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1",
+	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2",
+	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15",
+	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57",
+	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0",
+	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0",
+	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/",
+	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1",
+	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125",
+	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1",
+	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2",
+	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
+	"Links 2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25",
+	"/4.0 ; MSIE 6.0; Windows NT 5.0; WOW64; /4.0; SLCC1",
+	"/1.22 ; Konqueror/4.3; Linux KHTML/4.3.5  Gecko",
+	"/4.0 ; MSIE 6.0; Windows CE;  6.5",
+	"/9.80 Macintosh; U; - Presto/2.8.131 /11.10",
+	"/5.0 X11; U; Linux i686; -US; rv:1.9.1.9 Gecko/20100318 /2.0.4-69.1mib2010.0 SeaMonkey/2.0.4",
+	"/4.0 ; MSIE 6.1; Windows XP Gecko/20060706 /7.0",
+	"/5.0 ; U; CPU OS 3_2  Mac OS X; -us /531.21.10 KHTML,  Gecko /4.0.4 /7B334b Safari/531.21.10",
+	"/5.0 Macintosh; I; Intel Mac OS X 10_6_7; -",
+	"/5.0 ; MSIE 9.0; Windows NT 6.1; /5.0",
+	"/1.22 ; MSIE 6.0; Windows NT 6.1; /4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;  Center PC 6.0; OfficeLiveConnector.1.4; OfficeLivePatch.1.3",
+	"/5.0 ; /3.0; +://yandex.com/bots",
+	"/4.0 Macintosh; U; Intel Mac OS X 10_6_7; -US /534.16 KHTML,  Gecko /10.0.648.205 Safari/534.16",
+	"/1.22 X11; U; Linux x86_64; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1",
+	"/5.0 ; MSIE 2.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.2",
+	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51",
+	"/5.0 ; MSIE 2.0; Windows CE;  7.0",
+	"/4.0 Macintosh; U; PPC Mac OS X; -US",
+	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7",
+	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0",
+	"/1.22 ; MSIE 2.0; Windows 3.1",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322",
+	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/7.0 ; MSIE 2.0; Windows 3.1",
+	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10",
+	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;",
+	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007",
+	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179",
+	"/4.0 ; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322",
+	"/2.1 ://.com/.html",
+	"/9.20 Windows NT 6.0; U; ",
+	"/5.0 X11; U; Linux i686; -US; rv:1.8.1.1 Gecko/20061205 Iceweasel/2.0.0.1 -2.0.0.1+-2",
+	"/4.0 ; MSIE 7.0; Windows NT 5.1; /4.0; FDM; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 1.1.4322",
+	"/10.00 X11; Linux i686; U;  Presto/2.2.0",
+	"/5.0 Windows; U; Windows NT 6.0; -IL /528.16 KHTML,  Gecko /4.0 Safari/528.16",
+	"/5.0 ; Yahoo! /3.0; ://.yahoo.com//us/ysearch/",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.13 Gecko/20101209 Firefox/3.6.13",
+	"/4.0 ; MSIE 9.0; Windows NT 5.1; /5.0",
+	"/5.0 ; MSIE 8.0; Windows NT 5.1; /4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727",
+	"/4.0 ; MSIE 7.0b; Windows NT 6.0",
+	"/4.0 ; MSIE 6.0b; Windows 98",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/4.0 .NET CLR 3.5.30729",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.8 Gecko/20100804 Gentoo Firefox/3.6.8",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.7 Gecko/20100809 /3.6.7-1.fc14 Firefox/3.6.7",
+	"/5.0 ; /2.1; +://.com/.html",
+	"/5.0 ; Yahoo! ; ://.yahoo.com//us/ysearch/",
+	"YahooSeeker/1.2 ;  4.0; MSIE 5.5; yahooseeker  yahoo-inc  com ; ://.yahoo.com//us///",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1",
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1",
+	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0",
+	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; .NET CLR 2.0.50727; InfoPath.2",
+	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
+	"/4.0 ; MSIE 6.1; Windows XP",
+	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51",
+	"-; +://.com/; : webetrex",
+	"/5.0 ; MSIE 9.0; AOL 9.7;  4343.19; Windows NT 6.1; WOW64; /5.0; FunWebProducts",
+	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.27; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729",
+	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.21; Windows NT 5.1; /4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E",
+	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; GTB7.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729",
+	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E",
+	"/4.0 ; MSIE 7.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E",
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1",
+	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2",
+	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15",
+	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57",
+	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0",
+	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0",
+	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/",
+	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1",
+	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125",
+	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1",
+	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",    
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1",
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1",
+	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0",
+	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; .NET CLR 2.0.50727; InfoPath.2",
+	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
+	"/4.0 ; MSIE 6.1; Windows XP",
+	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E",
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1",
+	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2",,
+	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15",
+	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57",
+	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0",
+	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0",
+	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/",
+	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1",
+	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125",
+	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1",
+	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2",
+	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
+	"Links 2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25",
+	"/4.0 ; MSIE 6.0; Windows NT 5.0; WOW64; /4.0; SLCC1",
+	"/1.22 ; Konqueror/4.3; Linux KHTML/4.3.5  Gecko",
+	"/4.0 ; MSIE 6.0; Windows CE;  6.5",
+	"/9.80 Macintosh; U; - Presto/2.8.131 /11.10",
+	"/5.0 X11; U; Linux i686; -US; rv:1.9.1.9 Gecko/20100318 /2.0.4-69.1mib2010.0 SeaMonkey/2.0.4",
+	"/4.0 ; MSIE 6.1; Windows XP Gecko/20060706 /7.0",
+	"/5.0 ; U; CPU OS 3_2  Mac OS X; -us /531.21.10 KHTML,  Gecko /4.0.4 /7B334b Safari/531.21.10",
+	"/5.0 Macintosh; I; Intel Mac OS X 10_6_7; -",
+	"/5.0 ; MSIE 9.0; Windows NT 6.1; /5.0",
+	"/1.22 ; MSIE 6.0; Windows NT 6.1; /4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;  Center PC 6.0; OfficeLiveConnector.1.4; OfficeLivePatch.1.3",
+	"/5.0 ; /3.0; +://yandex.com/bots",
+	"/4.0 Macintosh; U; Intel Mac OS X 10_6_7; -US /534.16 KHTML,  Gecko /10.0.648.205 Safari/534.16",
+	"/1.22 X11; U; Linux x86_64; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1",
+	"/5.0 ; MSIE 2.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.2",
+	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51",
+	"/5.0 ; MSIE 2.0; Windows CE;  7.0",
+	"/4.0 Macintosh; U; PPC Mac OS X; -US",
+	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7",
+	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0",
+	"/1.22 ; MSIE 2.0; Windows 3.1",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322",
+	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/7.0 ; MSIE 2.0; Windows 3.1",
+	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10",
+	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;",
+	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007",
+	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179",
+	"/4.0 ; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322",
+	"/2.1 ://.com/.html",
+	"/9.20 Windows NT 6.0; U; ",
 	"/5.0 X11; U; Linux i686; -US; rv:1.8.1.1 Gecko/20061205 Iceweasel/2.0.0.1 -2.0.0.1+-2"
-	"/4.0 ; MSIE 7.0; Windows NT 5.1; /4.0; FDM; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 1.1.4322"
-	"/10.00 X11; Linux i686; U;  Presto/2.2.0"
-	"/5.0 Windows; U; Windows NT 6.0; -IL /528.16 KHTML,  Gecko /4.0 Safari/528.16"
-	"/5.0 ; Yahoo! /3.0; ://.yahoo.com//us/ysearch/"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.13 Gecko/20101209 Firefox/3.6.13"
-	"/4.0 ; MSIE 9.0; Windows NT 5.1; /5.0"
-	"/5.0 ; MSIE 8.0; Windows NT 5.1; /4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727"
-	"/4.0 ; MSIE 7.0b; Windows NT 6.0"
-	"/4.0 ; MSIE 6.0b; Windows 98"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/4.0 .NET CLR 3.5.30729"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.8 Gecko/20100804 Gentoo Firefox/3.6.8"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.7 Gecko/20100809 /3.6.7-1.fc14 Firefox/3.6.7"
-	"/5.0 ; /2.1; +://.com/.html"
-	"/5.0 ; Yahoo! ; ://.yahoo.com//us/ysearch/"
-	"YahooSeeker/1.2 ;  4.0; MSIE 5.5; yahooseeker  yahoo-inc  com ; ://.yahoo.com//us///"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0"
-	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; .NET CLR 2.0.50727; InfoPath.2"
-	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US"
-	"/4.0 ; MSIE 6.1; Windows XP"
-	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"
-	"-; +://.com/; : webetrex"
-	"/5.0 ; MSIE 9.0; AOL 9.7;  4343.19; Windows NT 6.1; WOW64; /5.0; FunWebProducts"
-	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.27; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729"
-	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.21; Windows NT 5.1; /4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E"
-	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; GTB7.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729"
-	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E"
-	"/4.0 ; MSIE 7.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2"
-	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15"
-	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57"
-	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0"
-	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0"
-	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/"
-	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1"
-	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125"
-	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1"
+	"/4.0 ; MSIE 7.0; Windows NT 5.1; /4.0; FDM; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 1.1.4322",
+	"/10.00 X11; Linux i686; U;  Presto/2.2.0",
+	"/5.0 Windows; U; Windows NT 6.0; -IL /528.16 KHTML,  Gecko /4.0 Safari/528.16",
+	"/5.0 ; Yahoo! /3.0; ://.yahoo.com//us/ysearch/",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.13 Gecko/20101209 Firefox/3.6.13",
+	"/4.0 ; MSIE 9.0; Windows NT 5.1; /5.0",
+	"/5.0 ; MSIE 8.0; Windows NT 5.1; /4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727",
+	"/4.0 ; MSIE 7.0b; Windows NT 6.0",
+	"/4.0 ; MSIE 6.0b; Windows 98",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/4.0 .NET CLR 3.5.30729",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.8 Gecko/20100804 Gentoo Firefox/3.6.8",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.7 Gecko/20100809 /3.6.7-1.fc14 Firefox/3.6.7",
+	"/5.0 ; /2.1; +://.com/.html",
+	"/5.0 ; Yahoo! ; ://.yahoo.com//us/ysearch/",
+	"YahooSeeker/1.2 ;  4.0; MSIE 5.5; yahooseeker  yahoo-inc  com ; ://.yahoo.com//us///",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1",
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1",
+	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0",
+	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; .NET CLR 2.0.50727; InfoPath.2",
+	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
+	"/4.0 ; MSIE 6.1; Windows XP",
+	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51",
+	"-; +://.com/; : webetrex",
+	"/5.0 ; MSIE 9.0; AOL 9.7;  4343.19; Windows NT 6.1; WOW64; /5.0; FunWebProducts",
+	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.27; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729",
+	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.21; Windows NT 5.1; /4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E",
+	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; GTB7.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729",
+	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E",
+	"/4.0 ; MSIE 7.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E",
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1",
+	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2",
+	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15",
+	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57",
+	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0",
+	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0",
+	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/",
+	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1",
+	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125",
+	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1",
 	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"      
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0"
-	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; .NET CLR 2.0.50727; InfoPath.2"
-	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US"
-	"/4.0 ; MSIE 6.1; Windows XP"
+	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2",
+	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
+	"Links 2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25",
+	"/4.0 ; MSIE 6.0; Windows NT 5.0; WOW64; /4.0; SLCC1",
+	"/1.22 ; Konqueror/4.3; Linux KHTML/4.3.5  Gecko",
+	"/4.0 ; MSIE 6.0; Windows CE;  6.5",
+	"/9.80 Macintosh; U; - Presto/2.8.131 /11.10",
+	"/5.0 X11; U; Linux i686; -US; rv:1.9.1.9 Gecko/20100318 /2.0.4-69.1mib2010.0 SeaMonkey/2.0.4",
+	"/4.0 ; MSIE 6.1; Windows XP Gecko/20060706 /7.0",
+	"/5.0 ; U; CPU OS 3_2  Mac OS X; -us /531.21.10 KHTML,  Gecko /4.0.4 /7B334b Safari/531.21.10",
+	"/5.0 Macintosh; I; Intel Mac OS X 10_6_7; -",
+	"/5.0 ; MSIE 9.0; Windows NT 6.1; /5.0",
+	"/1.22 ; MSIE 6.0; Windows NT 6.1; /4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;  Center PC 6.0; OfficeLiveConnector.1.4; OfficeLivePatch.1.3",
+	"/5.0 ; /3.0; +://yandex.com/bots",
+	"/4.0 Macintosh; U; Intel Mac OS X 10_6_7; -US /534.16 KHTML,  Gecko /10.0.648.205 Safari/534.16",
+	"/1.22 X11; U; Linux x86_64; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1",
+	"/5.0 ; MSIE 2.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.2",
 	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2"
-	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15"
-	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57"
-	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0"
-	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0"
-	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/"
-	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1"
-	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125"
-	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1"
-	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2"
-	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US"
-	"Links 2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25"
-	"/4.0 ; MSIE 6.0; Windows NT 5.0; WOW64; /4.0; SLCC1"
-	"/1.22 ; Konqueror/4.3; Linux KHTML/4.3.5  Gecko"
-	"/4.0 ; MSIE 6.0; Windows CE;  6.5"
-	"/9.80 Macintosh; U; - Presto/2.8.131 /11.10"
-	"/5.0 X11; U; Linux i686; -US; rv:1.9.1.9 Gecko/20100318 /2.0.4-69.1mib2010.0 SeaMonkey/2.0.4"
-	"/4.0 ; MSIE 6.1; Windows XP Gecko/20060706 /7.0"
-	"/5.0 ; U; CPU OS 3_2  Mac OS X; -us /531.21.10 KHTML,  Gecko /4.0.4 /7B334b Safari/531.21.10"
-	"/5.0 Macintosh; I; Intel Mac OS X 10_6_7; -"
-	"/5.0 ; MSIE 9.0; Windows NT 6.1; /5.0"
-	"/1.22 ; MSIE 6.0; Windows NT 6.1; /4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;  Center PC 6.0; OfficeLiveConnector.1.4; OfficeLivePatch.1.3"
-	"/5.0 ; /3.0; +://yandex.com/bots"
-	"/4.0 Macintosh; U; Intel Mac OS X 10_6_7; -US /534.16 KHTML,  Gecko /10.0.648.205 Safari/534.16"
-	"/1.22 X11; U; Linux x86_64; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1"
-	"/5.0 ; MSIE 2.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.2"
-	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"
-	"/5.0 ; MSIE 2.0; Windows CE;  7.0"
-	"/4.0 Macintosh; U; PPC Mac OS X; -US"
-	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7"
-	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0"
-	"/1.22 ; MSIE 2.0; Windows 3.1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322"
-	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/7.0 ; MSIE 2.0; Windows 3.1"
-	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10"
-	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;"
-	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007"
-	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179"
-	"/4.0 ; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322"
-	"/2.1 ://.com/.html"
-	"/9.20 Windows NT 6.0; U; "
-	"/5.0 X11; U; Linux i686; -US; rv:1.8.1.1 Gecko/20061205 Iceweasel/2.0.0.1 -2.0.0.1+-2"
-	"/4.0 ; MSIE 7.0; Windows NT 5.1; /4.0; FDM; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 1.1.4322"
-	"/10.00 X11; Linux i686; U;  Presto/2.2.0"
-	"/5.0 Windows; U; Windows NT 6.0; -IL /528.16 KHTML,  Gecko /4.0 Safari/528.16"
-	"/5.0 ; Yahoo! /3.0; ://.yahoo.com//us/ysearch/"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.13 Gecko/20101209 Firefox/3.6.13"
-	"/4.0 ; MSIE 9.0; Windows NT 5.1; /5.0"
-	"/5.0 ; MSIE 8.0; Windows NT 5.1; /4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727"
-	"/4.0 ; MSIE 7.0b; Windows NT 6.0"
-	"/4.0 ; MSIE 6.0b; Windows 98"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/4.0 .NET CLR 3.5.30729"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.8 Gecko/20100804 Gentoo Firefox/3.6.8"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.7 Gecko/20100809 /3.6.7-1.fc14 Firefox/3.6.7"
-	"/5.0 ; /2.1; +://.com/.html"
-	"/5.0 ; Yahoo! ; ://.yahoo.com//us/ysearch/"
-	"YahooSeeker/1.2 ;  4.0; MSIE 5.5; yahooseeker  yahoo-inc  com ; ://.yahoo.com//us///"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0"
-	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; .NET CLR 2.0.50727; InfoPath.2"
-	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US"
-	"/4.0 ; MSIE 6.1; Windows XP"
-	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"
-	"-; +://.com/; : webetrex"
-	"/5.0 ; MSIE 9.0; AOL 9.7;  4343.19; Windows NT 6.1; WOW64; /5.0; FunWebProducts"
-	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.27; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729"
-	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.21; Windows NT 5.1; /4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E"
-	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; GTB7.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729"
-	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E"
-	"/4.0 ; MSIE 7.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2"
-	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15"
-	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57"
-	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0"
-	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0"
-	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/"
-	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1"
-	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125"
-	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1"
-	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2"
-	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US"
-	"Links 2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25"
-	"/4.0 ; MSIE 6.0; Windows NT 5.0; WOW64; /4.0; SLCC1"
-	"/1.22 ; Konqueror/4.3; Linux KHTML/4.3.5  Gecko"
-	"/4.0 ; MSIE 6.0; Windows CE;  6.5"
-	"/9.80 Macintosh; U; - Presto/2.8.131 /11.10"
-	"/5.0 X11; U; Linux i686; -US; rv:1.9.1.9 Gecko/20100318 /2.0.4-69.1mib2010.0 SeaMonkey/2.0.4"
-	"/4.0 ; MSIE 6.1; Windows XP Gecko/20060706 /7.0"
-	"/5.0 ; U; CPU OS 3_2  Mac OS X; -us /531.21.10 KHTML,  Gecko /4.0.4 /7B334b Safari/531.21.10"
-	"/5.0 Macintosh; I; Intel Mac OS X 10_6_7; -"
-	"/5.0 ; MSIE 9.0; Windows NT 6.1; /5.0"
-	"/1.22 ; MSIE 6.0; Windows NT 6.1; /4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;  Center PC 6.0; OfficeLiveConnector.1.4; OfficeLivePatch.1.3"
-	"/5.0 ; /3.0; +://yandex.com/bots"
-	"/4.0 Macintosh; U; Intel Mac OS X 10_6_7; -US /534.16 KHTML,  Gecko /10.0.648.205 Safari/534.16"
-	"/1.22 X11; U; Linux x86_64; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1"
-	"/5.0 ; MSIE 2.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.2"
-	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"
-	"/5.0 ; MSIE 2.0; Windows CE;  7.0"
-	"/4.0 Macintosh; U; PPC Mac OS X; -US"
-	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7"
-	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0"
-	"/1.22 ; MSIE 2.0; Windows 3.1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322"
-	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/7.0 ; MSIE 2.0; Windows 3.1"
-	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10"
-	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;"
-	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007"
-	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179"
-	"/5.0 ; 008/0.83; ://www.80legs.com/webcrawler.html Gecko/2008032620"
-	"/4.0 ; MSIE 7.0; Windows NT 6.0  www.idealobserver.com"
-	"/5.0 ; /1.0; +://www.anyapex.com/.html"
-	"/4.0 ; Arachmo"
-	"/4.0 ; B-l-i--z-B-O-T"
-	"/5.0 ; Baiduspider/2.0; +://.com/search/spider.html"
-	"/5.0 ; Baiduspider/2.0; +://.com/search/spider.html"
-	"/5.0 ; /2.3; MSIE 6.0 ; +://.com/site_owners.html"
-	"/1.0 +://.com/crawler/"
-	"/5.0 ; /2.0; +://.com/.htm"
-	"Sqworm/2.9.85-BETA beta_release; 20011115-775; i686-pc-linux-"
-	"/5.0 ; YandexImages/3.0; +://yandex.com/bots"
-	"/5.0 ; Yahoo! ; ://.yahoo.com//us/ysearch/"
-	"/5.0 ; /1.0; ://www.yodao.com//webmaster/spider/; "
-	"/5.0 ; /1.0; ://www.yodao.com//webmaster/spider/; "
-	"/4.0  /1.0  Link Checker @; ://.com"
-	"/4.0  /1.0  Link Checker .dlc@; ://.com"
-	"/4.0  /1.0 -@; ://.com"
-	"/5.0 ; U;  0.6;  /420+ KHTML,  Gecko"
-	"/5.0 ; MSIE 8.0; Windows NT 6.0; /4.0; Acoo Browser 1.98.744; .NET CLR 3.5.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; Acoo Browser; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729;  Browser"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; Acoo Browser; GTB6; /4.0 ; MSIE 6.0; Windows NT 5.1; SV1 ; InfoPath.1; .NET CLR 3.5.30729; .NET CLR 3.0.30618"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; Acoo Browser; .NET CLR 1.1.4322; .NET CLR 2.0.50727"
-	"/5.0 Macintosh; U; PPC Mac OS X;  /419 KHTML,  Gecko, Safari/419.3 /1.0.ALPHA"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.2 KHTML,  Gecko ChromePlus/4.0.222.3 /4.0.222.3 Safari/532.2"
-	"/5.0 Windows; U; Windows NT 6.1; -US /534.10 KHTML,  Gecko /8.0.552.215 Safari/534.10 ChromePlus/1.5.1.1"
-	"Links 2.7; Linux 3.7.9-2-ARCH x86_64; GNU C 4.7.1; "
-	"/5.0 Macintosh; Intel Mac OS X 10_9_3 /537.75.14 KHTML,  Gecko /7.0.3 Safari/7046A194A"
-	"/5.0 PLAYSTATION 3; 3.55"
-	"/5.0 PLAYSTATION 3; 2.00"
-	"/5.0 PLAYSTATION 3; 1.00"
-	"/5.0 Windows NT 6.3; WOW64; rv:24.0 Gecko/20100101 /24.4.0"
-	"/5.0 ; /1.0; +://www.abilogic.com/.html"
-	"SiteBar/3.3.8 Bookmark Server; :///"
-	"iTunes/9.0.3 Macintosh; U; Intel Mac OS X 10_6_2; -"
-	"iTunes/9.0.3 Macintosh; U; Intel Mac OS X 10_6_2; -"
-	"/4.0 ;  3.0; Macintosh"
-	"/5.0 Windows; U; Windows NT 5.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/3.6.3 FM  4.6.1"
-	"/5.0 Windows; U; Windows NT 5.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/3.6.3 .NET CLR 3.5.30729 Prevx 3.0.5 "
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.8.1.8 Gecko/20071004 Iceweasel/2.0.0.8 -2.0.0.6+2.0.0.8-Oetch1"
-	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.8.0.1 Gecko/20060111 Firefox/1.5.0.1"
+	"/5.0 ; MSIE 2.0; Windows CE;  7.0",
+	"/4.0 Macintosh; U; PPC Mac OS X; -US",
+	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7",
+	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0",
+	"/1.22 ; MSIE 2.0; Windows 3.1",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322",
+	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/7.0 ; MSIE 2.0; Windows 3.1",
+	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10",
+	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;",
+	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007",
+	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179",
+	"/5.0 ; 008/0.83; ://www.80legs.com/webcrawler.html Gecko/2008032620",
+	"/4.0 ; MSIE 7.0; Windows NT 6.0  www.idealobserver.com",
+	"/5.0 ; /1.0; +://www.anyapex.com/.html",
+	"/4.0 ; Arachmo",
+	"/4.0 ; B-l-i--z-B-O-T",
+	"/5.0 ; Baiduspider/2.0; +://.com/search/spider.html",
+	"/5.0 ; Baiduspider/2.0; +://.com/search/spider.html",
+	"/5.0 ; /2.3; MSIE 6.0 ; +://.com/site_owners.html",
+	"/1.0 +://.com/crawler/",
+	"/5.0 ; /2.0; +://.com/.htm",
+	"Sqworm/2.9.85-BETA beta_release; 20011115-775; i686-pc-linux-",
+	"/5.0 ; YandexImages/3.0; +://yandex.com/bots",
+	"/5.0 ; Yahoo! ; ://.yahoo.com//us/ysearch/",
+	"/5.0 ; /1.0; ://www.yodao.com//webmaster/spider/; ",
+	"/5.0 ; /1.0; ://www.yodao.com//webmaster/spider/; ",
+	"/4.0  /1.0  Link Checker @; ://.com",
+	"/4.0  /1.0  Link Checker .dlc@; ://.com",
+	"/4.0  /1.0 -@; ://.com",
+	"/5.0 ; U;  0.6;  /420+ KHTML,  Gecko",
+	"/5.0 ; MSIE 8.0; Windows NT 6.0; /4.0; Acoo Browser 1.98.744; .NET CLR 3.5.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; Acoo Browser; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729;  Browser",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; Acoo Browser; GTB6; /4.0 ; MSIE 6.0; Windows NT 5.1; SV1 ; InfoPath.1; .NET CLR 3.5.30729; .NET CLR 3.0.30618",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; Acoo Browser; .NET CLR 1.1.4322; .NET CLR 2.0.50727",
+	"/5.0 Macintosh; U; PPC Mac OS X;  /419 KHTML,  Gecko, Safari/419.3 /1.0.ALPHA",
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.2 KHTML,  Gecko ChromePlus/4.0.222.3 /4.0.222.3 Safari/532.2",
+	"/5.0 Windows; U; Windows NT 6.1; -US /534.10 KHTML,  Gecko /8.0.552.215 Safari/534.10 ChromePlus/1.5.1.1",
+	"Links 2.7; Linux 3.7.9-2-ARCH x86_64; GNU C 4.7.1; ",
+	"/5.0 Macintosh; Intel Mac OS X 10_9_3 /537.75.14 KHTML,  Gecko /7.0.3 Safari/7046A194A",
+	"/5.0 PLAYSTATION 3; 3.55",
+	"/5.0 PLAYSTATION 3; 2.00",
+	"/5.0 PLAYSTATION 3; 1.00",
+	"/5.0 Windows NT 6.3; WOW64; rv:24.0 Gecko/20100101 /24.4.0",,
+	"/5.0 ; /1.0; +://www.abilogic.com/.html",
+	"SiteBar/3.3.8 Bookmark Server; :///",
+	"iTunes/9.0.3 Macintosh; U; Intel Mac OS X 10_6_2; -",
+	"iTunes/9.0.3 Macintosh; U; Intel Mac OS X 10_6_2; -",
+	"/4.0 ;  3.0; Macintosh",
+	"/5.0 Windows; U; Windows NT 5.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/3.6.3 FM  4.6.1",
+	"/5.0 Windows; U; Windows NT 5.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/3.6.3 .NET CLR 3.5.30729 Prevx 3.0.5 ",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.8.1.8 Gecko/20071004 Iceweasel/2.0.0.8 -2.0.0.6+2.0.0.8-Oetch1",
+	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.8.0.1 Gecko/20060111 Firefox/1.5.0.1",
 	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; {1C69E7AA-C14E-200E-5A77-8EAB2D667A07}"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; acc=baadshah; acc=;  DSL 1.1; "
-	"/4.0 ; MSIE 5.5; Windows 98"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1;   8.51"
-	"/5.0 Windows; U; Windows NT 5.1; -US; rv:1.8.0.1 Gecko/20060111 Firefox/1.5.0.1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; snprtz|S26320700000083|2600# Pack 1#2#5#154321|"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1;  Toolbar; ; .NET CLR 1.1.4322"
-	"/5.0 Macintosh; U; PPC Mac OS X; - /417.9 KHTML,  Gecko Safari/417.8"
-	"/5.0 X11; U; Linux i686; -US; rv:1.7.12 Gecko/20051010 Firefox/1.0.7   1.0.7"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0"
-	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; .NET CLR 2.0.50727; InfoPath.2"
-	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US"
-	"/4.0 ; MSIE 6.1; Windows XP"
-	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648"
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; {1C69E7AA-C14E-200E-5A77-8EAB2D667A07}",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; acc=baadshah; acc=;  DSL 1.1; ",
+	"/4.0 ; MSIE 5.5; Windows 98",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1;   8.51",
+	"/5.0 Windows; U; Windows NT 5.1; -US; rv:1.8.0.1 Gecko/20060111 Firefox/1.5.0.1",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; snprtz|S26320700000083|2600# Pack 1#2#5#154321|",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1;  Toolbar; ; .NET CLR 1.1.4322",
+	"/5.0 Macintosh; U; PPC Mac OS X; - /417.9 KHTML,  Gecko Safari/417.8",
+	"/5.0 X11; U; Linux i686; -US; rv:1.7.12 Gecko/20051010 Firefox/1.0.7   1.0.7",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1",
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1",
+	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0",
+	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; .NET CLR 2.0.50727; InfoPath.2",
+	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
+	"/4.0 ; MSIE 6.1; Windows XP",
+	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648",
 	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2"
-	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15"
-	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57"
-	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0"
-	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0"
-	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/"
-	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1"
-	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125"
-	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1"
-	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2"
-	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US"
-	"Links 2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25"
-	"/4.0 ; MSIE 6.0; Windows NT 5.0; WOW64; /4.0; SLCC1"
-	"/1.22 ; Konqueror/4.3; Linux KHTML/4.3.5  Gecko"
-	"/4.0 ; MSIE 6.0; Windows CE;  6.5"
-	"/9.80 Macintosh; U; - Presto/2.8.131 /11.10"
-	"/5.0 X11; U; Linux i686; -US; rv:1.9.1.9 Gecko/20100318 /2.0.4-69.1mib2010.0 SeaMonkey/2.0.4"
-	"/4.0 ; MSIE 6.1; Windows XP Gecko/20060706 /7.0"
-	"/5.0 ; U; CPU OS 3_2  Mac OS X; -us /531.21.10 KHTML,  Gecko /4.0.4 /7B334b Safari/531.21.10"
-	"/5.0 Macintosh; I; Intel Mac OS X 10_6_7; -"
-	"/5.0 ; MSIE 9.0; Windows NT 6.1; /5.0"
-	"/1.22 ; MSIE 6.0; Windows NT 6.1; /4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;  Center PC 6.0; OfficeLiveConnector.1.4; OfficeLivePatch.1.3"
-	"/5.0 ; /3.0; +://yandex.com/bots"
-	"/4.0 Macintosh; U; Intel Mac OS X 10_6_7; -US /534.16 KHTML,  Gecko /10.0.648.205 Safari/534.16"
-	"/1.22 X11; U; Linux x86_64; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1"
-	"/5.0 ; MSIE 2.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.2"
-	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"
-	"/5.0 ; MSIE 2.0; Windows CE;  7.0"
-	"/4.0 Macintosh; U; PPC Mac OS X; -US"
-	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7"
-	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0"
-	"/1.22 ; MSIE 2.0; Windows 3.1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322"
-	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/7.0 ; MSIE 2.0; Windows 3.1"
-	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10"
-	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;"
-	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007"
-	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179"
-	"/4.0 ; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322"
-	"/2.1 ://.com/.html"
-	"/9.20 Windows NT 6.0; U; "
-	"/5.0 X11; U; Linux i686; -US; rv:1.8.1.1 Gecko/20061205 Iceweasel/2.0.0.1 -2.0.0.1+-2"
-	"/4.0 ; MSIE 7.0; Windows NT 5.1; /4.0; FDM; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 1.1.4322"
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1",
+	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2",
+	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15",
+	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57",
+	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0",
+	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0",
+	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/",
+	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1",
+	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125",
+	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1",
+	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2",
+	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
+	"Links 2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25",
+	"/4.0 ; MSIE 6.0; Windows NT 5.0; WOW64; /4.0; SLCC1",
+	"/1.22 ; Konqueror/4.3; Linux KHTML/4.3.5  Gecko",
+	"/4.0 ; MSIE 6.0; Windows CE;  6.5",
+	"/9.80 Macintosh; U; - Presto/2.8.131 /11.10",
+	"/5.0 X11; U; Linux i686; -US; rv:1.9.1.9 Gecko/20100318 /2.0.4-69.1mib2010.0 SeaMonkey/2.0.4",
+	"/4.0 ; MSIE 6.1; Windows XP Gecko/20060706 /7.0",
+	"/5.0 ; U; CPU OS 3_2  Mac OS X; -us /531.21.10 KHTML,  Gecko /4.0.4 /7B334b Safari/531.21.10",
+	"/5.0 Macintosh; I; Intel Mac OS X 10_6_7; -",
+	"/5.0 ; MSIE 9.0; Windows NT 6.1; /5.0",
+	"/1.22 ; MSIE 6.0; Windows NT 6.1; /4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;  Center PC 6.0; OfficeLiveConnector.1.4; OfficeLivePatch.1.3",
+	"/5.0 ; /3.0; +://yandex.com/bots",
+	"/4.0 Macintosh; U; Intel Mac OS X 10_6_7; -US /534.16 KHTML,  Gecko /10.0.648.205 Safari/534.16",
+	"/1.22 X11; U; Linux x86_64; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1",
+	"/5.0 ; MSIE 2.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.2",
+	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51",
+	"/5.0 ; MSIE 2.0; Windows CE;  7.0",
+	"/4.0 Macintosh; U; PPC Mac OS X; -US",
+	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7",
+	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0",
+	"/1.22 ; MSIE 2.0; Windows 3.1",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322",
+	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/7.0 ; MSIE 2.0; Windows 3.1",
+	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10",
+	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;",
+	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007",
+	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179",
+	"/4.0 ; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322",
+	"/2.1 ://.com/.html",
+	"/9.20 Windows NT 6.0; U; ",
+	"/5.0 X11; U; Linux i686; -US; rv:1.8.1.1 Gecko/20061205 Iceweasel/2.0.0.1 -2.0.0.1+-2",
+	"/4.0 ; MSIE 7.0; Windows NT 5.1; /4.0; FDM; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 1.1.4322",
 	"/10.00 X11; Linux i686; U;  Presto/2.2.0"
-	"/5.0 Windows; U; Windows NT 6.0; -IL /528.16 KHTML,  Gecko /4.0 Safari/528.16"
-	"/5.0 ; Yahoo! /3.0; ://.yahoo.com//us/ysearch/"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.13 Gecko/20101209 Firefox/3.6.13"
-	"/4.0 ; MSIE 9.0; Windows NT 5.1; /5.0"
-	"/5.0 ; MSIE 8.0; Windows NT 5.1; /4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727"
-	"/4.0 ; MSIE 7.0b; Windows NT 6.0"
-	"/4.0 ; MSIE 6.0b; Windows 98"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/4.0 .NET CLR 3.5.30729"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.8 Gecko/20100804 Gentoo Firefox/3.6.8"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.7 Gecko/20100809 /3.6.7-1.fc14 Firefox/3.6.7"
-	"/5.0 ; /2.1; +://.com/.html"
-	"/5.0 ; Yahoo! ; ://.yahoo.com//us/ysearch/"
-	"YahooSeeker/1.2 ;  4.0; MSIE 5.5; yahooseeker  yahoo-inc  com ; ://.yahoo.com//us///"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729"
+	"/5.0 Windows; U; Windows NT 6.0; -IL /528.16 KHTML,  Gecko /4.0 Safari/528.16",
+	"/5.0 ; Yahoo! /3.0; ://.yahoo.com//us/ysearch/",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.13 Gecko/20101209 Firefox/3.6.13",
+	"/4.0 ; MSIE 9.0; Windows NT 5.1; /5.0",
+	"/5.0 ; MSIE 8.0; Windows NT 5.1; /4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727",
+	"/4.0 ; MSIE 7.0b; Windows NT 6.0",
+	"/4.0 ; MSIE 6.0b; Windows 98",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/4.0 .NET CLR 3.5.30729",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.8 Gecko/20100804 Gentoo Firefox/3.6.8",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.7 Gecko/20100809 /3.6.7-1.fc14 Firefox/3.6.7",
+	"/5.0 ; /2.1; +://.com/.html",
+	"/5.0 ; Yahoo! ; ://.yahoo.com//us/ysearch/",
+	"YahooSeeker/1.2 ;  4.0; MSIE 5.5; yahooseeker  yahoo-inc  com ; ://.yahoo.com//us///",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1",
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1",
+	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0",
+	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; .NET CLR 2.0.50727; InfoPath.2",
+	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
+	"/4.0 ; MSIE 6.1; Windows XP",
+	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51",
+	"-; +://.com/; : webetrex",
+	"/5.0 ; MSIE 9.0; AOL 9.7;  4343.19; Windows NT 6.1; WOW64; /5.0; FunWebProducts",
+	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.27; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729",
+	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.21; Windows NT 5.1; /4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E",
+	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; GTB7.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729",
+	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E",
+	"/4.0 ; MSIE 7.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E",
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1",
+	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2",
+	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15",
+	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57",
+	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729",
 	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0"
-	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; .NET CLR 2.0.50727; InfoPath.2"
-	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US"
-	"/4.0 ; MSIE 6.1; Windows XP"
-	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"
-	"-; +://.com/; : webetrex"
-	"/5.0 ; MSIE 9.0; AOL 9.7;  4343.19; Windows NT 6.1; WOW64; /5.0; FunWebProducts"
-	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.27; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729"
-	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.21; Windows NT 5.1; /4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E"
-	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; GTB7.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729"
-	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E"
-	"/4.0 ; MSIE 7.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E"
+	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0",
+	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/",
+	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1",
+	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125",
+	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1",
+	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2",
+	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
+	"Links 2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25",
+	"/4.0 ; MSIE 6.0; Windows NT 5.0; WOW64; /4.0; SLCC1",
+	"/1.22 ; Konqueror/4.3; Linux KHTML/4.3.5  Gecko",
+	"/4.0 ; MSIE 6.0; Windows CE;  6.5",
+	"/9.80 Macintosh; U; - Presto/2.8.131 /11.10",
+	"/5.0 X11; U; Linux i686; -US; rv:1.9.1.9 Gecko/20100318 /2.0.4-69.1mib2010.0 SeaMonkey/2.0.4",
+	"/4.0 ; MSIE 6.1; Windows XP Gecko/20060706 /7.0",
+	"/5.0 ; U; CPU OS 3_2  Mac OS X; -us /531.21.10 KHTML,  Gecko /4.0.4 /7B334b Safari/531.21.10",
+	"/5.0 Macintosh; I; Intel Mac OS X 10_6_7; -",
+	"/5.0 ; MSIE 9.0; Windows NT 6.1; /5.0",
+	"/1.22 ; MSIE 6.0; Windows NT 6.1; /4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;  Center PC 6.0; OfficeLiveConnector.1.4; OfficeLivePatch.1.3",
+	"/5.0 ; /3.0; +://yandex.com/bots",
+	"/4.0 Macintosh; U; Intel Mac OS X 10_6_7; -US /534.16 KHTML,  Gecko /10.0.648.205 Safari/534.16",
+	"/1.22 X11; U; Linux x86_64; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1",
+	"/5.0 ; MSIE 2.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.2",
+	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51",
+	"/5.0 ; MSIE 2.0; Windows CE;  7.0",
+	"/4.0 Macintosh; U; PPC Mac OS X; -US",
+	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7",
+	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0",
+	"/1.22 ; MSIE 2.0; Windows 3.1",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322",
+	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/7.0 ; MSIE 2.0; Windows 3.1",
+	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10",
+	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;",
+	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007",
+	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E",
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1",
+	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2",
+	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15",
+	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57",
+	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0",
+	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0",
+	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/",
+	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1",
+	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125",
+	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1",
+	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2",
+	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
+	"Links 2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25",
+	"/4.0 ; MSIE 6.0; Windows NT 5.0; WOW64; /4.0; SLCC1",
+	"/1.22 ; Konqueror/4.3; Linux KHTML/4.3.5  Gecko",
+	"/4.0 ; MSIE 6.0; Windows CE;  6.5",
+	"/9.80 Macintosh; U; - Presto/2.8.131 /11.10",
+	"/5.0 X11; U; Linux i686; -US; rv:1.9.1.9 Gecko/20100318 /2.0.4-69.1mib2010.0 SeaMonkey/2.0.4",
+	"/4.0 ; MSIE 6.1; Windows XP Gecko/20060706 /7.0",
+	"/5.0 ; U; CPU OS 3_2  Mac OS X; -us /531.21.10 KHTML,  Gecko /4.0.4 /7B334b Safari/531.21.10",
+	"/5.0 Macintosh; I; Intel Mac OS X 10_6_7; -",
+	"/5.0 ; MSIE 9.0; Windows NT 6.1; /5.0",
+	"/1.22 ; MSIE 6.0; Windows NT 6.1; /4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;  Center PC 6.0; OfficeLiveConnector.1.4; OfficeLivePatch.1.3",
+	"/5.0 ; /3.0; +://yandex.com/bots",
+	"/4.0 Macintosh; U; Intel Mac OS X 10_6_7; -US /534.16 KHTML,  Gecko /10.0.648.205 Safari/534.16",
+	"/1.22 X11; U; Linux x86_64; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1",
+	"/5.0 ; MSIE 2.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.2",
+	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51",
+	"/5.0 ; MSIE 2.0; Windows CE;  7.0",
+	"/4.0 Macintosh; U; PPC Mac OS X; -US",
+	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7",
+	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0",
+	"/1.22 ; MSIE 2.0; Windows 3.1",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322",
+	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/7.0 ; MSIE 2.0; Windows 3.1",
+	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10",
+	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;",
+	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007",
+	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179",
+	"/5.0 ; 008/0.83; ://www.80legs.com/webcrawler.html Gecko/2008032620",
+	"/4.0 ; MSIE 7.0; Windows NT 6.0  www.idealobserver.com",
+	"/5.0 ; /1.0; +://www.anyapex.com/.html",
+	"/4.0 ; Arachmo",
+	"/4.0 ; B-l-i--z-B-O-T",
+	"/5.0 ; Baiduspider/2.0; +://.com/search/spider.html",
+	"/5.0 ; Baiduspider/2.0; +://.com/search/spider.html",
+	"/5.0 ; /2.3; MSIE 6.0 ; +://.com/site_owners.html",
+	"/1.0 +://.com/crawler/",
+	"/5.0 ; /2.0; +://.com/.htm",
+	"Sqworm/2.9.85-BETA beta_release; 20011115-775; i686-pc-linux-",
+	"/5.0 ; YandexImages/3.0; +://yandex.com/bots",
+	"/5.0 ; Yahoo! ; ://.yahoo.com//us/ysearch/",
+	"/5.0 ; /1.0; ://www.yodao.com//webmaster/spider/; ",
+	"/5.0 ; /1.0; ://www.yodao.com//webmaster/spider/; ",
+	"/4.0  /1.0  Link Checker @; ://.com",
+	"/4.0  /1.0  Link Checker .dlc@; ://.com",
+	"/4.0  /1.0 -@; ://.com",
+	"/5.0 ; U;  0.6;  /420+ KHTML,  Gecko",
+	"/5.0 ; MSIE 8.0; Windows NT 6.0; /4.0; Acoo Browser 1.98.744; .NET CLR 3.5.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; Acoo Browser; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729;  Browser",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; Acoo Browser; GTB6; /4.0 ; MSIE 6.0; Windows NT 5.1; SV1 ; InfoPath.1; .NET CLR 3.5.30729; .NET CLR 3.0.30618",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; Acoo Browser; .NET CLR 1.1.4322; .NET CLR 2.0.50727",
+	"/5.0 Macintosh; U; PPC Mac OS X;  /419 KHTML,  Gecko, Safari/419.3 /1.0.ALPHA",
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.2 KHTML,  Gecko ChromePlus/4.0.222.3 /4.0.222.3 Safari/532.2",
+	"/5.0 Windows; U; Windows NT 6.1; -US /534.10 KHTML,  Gecko /8.0.552.215 Safari/534.10 ChromePlus/1.5.1.1",
+	"Links 2.7; Linux 3.7.9-2-ARCH x86_64; GNU C 4.7.1; ",
+	"/5.0 Macintosh; Intel Mac OS X 10_9_3 /537.75.14 KHTML,  Gecko /7.0.3 Safari/7046A194A",
+	"/5.0 PLAYSTATION 3; 3.55",
+	"/5.0 PLAYSTATION 3; 2.00",
+	"/5.0 PLAYSTATION 3; 1.00",
+	"/5.0 Windows NT 6.3; WOW64; rv:24.0 Gecko/20100101 /24.4.0",
+	"/5.0 ; /1.0; +://www.abilogic.com/.html",
+	"SiteBar/3.3.8 Bookmark Server; :///",
+	"iTunes/9.0.3 Macintosh; U; Intel Mac OS X 10_6_2; -",
+	"iTunes/9.0.3 Macintosh; U; Intel Mac OS X 10_6_2; -",
+	"/4.0 ;  3.0; Macintosh",
+	"/5.0 Windows; U; Windows NT 5.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/3.6.3 FM  4.6.1",
+	"/5.0 Windows; U; Windows NT 5.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/3.6.3 .NET CLR 3.5.30729 Prevx 3.0.5 ",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.8.1.8 Gecko/20071004 Iceweasel/2.0.0.8 -2.0.0.6+2.0.0.8-Oetch1",
+	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.8.0.1 Gecko/20060111 Firefox/1.5.0.1",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; {1C69E7AA-C14E-200E-5A77-8EAB2D667A07}",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; acc=baadshah; acc=;  DSL 1.1; ",
+	"/4.0 ; MSIE 5.5; Windows 98",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1;   8.51",
+	"/5.0 Windows; U; Windows NT 5.1; -US; rv:1.8.0.1 Gecko/20060111 Firefox/1.5.0.1",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; snprtz|S26320700000083|2600# Pack 1#2#5#154321|",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1;  Toolbar; ; .NET CLR 1.1.4322",
+	"/5.0 Macintosh; U; PPC Mac OS X; - /417.9 KHTML,  Gecko Safari/417.8",
+	"/5.0 X11; U; Linux i686; -US; rv:1.7.12 Gecko/20051010 Firefox/1.0.7   1.0.7",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1",
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1",
+	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0",
+	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; .NET CLR 2.0.50727; InfoPath.2",
+	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
+	"/4.0 ; MSIE 6.1; Windows XP",
+	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E",
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1",
+	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2",
+	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15",
+	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57",
+	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0",
+	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0",
+	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/",
+	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1",
+	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125",
+	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1",
+	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2",
+	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
+	"Links 2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25",
+	"/4.0 ; MSIE 6.0; Windows NT 5.0; WOW64; /4.0; SLCC1",
+	"/1.22 ; Konqueror/4.3; Linux KHTML/4.3.5  Gecko",
+	"/4.0 ; MSIE 6.0; Windows CE;  6.5",
+	"/9.80 Macintosh; U; - Presto/2.8.131 /11.10",
+	"/5.0 X11; U; Linux i686; -US; rv:1.9.1.9 Gecko/20100318 /2.0.4-69.1mib2010.0 SeaMonkey/2.0.4",
+	"/4.0 ; MSIE 6.1; Windows XP Gecko/20060706 /7.0",
+	"/5.0 ; U; CPU OS 3_2  Mac OS X; -us /531.21.10 KHTML,  Gecko /4.0.4 /7B334b Safari/531.21.10",
+	"/5.0 Macintosh; I; Intel Mac OS X 10_6_7; -",
+	"/5.0 ; MSIE 9.0; Windows NT 6.1; /5.0",
+	"/1.22 ; MSIE 6.0; Windows NT 6.1; /4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;  Center PC 6.0; OfficeLiveConnector.1.4; OfficeLivePatch.1.3",
+	"/5.0 ; /3.0; +://yandex.com/bots",
+	"/4.0 Macintosh; U; Intel Mac OS X 10_6_7; -US /534.16 KHTML,  Gecko /10.0.648.205 Safari/534.16",
+	"/1.22 X11; U; Linux x86_64; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1",
+	"/5.0 ; MSIE 2.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.2",
+	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51",
+	"/5.0 ; MSIE 2.0; Windows CE;  7.0",
+	"/4.0 Macintosh; U; PPC Mac OS X; -US",
+	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7",
+	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0",
+	"/1.22 ; MSIE 2.0; Windows 3.1",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322",
+	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/7.0 ; MSIE 2.0; Windows 3.1",
+	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10",
+	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;",
+	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007",
+	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179",
+	"/4.0 ; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322",
+	"/2.1 ://.com/.html",
+	"/9.20 Windows NT 6.0; U; ",
+	"/5.0 X11; U; Linux i686; -US; rv:1.8.1.1 Gecko/20061205 Iceweasel/2.0.0.1 -2.0.0.1+-2",
+	"/4.0 ; MSIE 7.0; Windows NT 5.1; /4.0; FDM; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 1.1.4322",
+	"/10.00 X11; Linux i686; U;  Presto/2.2.0",
+	"/5.0 Windows; U; Windows NT 6.0; -IL /528.16 KHTML,  Gecko /4.0 Safari/528.16",
+	"/5.0 ; Yahoo! /3.0; ://.yahoo.com//us/ysearch/",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.13 Gecko/20101209 Firefox/3.6.13",
+	"/4.0 ; MSIE 9.0; Windows NT 5.1; /5.0",
+	"/5.0 ; MSIE 8.0; Windows NT 5.1; /4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727",
+	"/4.0 ; MSIE 7.0b; Windows NT 6.0",
+	"/4.0 ; MSIE 6.0b; Windows 98",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/4.0 .NET CLR 3.5.30729",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.8 Gecko/20100804 Gentoo Firefox/3.6.8",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.7 Gecko/20100809 /3.6.7-1.fc14 Firefox/3.6.7",
+	"/5.0 ; /2.1; +://.com/.html",
+	"/5.0 ; Yahoo! ; ://.yahoo.com//us/ysearch/",
+	"YahooSeeker/1.2 ;  4.0; MSIE 5.5; yahooseeker  yahoo-inc  com ; ://.yahoo.com//us///",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1",
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1",
+	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0",
+	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; .NET CLR 2.0.50727; InfoPath.2",
+	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
+	"/4.0 ; MSIE 6.1; Windows XP",
+	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51",
+	"-; +://.com/; : webetrex",
+	"/5.0 ; MSIE 9.0; AOL 9.7;  4343.19; Windows NT 6.1; WOW64; /5.0; FunWebProducts",
+	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.27; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729",
+	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.21; Windows NT 5.1; /4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E",
+	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; GTB7.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729",
+	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E",
+	"/4.0 ; MSIE 7.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E",
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1",
+	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2",
+	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15",
+	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57",
+	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0",
+	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0",
+	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/",
+	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1",
+	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125",
+	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1",
+	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2",
+	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
+	"Links 2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25",
+	"/4.0 ; MSIE 6.0; Windows NT 5.0; WOW64; /4.0; SLCC1",
+	"/1.22 ; Konqueror/4.3; Linux KHTML/4.3.5  Gecko",
+	"/4.0 ; MSIE 6.0; Windows CE;  6.5",
+	"/9.80 Macintosh; U; - Presto/2.8.131 /11.10",
+	"/5.0 X11; U; Linux i686; -US; rv:1.9.1.9 Gecko/20100318 /2.0.4-69.1mib2010.0 SeaMonkey/2.0.4",
+	"/4.0 ; MSIE 6.1; Windows XP Gecko/20060706 /7.0",
+	"/5.0 ; U; CPU OS 3_2  Mac OS X; -us /531.21.10 KHTML,  Gecko /4.0.4 /7B334b Safari/531.21.10",
+	"/5.0 Macintosh; I; Intel Mac OS X 10_6_7; -",
+	"/5.0 ; MSIE 9.0; Windows NT 6.1; /5.0",
+	"/1.22 ; MSIE 6.0; Windows NT 6.1; /4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;  Center PC 6.0; OfficeLiveConnector.1.4; OfficeLivePatch.1.3",
+	"/5.0 ; /3.0; +://yandex.com/bots",
+	"/4.0 Macintosh; U; Intel Mac OS X 10_6_7; -US /534.16 KHTML,  Gecko /10.0.648.205 Safari/534.16",
+	"/1.22 X11; U; Linux x86_64; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1",
+	"/5.0 ; MSIE 2.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.2",
+	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51",
+	"/5.0 ; MSIE 2.0; Windows CE;  7.0",
+	"/4.0 Macintosh; U; PPC Mac OS X; -US",
+	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7",
+	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0",
+	"/1.22 ; MSIE 2.0; Windows 3.1",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322",
+	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/7.0 ; MSIE 2.0; Windows 3.1",
+	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10",
+	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;",
+	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007",
+	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E",
 	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2"
-	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15"
-	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57"
-	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0"
-	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0"
-	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/"
-	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1"
-	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125"
-	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1"
-	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2"
-	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US"
-	"Links 2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25"
-	"/4.0 ; MSIE 6.0; Windows NT 5.0; WOW64; /4.0; SLCC1"
-	"/1.22 ; Konqueror/4.3; Linux KHTML/4.3.5  Gecko"
-	"/4.0 ; MSIE 6.0; Windows CE;  6.5"
-	"/9.80 Macintosh; U; - Presto/2.8.131 /11.10"
-	"/5.0 X11; U; Linux i686; -US; rv:1.9.1.9 Gecko/20100318 /2.0.4-69.1mib2010.0 SeaMonkey/2.0.4"
-	"/4.0 ; MSIE 6.1; Windows XP Gecko/20060706 /7.0"
-	"/5.0 ; U; CPU OS 3_2  Mac OS X; -us /531.21.10 KHTML,  Gecko /4.0.4 /7B334b Safari/531.21.10"
-	"/5.0 Macintosh; I; Intel Mac OS X 10_6_7; -"
-	"/5.0 ; MSIE 9.0; Windows NT 6.1; /5.0"
-	"/1.22 ; MSIE 6.0; Windows NT 6.1; /4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;  Center PC 6.0; OfficeLiveConnector.1.4; OfficeLivePatch.1.3"
-	"/5.0 ; /3.0; +://yandex.com/bots"
-	"/4.0 Macintosh; U; Intel Mac OS X 10_6_7; -US /534.16 KHTML,  Gecko /10.0.648.205 Safari/534.16"
-	"/1.22 X11; U; Linux x86_64; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1"
-	"/5.0 ; MSIE 2.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.2"
-	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"
-	"/5.0 ; MSIE 2.0; Windows CE;  7.0"
-	"/4.0 Macintosh; U; PPC Mac OS X; -US"
-	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7"
-	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0"
-	"/1.22 ; MSIE 2.0; Windows 3.1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322"
-	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/7.0 ; MSIE 2.0; Windows 3.1"
-	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10"
-	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;"
-	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007"
-	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2"
-	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15"
-	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57"
-	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0"
-	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0"
-	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/"
-	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1"
-	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125"
-	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1"
-	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2"
-	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US"
-	"Links 2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25"
-	"/4.0 ; MSIE 6.0; Windows NT 5.0; WOW64; /4.0; SLCC1"
-	"/1.22 ; Konqueror/4.3; Linux KHTML/4.3.5  Gecko"
-	"/4.0 ; MSIE 6.0; Windows CE;  6.5"
-	"/9.80 Macintosh; U; - Presto/2.8.131 /11.10"
-	"/5.0 X11; U; Linux i686; -US; rv:1.9.1.9 Gecko/20100318 /2.0.4-69.1mib2010.0 SeaMonkey/2.0.4"
-	"/4.0 ; MSIE 6.1; Windows XP Gecko/20060706 /7.0"
-	"/5.0 ; U; CPU OS 3_2  Mac OS X; -us /531.21.10 KHTML,  Gecko /4.0.4 /7B334b Safari/531.21.10"
-	"/5.0 Macintosh; I; Intel Mac OS X 10_6_7; -"
-	"/5.0 ; MSIE 9.0; Windows NT 6.1; /5.0"
-	"/1.22 ; MSIE 6.0; Windows NT 6.1; /4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;  Center PC 6.0; OfficeLiveConnector.1.4; OfficeLivePatch.1.3"
-	"/5.0 ; /3.0; +://yandex.com/bots"
-	"/4.0 Macintosh; U; Intel Mac OS X 10_6_7; -US /534.16 KHTML,  Gecko /10.0.648.205 Safari/534.16"
-	"/1.22 X11; U; Linux x86_64; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1"
-	"/5.0 ; MSIE 2.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.2"
-	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"
-	"/5.0 ; MSIE 2.0; Windows CE;  7.0"
-	"/4.0 Macintosh; U; PPC Mac OS X; -US"
-	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7"
-	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0"
-	"/1.22 ; MSIE 2.0; Windows 3.1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322"
-	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/7.0 ; MSIE 2.0; Windows 3.1"
-	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10"
-	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;"
-	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007"
-	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179"
-	"/5.0 ; 008/0.83; ://www.80legs.com/webcrawler.html Gecko/2008032620"
-	"/4.0 ; MSIE 7.0; Windows NT 6.0  www.idealobserver.com"
-	"/5.0 ; /1.0; +://www.anyapex.com/.html"
-	"/4.0 ; Arachmo"
-	"/4.0 ; B-l-i--z-B-O-T"
-	"/5.0 ; Baiduspider/2.0; +://.com/search/spider.html"
-	"/5.0 ; Baiduspider/2.0; +://.com/search/spider.html"
-	"/5.0 ; /2.3; MSIE 6.0 ; +://.com/site_owners.html"
-	"/1.0 +://.com/crawler/"
-	"/5.0 ; /2.0; +://.com/.htm"
-	"Sqworm/2.9.85-BETA beta_release; 20011115-775; i686-pc-linux-"
+	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2",
+	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15",
+	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57",
+	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0",
+	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0",
+	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/",
+	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1",
+	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125",
+	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1",
+	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2",
+	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
+	"Links 2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25",
+	"/4.0 ; MSIE 6.0; Windows NT 5.0; WOW64; /4.0; SLCC1",
+	"/1.22 ; Konqueror/4.3; Linux KHTML/4.3.5  Gecko",
+	"/4.0 ; MSIE 6.0; Windows CE;  6.5",
+	"/9.80 Macintosh; U; - Presto/2.8.131 /11.10",
+	"/5.0 X11; U; Linux i686; -US; rv:1.9.1.9 Gecko/20100318 /2.0.4-69.1mib2010.0 SeaMonkey/2.0.4",
+	"/4.0 ; MSIE 6.1; Windows XP Gecko/20060706 /7.0",
+	"/5.0 ; U; CPU OS 3_2  Mac OS X; -us /531.21.10 KHTML,  Gecko /4.0.4 /7B334b Safari/531.21.10",
+	"/5.0 Macintosh; I; Intel Mac OS X 10_6_7; -",
+	"/5.0 ; MSIE 9.0; Windows NT 6.1; /5.0",
+	"/1.22 ; MSIE 6.0; Windows NT 6.1; /4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;  Center PC 6.0; OfficeLiveConnector.1.4; OfficeLivePatch.1.3",
+	"/5.0 ; /3.0; +://yandex.com/bots",
+	"/4.0 Macintosh; U; Intel Mac OS X 10_6_7; -US /534.16 KHTML,  Gecko /10.0.648.205 Safari/534.16",
+	"/1.22 X11; U; Linux x86_64; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1",
+	"/5.0 ; MSIE 2.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.2",
+	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51",
+	"/5.0 ; MSIE 2.0; Windows CE;  7.0",
+	"/4.0 Macintosh; U; PPC Mac OS X; -US",
+	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7",
+	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0",
+	"/1.22 ; MSIE 2.0; Windows 3.1",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322",
+	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/7.0 ; MSIE 2.0; Windows 3.1",
+	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10",
+	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;",
+	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007",
+	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179",
+	"/5.0 ; 008/0.83; ://www.80legs.com/webcrawler.html Gecko/2008032620",
+	"/4.0 ; MSIE 7.0; Windows NT 6.0  www.idealobserver.com",
+	"/5.0 ; /1.0; +://www.anyapex.com/.html",
+	"/4.0 ; Arachmo",
+	"/4.0 ; B-l-i--z-B-O-T",
+	"/5.0 ; Baiduspider/2.0; +://.com/search/spider.html",
+	"/5.0 ; Baiduspider/2.0; +://.com/search/spider.html",
+	"/5.0 ; /2.3; MSIE 6.0 ; +://.com/site_owners.html",
+	"/1.0 +://.com/crawler/",
+	"/5.0 ; /2.0; +://.com/.htm",
+	"Sqworm/2.9.85-BETA beta_release; 20011115-775; i686-pc-linux-",
 	"/5.0 ; YandexImages/3.0; +://yandex.com/bots"
-	"/5.0 ; Yahoo! ; ://.yahoo.com//us/ysearch/"
-	"/5.0 ; /1.0; ://www.yodao.com//webmaster/spider/; "
-	"/5.0 ; /1.0; ://www.yodao.com//webmaster/spider/; "
-	"/4.0  /1.0  Link Checker @; ://.com"
-	"/4.0  /1.0  Link Checker .dlc@; ://.com"
-	"/4.0  /1.0 -@; ://.com"
-	"/5.0 ; U;  0.6;  /420+ KHTML,  Gecko"
-	"/5.0 ; MSIE 8.0; Windows NT 6.0; /4.0; Acoo Browser 1.98.744; .NET CLR 3.5.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; Acoo Browser; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729;  Browser"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; Acoo Browser; GTB6; /4.0 ; MSIE 6.0; Windows NT 5.1; SV1 ; InfoPath.1; .NET CLR 3.5.30729; .NET CLR 3.0.30618"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; Acoo Browser; .NET CLR 1.1.4322; .NET CLR 2.0.50727"
-	"/5.0 Macintosh; U; PPC Mac OS X;  /419 KHTML,  Gecko, Safari/419.3 /1.0.ALPHA"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.2 KHTML,  Gecko ChromePlus/4.0.222.3 /4.0.222.3 Safari/532.2"
-	"/5.0 Windows; U; Windows NT 6.1; -US /534.10 KHTML,  Gecko /8.0.552.215 Safari/534.10 ChromePlus/1.5.1.1"
-	"Links 2.7; Linux 3.7.9-2-ARCH x86_64; GNU C 4.7.1; "
-	"/5.0 Macintosh; Intel Mac OS X 10_9_3 /537.75.14 KHTML,  Gecko /7.0.3 Safari/7046A194A"
-	"/5.0 PLAYSTATION 3; 3.55"
-	"/5.0 PLAYSTATION 3; 2.00"
-	"/5.0 PLAYSTATION 3; 1.00"
-	"/5.0 Windows NT 6.3; WOW64; rv:24.0 Gecko/20100101 /24.4.0"
-	"/5.0 ; /1.0; +://www.abilogic.com/.html"
-	"SiteBar/3.3.8 Bookmark Server; :///"
-	"iTunes/9.0.3 Macintosh; U; Intel Mac OS X 10_6_2; -"
-	"iTunes/9.0.3 Macintosh; U; Intel Mac OS X 10_6_2; -"
-	"/4.0 ;  3.0; Macintosh"
-	"/5.0 Windows; U; Windows NT 5.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/3.6.3 FM  4.6.1"
-	"/5.0 Windows; U; Windows NT 5.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/3.6.3 .NET CLR 3.5.30729 Prevx 3.0.5 "
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.8.1.8 Gecko/20071004 Iceweasel/2.0.0.8 -2.0.0.6+2.0.0.8-Oetch1"
-	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.8.0.1 Gecko/20060111 Firefox/1.5.0.1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; {1C69E7AA-C14E-200E-5A77-8EAB2D667A07}"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; acc=baadshah; acc=;  DSL 1.1; "
-	"/4.0 ; MSIE 5.5; Windows 98"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1;   8.51"
-	"/5.0 Windows; U; Windows NT 5.1; -US; rv:1.8.0.1 Gecko/20060111 Firefox/1.5.0.1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; snprtz|S26320700000083|2600# Pack 1#2#5#154321|"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1;  Toolbar; ; .NET CLR 1.1.4322"
-	"/5.0 Macintosh; U; PPC Mac OS X; - /417.9 KHTML,  Gecko Safari/417.8"
-	"/5.0 X11; U; Linux i686; -US; rv:1.7.12 Gecko/20051010 Firefox/1.0.7   1.0.7"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0"
-	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; .NET CLR 2.0.50727; InfoPath.2"
-	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US"
-	"/4.0 ; MSIE 6.1; Windows XP"
-	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2"
-	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15"
-	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57"
-	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0"
-	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0"
-	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/"
-	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1"
-	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125"
-	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1"
-	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2"
-	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US"
-	"Links 2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25"
-	"/4.0 ; MSIE 6.0; Windows NT 5.0; WOW64; /4.0; SLCC1"
-	"/1.22 ; Konqueror/4.3; Linux KHTML/4.3.5  Gecko"
-	"/4.0 ; MSIE 6.0; Windows CE;  6.5"
-	"/9.80 Macintosh; U; - Presto/2.8.131 /11.10"
-	"/5.0 X11; U; Linux i686; -US; rv:1.9.1.9 Gecko/20100318 /2.0.4-69.1mib2010.0 SeaMonkey/2.0.4"
-	"/4.0 ; MSIE 6.1; Windows XP Gecko/20060706 /7.0"
-	"/5.0 ; U; CPU OS 3_2  Mac OS X; -us /531.21.10 KHTML,  Gecko /4.0.4 /7B334b Safari/531.21.10"
-	"/5.0 Macintosh; I; Intel Mac OS X 10_6_7; -"
-	"/5.0 ; MSIE 9.0; Windows NT 6.1; /5.0"
-	"/1.22 ; MSIE 6.0; Windows NT 6.1; /4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;  Center PC 6.0; OfficeLiveConnector.1.4; OfficeLivePatch.1.3"
-	"/5.0 ; /3.0; +://yandex.com/bots"
-	"/4.0 Macintosh; U; Intel Mac OS X 10_6_7; -US /534.16 KHTML,  Gecko /10.0.648.205 Safari/534.16"
-	"/1.22 X11; U; Linux x86_64; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1"
-	"/5.0 ; MSIE 2.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.2"
-	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"
-	"/5.0 ; MSIE 2.0; Windows CE;  7.0"
-	"/4.0 Macintosh; U; PPC Mac OS X; -US"
-	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7"
-	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0"
-	"/1.22 ; MSIE 2.0; Windows 3.1"
+	"/5.0 ; Yahoo! ; ://.yahoo.com//us/ysearch/",
+	"/5.0 ; /1.0; ://www.yodao.com//webmaster/spider/; ",
+	"/5.0 ; /1.0; ://www.yodao.com//webmaster/spider/; ",
+	"/4.0  /1.0  Link Checker @; ://.com",
+	"/4.0  /1.0  Link Checker .dlc@; ://.com",
+	"/4.0  /1.0 -@; ://.com",
+	"/5.0 ; U;  0.6;  /420+ KHTML,  Gecko",
+	"/5.0 ; MSIE 8.0; Windows NT 6.0; /4.0; Acoo Browser 1.98.744; .NET CLR 3.5.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; Acoo Browser; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729;  Browser",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; Acoo Browser; GTB6; /4.0 ; MSIE 6.0; Windows NT 5.1; SV1 ; InfoPath.1; .NET CLR 3.5.30729; .NET CLR 3.0.30618",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; Acoo Browser; .NET CLR 1.1.4322; .NET CLR 2.0.50727",
+	"/5.0 Macintosh; U; PPC Mac OS X;  /419 KHTML,  Gecko, Safari/419.3 /1.0.ALPHA",
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.2 KHTML,  Gecko ChromePlus/4.0.222.3 /4.0.222.3 Safari/532.2",
+	"/5.0 Windows; U; Windows NT 6.1; -US /534.10 KHTML,  Gecko /8.0.552.215 Safari/534.10 ChromePlus/1.5.1.1",
+	"Links 2.7; Linux 3.7.9-2-ARCH x86_64; GNU C 4.7.1; ",
+	"/5.0 Macintosh; Intel Mac OS X 10_9_3 /537.75.14 KHTML,  Gecko /7.0.3 Safari/7046A194A",
+	"/5.0 PLAYSTATION 3; 3.55",
+	"/5.0 PLAYSTATION 3; 2.00",
+	"/5.0 PLAYSTATION 3; 1.00",
+	"/5.0 Windows NT 6.3; WOW64; rv:24.0 Gecko/20100101 /24.4.0",
+	"/5.0 ; /1.0; +://www.abilogic.com/.html",
+	"SiteBar/3.3.8 Bookmark Server; :///",
+	"iTunes/9.0.3 Macintosh; U; Intel Mac OS X 10_6_2; -",
+	"iTunes/9.0.3 Macintosh; U; Intel Mac OS X 10_6_2; -",
+	"/4.0 ;  3.0; Macintosh",
+	"/5.0 Windows; U; Windows NT 5.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/3.6.3 FM  4.6.1",
+	"/5.0 Windows; U; Windows NT 5.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/3.6.3 .NET CLR 3.5.30729 Prevx 3.0.5 ",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.8.1.8 Gecko/20071004 Iceweasel/2.0.0.8 -2.0.0.6+2.0.0.8-Oetch1",
+	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.8.0.1 Gecko/20060111 Firefox/1.5.0.1",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; {1C69E7AA-C14E-200E-5A77-8EAB2D667A07}",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; acc=baadshah; acc=;  DSL 1.1; ",
+	"/4.0 ; MSIE 5.5; Windows 98",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1;   8.51",
+	"/5.0 Windows; U; Windows NT 5.1; -US; rv:1.8.0.1 Gecko/20060111 Firefox/1.5.0.1",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; snprtz|S26320700000083|2600# Pack 1#2#5#154321|",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1;  Toolbar; ; .NET CLR 1.1.4322",
+	"/5.0 Macintosh; U; PPC Mac OS X; - /417.9 KHTML,  Gecko Safari/417.8",
+	"/5.0 X11; U; Linux i686; -US; rv:1.7.12 Gecko/20051010 Firefox/1.0.7   1.0.7",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1",
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1",
+	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0",
+	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; .NET CLR 2.0.50727; InfoPath.2",
+	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
+	"/4.0 ; MSIE 6.1; Windows XP",
+	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E",
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1",
+	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2",
+	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15",
+	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57",
+	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0",
+	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0",
+	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/",
+	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1",
+	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125",
+	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1",
+	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2",
+	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
+	"Links 2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25",
+	"/4.0 ; MSIE 6.0; Windows NT 5.0; WOW64; /4.0; SLCC1",
+	"/1.22 ; Konqueror/4.3; Linux KHTML/4.3.5  Gecko",
+	"/4.0 ; MSIE 6.0; Windows CE;  6.5",
+	"/9.80 Macintosh; U; - Presto/2.8.131 /11.10",
+	"/5.0 X11; U; Linux i686; -US; rv:1.9.1.9 Gecko/20100318 /2.0.4-69.1mib2010.0 SeaMonkey/2.0.4",
+	"/4.0 ; MSIE 6.1; Windows XP Gecko/20060706 /7.0",
+	"/5.0 ; U; CPU OS 3_2  Mac OS X; -us /531.21.10 KHTML,  Gecko /4.0.4 /7B334b Safari/531.21.10",
+	"/5.0 Macintosh; I; Intel Mac OS X 10_6_7; -",
+	"/5.0 ; MSIE 9.0; Windows NT 6.1; /5.0",
+	"/1.22 ; MSIE 6.0; Windows NT 6.1; /4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;  Center PC 6.0; OfficeLiveConnector.1.4; OfficeLivePatch.1.3",
+	"/5.0 ; /3.0; +://yandex.com/bots",
+	"/4.0 Macintosh; U; Intel Mac OS X 10_6_7; -US /534.16 KHTML,  Gecko /10.0.648.205 Safari/534.16",
+	"/1.22 X11; U; Linux x86_64; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1",
+	"/5.0 ; MSIE 2.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.2",
+	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51",
+	"/5.0 ; MSIE 2.0; Windows CE;  7.0",
+	"/4.0 Macintosh; U; PPC Mac OS X; -US",
+	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7",
+	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0",
+	"/1.22 ; MSIE 2.0; Windows 3.1",
 	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322"
-	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/7.0 ; MSIE 2.0; Windows 3.1"
-	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10"
-	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;"
-	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007"
-	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179"
-	"/4.0 ; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322"
-	"/2.1 ://.com/.html"
-	"/9.20 Windows NT 6.0; U; "
-	"/5.0 X11; U; Linux i686; -US; rv:1.8.1.1 Gecko/20061205 Iceweasel/2.0.0.1 -2.0.0.1+-2"
-	"/4.0 ; MSIE 7.0; Windows NT 5.1; /4.0; FDM; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 1.1.4322"
-	"/10.00 X11; Linux i686; U;  Presto/2.2.0"
-	"/5.0 Windows; U; Windows NT 6.0; -IL /528.16 KHTML,  Gecko /4.0 Safari/528.16"
-	"/5.0 ; Yahoo! /3.0; ://.yahoo.com//us/ysearch/"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.13 Gecko/20101209 Firefox/3.6.13"
-	"/4.0 ; MSIE 9.0; Windows NT 5.1; /5.0"
-	"/5.0 ; MSIE 8.0; Windows NT 5.1; /4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727"
-	"/4.0 ; MSIE 7.0b; Windows NT 6.0"
-	"/4.0 ; MSIE 6.0b; Windows 98"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/4.0 .NET CLR 3.5.30729"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.8 Gecko/20100804 Gentoo Firefox/3.6.8"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.7 Gecko/20100809 /3.6.7-1.fc14 Firefox/3.6.7"
-	"/5.0 ; /2.1; +://.com/.html"
-	"/5.0 ; Yahoo! ; ://.yahoo.com//us/ysearch/"
-	"YahooSeeker/1.2 ;  4.0; MSIE 5.5; yahooseeker  yahoo-inc  com ; ://.yahoo.com//us///"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0"
-	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; .NET CLR 2.0.50727; InfoPath.2"
-	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US"
-	"/4.0 ; MSIE 6.1; Windows XP"
-	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"
-	"-; +://.com/; : webetrex"
-	"/5.0 ; MSIE 9.0; AOL 9.7;  4343.19; Windows NT 6.1; WOW64; /5.0; FunWebProducts"
-	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.27; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729"
-	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.21; Windows NT 5.1; /4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E"
-	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; GTB7.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729"
-	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E"
-	"/4.0 ; MSIE 7.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648"
+	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/7.0 ; MSIE 2.0; Windows 3.1",
+	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10",
+	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;",
+	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007",
+	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179",
+	"/4.0 ; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322",
+	"/2.1 ://.com/.html",
+	"/9.20 Windows NT 6.0; U; ",
+	"/5.0 X11; U; Linux i686; -US; rv:1.8.1.1 Gecko/20061205 Iceweasel/2.0.0.1 -2.0.0.1+-2",
+	"/4.0 ; MSIE 7.0; Windows NT 5.1; /4.0; FDM; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 1.1.4322",
+	"/10.00 X11; Linux i686; U;  Presto/2.2.0",
+	"/5.0 Windows; U; Windows NT 6.0; -IL /528.16 KHTML,  Gecko /4.0 Safari/528.16",
+	"/5.0 ; Yahoo! /3.0; ://.yahoo.com//us/ysearch/",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.13 Gecko/20101209 Firefox/3.6.13",
+	"/4.0 ; MSIE 9.0; Windows NT 5.1; /5.0",
+	"/5.0 ; MSIE 8.0; Windows NT 5.1; /4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727",
+	"/4.0 ; MSIE 7.0b; Windows NT 6.0",
+	"/4.0 ; MSIE 6.0b; Windows 98",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/4.0 .NET CLR 3.5.30729",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.8 Gecko/20100804 Gentoo Firefox/3.6.8",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.7 Gecko/20100809 /3.6.7-1.fc14 Firefox/3.6.7",
+	"/5.0 ; /2.1; +://.com/.html",
+	"/5.0 ; Yahoo! ; ://.yahoo.com//us/ysearch/",
+	"YahooSeeker/1.2 ;  4.0; MSIE 5.5; yahooseeker  yahoo-inc  com ; ://.yahoo.com//us///",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1",
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1",
+	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0",
+	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; .NET CLR 2.0.50727; InfoPath.2",
+	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
+	"/4.0 ; MSIE 6.1; Windows XP",
+	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51",
+	"-; +://.com/; : webetrex",
+	"/5.0 ; MSIE 9.0; AOL 9.7;  4343.19; Windows NT 6.1; WOW64; /5.0; FunWebProducts",
+	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.27; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729",
+	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.21; Windows NT 5.1; /4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E",
+	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; GTB7.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729",
+	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E",
+	"/4.0 ; MSIE 7.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648",
 	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2"
-	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15"
-	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57"
-	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0"
-	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0"
-	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/"
-	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1"
-	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125"
-	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1"
-	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2"
-	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US"
-	"Links 2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25"
-	"/4.0 ; MSIE 6.0; Windows NT 5.0; WOW64; /4.0; SLCC1"
-	"/1.22 ; Konqueror/4.3; Linux KHTML/4.3.5  Gecko"
-	"/4.0 ; MSIE 6.0; Windows CE;  6.5"
-	"/9.80 Macintosh; U; - Presto/2.8.131 /11.10"
-	"/5.0 X11; U; Linux i686; -US; rv:1.9.1.9 Gecko/20100318 /2.0.4-69.1mib2010.0 SeaMonkey/2.0.4"
-	"/4.0 ; MSIE 6.1; Windows XP Gecko/20060706 /7.0"
-	"/5.0 ; U; CPU OS 3_2  Mac OS X; -us /531.21.10 KHTML,  Gecko /4.0.4 /7B334b Safari/531.21.10"
-	"/5.0 Macintosh; I; Intel Mac OS X 10_6_7; -"
-	"/5.0 ; MSIE 9.0; Windows NT 6.1; /5.0"
-	"/1.22 ; MSIE 6.0; Windows NT 6.1; /4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;  Center PC 6.0; OfficeLiveConnector.1.4; OfficeLivePatch.1.3"
-	"/5.0 ; /3.0; +://yandex.com/bots"
-	"/4.0 Macintosh; U; Intel Mac OS X 10_6_7; -US /534.16 KHTML,  Gecko /10.0.648.205 Safari/534.16"
-	"/1.22 X11; U; Linux x86_64; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1"
-	"/5.0 ; MSIE 2.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.2"
-	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"
-	"/5.0 ; MSIE 2.0; Windows CE;  7.0"
-	"/4.0 Macintosh; U; PPC Mac OS X; -US"
-	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7"
-	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0"
-	"/1.22 ; MSIE 2.0; Windows 3.1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322"
-	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727"
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1",
+	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2",
+	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15",
+	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57",
+	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0",
+	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0",
+	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/",
+	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1",
+	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125",
+	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1",
+	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2",
+	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
+	"Links 2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25",
+	"/4.0 ; MSIE 6.0; Windows NT 5.0; WOW64; /4.0; SLCC1",
+	"/1.22 ; Konqueror/4.3; Linux KHTML/4.3.5  Gecko",
+	"/4.0 ; MSIE 6.0; Windows CE;  6.5",
+	"/9.80 Macintosh; U; - Presto/2.8.131 /11.10",
+	"/5.0 X11; U; Linux i686; -US; rv:1.9.1.9 Gecko/20100318 /2.0.4-69.1mib2010.0 SeaMonkey/2.0.4",
+	"/4.0 ; MSIE 6.1; Windows XP Gecko/20060706 /7.0",
+	"/5.0 ; U; CPU OS 3_2  Mac OS X; -us /531.21.10 KHTML,  Gecko /4.0.4 /7B334b Safari/531.21.10",
+	"/5.0 Macintosh; I; Intel Mac OS X 10_6_7; -",
+	"/5.0 ; MSIE 9.0; Windows NT 6.1; /5.0",
+	"/1.22 ; MSIE 6.0; Windows NT 6.1; /4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;  Center PC 6.0; OfficeLiveConnector.1.4; OfficeLivePatch.1.3",
+	"/5.0 ; /3.0; +://yandex.com/bots",
+	"/4.0 Macintosh; U; Intel Mac OS X 10_6_7; -US /534.16 KHTML,  Gecko /10.0.648.205 Safari/534.16",
+	"/1.22 X11; U; Linux x86_64; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1",
+	"/5.0 ; MSIE 2.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.2",
+	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51",
+	"/5.0 ; MSIE 2.0; Windows CE;  7.0",
+	"/4.0 Macintosh; U; PPC Mac OS X; -US",
+	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7",
+	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0",
+	"/1.22 ; MSIE 2.0; Windows 3.1",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322",
+	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/7.0 ; MSIE 2.0; Windows 3.1",
+	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10",
+	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;",
+	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007",
+	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727",
+	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E",
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1",
+	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2",
+	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15",
+	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57",
+	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0",
+	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0",
+	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/",
+	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1",
+	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125",
+	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1",
+	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413",
+	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2",
+	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
+	"Links 2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25",
+	"/4.0 ; MSIE 6.0; Windows NT 5.0; WOW64; /4.0; SLCC1",
+	"/1.22 ; Konqueror/4.3; Linux KHTML/4.3.5  Gecko",
+	"/4.0 ; MSIE 6.0; Windows CE;  6.5",
+	"/9.80 Macintosh; U; - Presto/2.8.131 /11.10",
+	"/5.0 X11; U; Linux i686; -US; rv:1.9.1.9 Gecko/20100318 /2.0.4-69.1mib2010.0 SeaMonkey/2.0.4",
+	"/4.0 ; MSIE 6.1; Windows XP Gecko/20060706 /7.0",
+	"/5.0 ; U; CPU OS 3_2  Mac OS X; -us /531.21.10 KHTML,  Gecko /4.0.4 /7B334b Safari/531.21.10",
+	"/5.0 Macintosh; I; Intel Mac OS X 10_6_7; -",
+	"/5.0 ; MSIE 9.0; Windows NT 6.1; /5.0",
+	"/1.22 ; MSIE 6.0; Windows NT 6.1; /4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;  Center PC 6.0; OfficeLiveConnector.1.4; OfficeLivePatch.1.3",
+	"/5.0 ; /3.0; +://yandex.com/bots",
+	"/4.0 Macintosh; U; Intel Mac OS X 10_6_7; -US /534.16 KHTML,  Gecko /10.0.648.205 Safari/534.16",
+	"/1.22 X11; U; Linux x86_64; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1",
+	"/5.0 ; MSIE 2.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.2",
+	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51",
+	"/5.0 ; MSIE 2.0; Windows CE;  7.0",
+	"/4.0 Macintosh; U; PPC Mac OS X; -US",
+	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7",
+	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0",
+	"/1.22 ; MSIE 2.0; Windows 3.1",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322",
+	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727",
 	"/7.0 ; MSIE 2.0; Windows 3.1"
-	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10"
-	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;"
-	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007"
-	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2"
-	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15"
-	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57"
-	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0"
-	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0"
-	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/"
-	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1"
-	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125"
-	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1"
-	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2"
-	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US"
-	"Links 2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25"
-	"/4.0 ; MSIE 6.0; Windows NT 5.0; WOW64; /4.0; SLCC1"
-	"/1.22 ; Konqueror/4.3; Linux KHTML/4.3.5  Gecko"
-	"/4.0 ; MSIE 6.0; Windows CE;  6.5"
-	"/9.80 Macintosh; U; - Presto/2.8.131 /11.10"
-	"/5.0 X11; U; Linux i686; -US; rv:1.9.1.9 Gecko/20100318 /2.0.4-69.1mib2010.0 SeaMonkey/2.0.4"
-	"/4.0 ; MSIE 6.1; Windows XP Gecko/20060706 /7.0"
-	"/5.0 ; U; CPU OS 3_2  Mac OS X; -us /531.21.10 KHTML,  Gecko /4.0.4 /7B334b Safari/531.21.10"
-	"/5.0 Macintosh; I; Intel Mac OS X 10_6_7; -"
-	"/5.0 ; MSIE 9.0; Windows NT 6.1; /5.0"
-	"/1.22 ; MSIE 6.0; Windows NT 6.1; /4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;  Center PC 6.0; OfficeLiveConnector.1.4; OfficeLivePatch.1.3"
-	"/5.0 ; /3.0; +://yandex.com/bots"
-	"/4.0 Macintosh; U; Intel Mac OS X 10_6_7; -US /534.16 KHTML,  Gecko /10.0.648.205 Safari/534.16"
-	"/1.22 X11; U; Linux x86_64; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1"
-	"/5.0 ; MSIE 2.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.2"
-	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"
-	"/5.0 ; MSIE 2.0; Windows CE;  7.0"
-	"/4.0 Macintosh; U; PPC Mac OS X; -US"
-	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7"
-	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0"
-	"/1.22 ; MSIE 2.0; Windows 3.1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322"
-	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/7.0 ; MSIE 2.0; Windows 3.1"
-	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10"
-	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;"
-	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007"
-	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179"
-	"/5.0 ; 008/0.83; ://www.80legs.com/webcrawler.html Gecko/2008032620"
-	"/4.0 ; MSIE 7.0; Windows NT 6.0  www.idealobserver.com"
-	"/5.0 ; /1.0; +://www.anyapex.com/.html"
-	"/4.0 ; Arachmo"
-	"/4.0 ; B-l-i--z-B-O-T"
-	"/5.0 ; Baiduspider/2.0; +://.com/search/spider.html"
-	"/5.0 ; Baiduspider/2.0; +://.com/search/spider.html"
-	"/5.0 ; /2.3; MSIE 6.0 ; +://.com/site_owners.html"
-	"/1.0 +://.com/crawler/"
-	"/5.0 ; /2.0; +://.com/.htm"
-	"Sqworm/2.9.85-BETA beta_release; 20011115-775; i686-pc-linux-"
-	"/5.0 ; YandexImages/3.0; +://yandex.com/bots"
-	"/5.0 ; Yahoo! ; ://.yahoo.com//us/ysearch/"
-	"/5.0 ; /1.0; ://www.yodao.com//webmaster/spider/; "
-	"/5.0 ; /1.0; ://www.yodao.com//webmaster/spider/; "
-	"/4.0  /1.0  Link Checker @; ://.com"
-	"/4.0  /1.0  Link Checker .dlc@; ://.com"
-	"/4.0  /1.0 -@; ://.com"
-	"/5.0 ; U;  0.6;  /420+ KHTML,  Gecko"
-	"/5.0 ; MSIE 8.0; Windows NT 6.0; /4.0; Acoo Browser 1.98.744; .NET CLR 3.5.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; Acoo Browser; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729;  Browser"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; Acoo Browser; GTB6; /4.0 ; MSIE 6.0; Windows NT 5.1; SV1 ; InfoPath.1; .NET CLR 3.5.30729; .NET CLR 3.0.30618"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; Acoo Browser; .NET CLR 1.1.4322; .NET CLR 2.0.50727"
-	"/5.0 Macintosh; U; PPC Mac OS X;  /419 KHTML,  Gecko, Safari/419.3 /1.0.ALPHA"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.2 KHTML,  Gecko ChromePlus/4.0.222.3 /4.0.222.3 Safari/532.2"
-	"/5.0 Windows; U; Windows NT 6.1; -US /534.10 KHTML,  Gecko /8.0.552.215 Safari/534.10 ChromePlus/1.5.1.1"
-	"Links 2.7; Linux 3.7.9-2-ARCH x86_64; GNU C 4.7.1; "
-	"/5.0 Macintosh; Intel Mac OS X 10_9_3 /537.75.14 KHTML,  Gecko /7.0.3 Safari/7046A194A"
-	"/5.0 PLAYSTATION 3; 3.55"
-	"/5.0 PLAYSTATION 3; 2.00"
-	"/5.0 PLAYSTATION 3; 1.00"
-	"/5.0 Windows NT 6.3; WOW64; rv:24.0 Gecko/20100101 /24.4.0"
-	"/5.0 ; /1.0; +://www.abilogic.com/.html"
-	"SiteBar/3.3.8 Bookmark Server; :///"
-	"iTunes/9.0.3 Macintosh; U; Intel Mac OS X 10_6_2; -"
-	"iTunes/9.0.3 Macintosh; U; Intel Mac OS X 10_6_2; -"
-	"/4.0 ;  3.0; Macintosh"
-	"/5.0 Windows; U; Windows NT 5.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/3.6.3 FM  4.6.1"
-	"/5.0 Windows; U; Windows NT 5.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/3.6.3 .NET CLR 3.5.30729 Prevx 3.0.5 "
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.8.1.8 Gecko/20071004 Iceweasel/2.0.0.8 -2.0.0.6+2.0.0.8-Oetch1"
-	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.8.0.1 Gecko/20060111 Firefox/1.5.0.1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; {1C69E7AA-C14E-200E-5A77-8EAB2D667A07}"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; acc=baadshah; acc=;  DSL 1.1; "
-	"/4.0 ; MSIE 5.5; Windows 98"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1;   8.51"
-	"/5.0 Windows; U; Windows NT 5.1; -US; rv:1.8.0.1 Gecko/20060111 Firefox/1.5.0.1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; snprtz|S26320700000083|2600# Pack 1#2#5#154321|"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1;  Toolbar; ; .NET CLR 1.1.4322"
-	"/5.0 Macintosh; U; PPC Mac OS X; - /417.9 KHTML,  Gecko Safari/417.8"
-	"/5.0 X11; U; Linux i686; -US; rv:1.7.12 Gecko/20051010 Firefox/1.0.7   1.0.7"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0"
-	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; .NET CLR 2.0.50727; InfoPath.2"
-	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US"
-	"/4.0 ; MSIE 6.1; Windows XP"
-	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2"
-	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15"
-	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57"
-	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0"
-	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0"
-	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/"
-	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1"
-	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125"
-	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1"
-	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2"
-	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US"
-	"Links 2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25"
-	"/4.0 ; MSIE 6.0; Windows NT 5.0; WOW64; /4.0; SLCC1"
-	"/1.22 ; Konqueror/4.3; Linux KHTML/4.3.5  Gecko"
-	"/4.0 ; MSIE 6.0; Windows CE;  6.5"
-	"/9.80 Macintosh; U; - Presto/2.8.131 /11.10"
-	"/5.0 X11; U; Linux i686; -US; rv:1.9.1.9 Gecko/20100318 /2.0.4-69.1mib2010.0 SeaMonkey/2.0.4"
-	"/4.0 ; MSIE 6.1; Windows XP Gecko/20060706 /7.0"
-	"/5.0 ; U; CPU OS 3_2  Mac OS X; -us /531.21.10 KHTML,  Gecko /4.0.4 /7B334b Safari/531.21.10"
-	"/5.0 Macintosh; I; Intel Mac OS X 10_6_7; -"
-	"/5.0 ; MSIE 9.0; Windows NT 6.1; /5.0"
-	"/1.22 ; MSIE 6.0; Windows NT 6.1; /4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;  Center PC 6.0; OfficeLiveConnector.1.4; OfficeLivePatch.1.3"
-	"/5.0 ; /3.0; +://yandex.com/bots"
-	"/4.0 Macintosh; U; Intel Mac OS X 10_6_7; -US /534.16 KHTML,  Gecko /10.0.648.205 Safari/534.16"
-	"/1.22 X11; U; Linux x86_64; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1"
-	"/5.0 ; MSIE 2.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.2"
-	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"
-	"/5.0 ; MSIE 2.0; Windows CE;  7.0"
-	"/4.0 Macintosh; U; PPC Mac OS X; -US"
-	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7"
-	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0"
-	"/1.22 ; MSIE 2.0; Windows 3.1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322"
-	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/7.0 ; MSIE 2.0; Windows 3.1"
-	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10"
-	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;"
-	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007"
-	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179"
-	"/4.0 ; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322"
-	"/2.1 ://.com/.html"
-	"/9.20 Windows NT 6.0; U; "
-	"/5.0 X11; U; Linux i686; -US; rv:1.8.1.1 Gecko/20061205 Iceweasel/2.0.0.1 -2.0.0.1+-2"
-	"/4.0 ; MSIE 7.0; Windows NT 5.1; /4.0; FDM; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 1.1.4322"
-	"/10.00 X11; Linux i686; U;  Presto/2.2.0"
-	"/5.0 Windows; U; Windows NT 6.0; -IL /528.16 KHTML,  Gecko /4.0 Safari/528.16"
-	"/5.0 ; Yahoo! /3.0; ://.yahoo.com//us/ysearch/"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.13 Gecko/20101209 Firefox/3.6.13"
-	"/4.0 ; MSIE 9.0; Windows NT 5.1; /5.0"
-	"/5.0 ; MSIE 8.0; Windows NT 5.1; /4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727"
-	"/4.0 ; MSIE 7.0b; Windows NT 6.0"
-	"/4.0 ; MSIE 6.0b; Windows 98"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/4.0 .NET CLR 3.5.30729"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.8 Gecko/20100804 Gentoo Firefox/3.6.8"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.2.7 Gecko/20100809 /3.6.7-1.fc14 Firefox/3.6.7"
-	"/5.0 ; /2.1; +://.com/.html"
-	"/5.0 ; Yahoo! ; ://.yahoo.com//us/ysearch/"
-	"YahooSeeker/1.2 ;  4.0; MSIE 5.5; yahooseeker  yahoo-inc  com ; ://.yahoo.com//us///"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0"
-	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; .NET CLR 2.0.50727; InfoPath.2"
-	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US"
-	"/4.0 ; MSIE 6.1; Windows XP"
-	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"
-	"-; +://.com/; : webetrex"
-	"/5.0 ; MSIE 9.0; AOL 9.7;  4343.19; Windows NT 6.1; WOW64; /5.0; FunWebProducts"
-	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.27; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729"
-	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.21; Windows NT 5.1; /4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E"
-	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; GTB7.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729"
-	"/4.0 ; MSIE 8.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E"
-	"/4.0 ; MSIE 7.0; AOL 9.7;  4343.19; Windows NT 5.1; /4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2"
-	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15"
-	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57"
-	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0"
-	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0"
-	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/"
-	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1"
-	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125"
-	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1"
-	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2"
-	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US"
-	"Links 2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25"
-	"/4.0 ; MSIE 6.0; Windows NT 5.0; WOW64; /4.0; SLCC1"
-	"/1.22 ; Konqueror/4.3; Linux KHTML/4.3.5  Gecko"
-	"/4.0 ; MSIE 6.0; Windows CE;  6.5"
-	"/9.80 Macintosh; U; - Presto/2.8.131 /11.10"
-	"/5.0 X11; U; Linux i686; -US; rv:1.9.1.9 Gecko/20100318 /2.0.4-69.1mib2010.0 SeaMonkey/2.0.4"
-	"/4.0 ; MSIE 6.1; Windows XP Gecko/20060706 /7.0"
-	"/5.0 ; U; CPU OS 3_2  Mac OS X; -us /531.21.10 KHTML,  Gecko /4.0.4 /7B334b Safari/531.21.10"
-	"/5.0 Macintosh; I; Intel Mac OS X 10_6_7; -"
-	"/5.0 ; MSIE 9.0; Windows NT 6.1; /5.0"
-	"/1.22 ; MSIE 6.0; Windows NT 6.1; /4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;  Center PC 6.0; OfficeLiveConnector.1.4; OfficeLivePatch.1.3"
-	"/5.0 ; /3.0; +://yandex.com/bots"
-	"/4.0 Macintosh; U; Intel Mac OS X 10_6_7; -US /534.16 KHTML,  Gecko /10.0.648.205 Safari/534.16"
-	"/1.22 X11; U; Linux x86_64; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1"
-	"/5.0 ; MSIE 2.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.2"
-	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"
-	"/5.0 ; MSIE 2.0; Windows CE;  7.0"
-	"/4.0 Macintosh; U; PPC Mac OS X; -US"
-	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7"
-	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0"
-	"/1.22 ; MSIE 2.0; Windows 3.1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322"
-	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/7.0 ; MSIE 2.0; Windows 3.1"
-	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10"
-	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;"
-	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007"
-	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/5.0 Windows; U; Windows NT 5.2; -; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 6.1; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1 .NET CLR 3.0.04506.648"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.1 KHTML,  Gecko /4.0.219.6 Safari/532.1"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2"
-	"/9.60 J2ME/MIDP;  Mini/4.2.14912/812; U;  Presto/2.4.15"
-	"/5.0 Macintosh; U; PPC Mac OS X; -US /125.4 KHTML,  Gecko, Safari OmniWeb/v563.57"
-	"/5.0 SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; /MIDP-2.0 /CLDC-1.1  /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0"
-	"/5.0 Windows; U; WinNT4.0; -US; rv:1.8.0.5 Gecko/20060706 K-/1.0"
-	"Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/"
-	"/4.76 [] PalmOS; U; WebPro/; Palm-Arz1"
-	"/5.0 Macintosh; U; PPC Mac OS X; - /418 KHTML,  Gecko /1.2.2 Safari/125"
-	"/5.0 X11; U; Linux i686 x86_64; -US; rv:1.8.1.6 Gecko/2007072300 Iceweasel/2.0.0.6 -2.0.0.6-0etch1+lenny1"
-	"/5.0 SymbianOS/9.1; U; -us /413 KHTML,  Gecko Safari/413"
-	"/4.0 ; MSIE 6.1; Windows NT 5.1; /4.0; SV1; .NET CLR 3.5.30729; InfoPath.2"
-	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US"
-	"Links 2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25"
-	"/4.0 ; MSIE 6.0; Windows NT 5.0; WOW64; /4.0; SLCC1"
-	"/1.22 ; Konqueror/4.3; Linux KHTML/4.3.5  Gecko"
-	"/4.0 ; MSIE 6.0; Windows CE;  6.5"
-	"/9.80 Macintosh; U; - Presto/2.8.131 /11.10"
-	"/5.0 X11; U; Linux i686; -US; rv:1.9.1.9 Gecko/20100318 /2.0.4-69.1mib2010.0 SeaMonkey/2.0.4"
-	"/4.0 ; MSIE 6.1; Windows XP Gecko/20060706 /7.0"
-	"/5.0 ; U; CPU OS 3_2  Mac OS X; -us /531.21.10 KHTML,  Gecko /4.0.4 /7B334b Safari/531.21.10"
-	"/5.0 Macintosh; I; Intel Mac OS X 10_6_7; -"
-	"/5.0 ; MSIE 9.0; Windows NT 6.1; /5.0"
-	"/1.22 ; MSIE 6.0; Windows NT 6.1; /4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;  Center PC 6.0; OfficeLiveConnector.1.4; OfficeLivePatch.1.3"
-	"/5.0 ; /3.0; +://yandex.com/bots"
-	"/4.0 Macintosh; U; Intel Mac OS X 10_6_7; -US /534.16 KHTML,  Gecko /10.0.648.205 Safari/534.16"
-	"/1.22 X11; U; Linux x86_64; -US; rv:1.9.1.1 Gecko/20090718 Firefox/3.5.1"
-	"/5.0 ; MSIE 2.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.2"
-	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"
-	"/5.0 ; MSIE 2.0; Windows CE;  7.0"
-	"/4.0 Macintosh; U; PPC Mac OS X; -US"
-	"/5.0 Windows; U; Windows NT 6.0; ; rv:1.9.1.7 Gecko/20091221 Firefox/3.5.7"
-	"BlackBerry8300/4.2.2 /MIDP-2.0 /CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0"
-	"/1.22 ; MSIE 2.0; Windows 3.1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1;  Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322"
-	"/3.0 Windows NT 6.1; -; rv:1.9.1.3. Win32; x86 Firefox/3.5.3 .NET CLR 2.0.50727"
-	"/7.0 ; MSIE 2.0; Windows 3.1"
-	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10"
-	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;"
-	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007"
-	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179"
-	"/5.0 ; 008/0.83; ://www.80legs.com/webcrawler.html Gecko/2008032620"
-	"/4.0 ; MSIE 7.0; Windows NT 6.0  www.idealobserver.com"
-	"/5.0 ; /1.0; +://www.anyapex.com/.html"
-	"/4.0 ; Arachmo"
-	"/4.0 ; B-l-i--z-B-O-T"
-	"/5.0 ; Baiduspider/2.0; +://.com/search/spider.html"
-	"/5.0 ; Baiduspider/2.0; +://.com/search/spider.html"
-	"/5.0 ; /2.3; MSIE 6.0 ; +://.com/site_owners.html"
-	"/1.0 +://.com/crawler/"
-	"/5.0 ; /2.0; +://.com/.htm"
-	"Sqworm/2.9.85-BETA beta_release; 20011115-775; i686-pc-linux-"
-	"/5.0 ; YandexImages/3.0; +://yandex.com/bots"
-	"/5.0 ; Yahoo! ; ://.yahoo.com//us/ysearch/"
-	"/5.0 ; /1.0; ://www.yodao.com//webmaster/spider/; "
-	"/5.0 ; /1.0; ://www.yodao.com//webmaster/spider/; "
-	"/4.0  /1.0  Link Checker @; ://.com"
-	"/4.0  /1.0  Link Checker .dlc@; ://.com"
-	"/4.0  /1.0 -@; ://.com"
-	"/5.0 ; U;  0.6;  /420+ KHTML,  Gecko"
-	"/5.0 ; MSIE 8.0; Windows NT 6.0; /4.0; Acoo Browser 1.98.744; .NET CLR 3.5.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; Acoo Browser; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729;  Browser"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; Acoo Browser; GTB6; /4.0 ; MSIE 6.0; Windows NT 5.1; SV1 ; InfoPath.1; .NET CLR 3.5.30729; .NET CLR 3.0.30618"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; Acoo Browser; .NET CLR 1.1.4322; .NET CLR 2.0.50727"
-	"/5.0 Macintosh; U; PPC Mac OS X;  /419 KHTML,  Gecko, Safari/419.3 /1.0.ALPHA"
-	"/5.0 Windows; U; Windows NT 5.1; -US /532.2 KHTML,  Gecko ChromePlus/4.0.222.3 /4.0.222.3 Safari/532.2"
-	"/5.0 Windows; U; Windows NT 6.1; -US /534.10 KHTML,  Gecko /8.0.552.215 Safari/534.10 ChromePlus/1.5.1.1"
-	"Links 2.7; Linux 3.7.9-2-ARCH x86_64; GNU C 4.7.1; "
-	"/5.0 Macintosh; Intel Mac OS X 10_9_3 /537.75.14 KHTML,  Gecko /7.0.3 Safari/7046A194A"
-	"/5.0 PLAYSTATION 3; 3.55"
-	"/5.0 PLAYSTATION 3; 2.00"
-	"/5.0 PLAYSTATION 3; 1.00"
-	"/5.0 Windows NT 6.3; WOW64; rv:24.0 Gecko/20100101 /24.4.0"
-	"/5.0 ; /1.0; +://www.abilogic.com/.html"
-	"SiteBar/3.3.8 Bookmark Server; :///"
-	"iTunes/9.0.3 Macintosh; U; Intel Mac OS X 10_6_2; -"
-	"iTunes/9.0.3 Macintosh; U; Intel Mac OS X 10_6_2; -"
-	"/4.0 ;  3.0; Macintosh"
-	"/5.0 Windows; U; Windows NT 5.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/3.6.3 FM  4.6.1"
-	"/5.0 Windows; U; Windows NT 5.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/3.6.3 .NET CLR 3.5.30729 Prevx 3.0.5 "
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.8.1.8 Gecko/20071004 Iceweasel/2.0.0.8 -2.0.0.6+2.0.0.8-Oetch1"
-	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.8.0.1 Gecko/20060111 Firefox/1.5.0.1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; {1C69E7AA-C14E-200E-5A77-8EAB2D667A07}"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; acc=baadshah; acc=;  DSL 1.1; "
-	"/4.0 ; MSIE 5.5; Windows 98"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1;   8.51"
-	"/5.0 Windows; U; Windows NT 5.1; -US; rv:1.8.0.1 Gecko/20060111 Firefox/1.5.0.1"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; snprtz|S26320700000083|2600# Pack 1#2#5#154321|"
-	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1;  Toolbar; ; .NET CLR 1.1.4322"
-	"/5.0 Macintosh; U; PPC Mac OS X; - /417.9 KHTML,  Gecko Safari/417.8"
-	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3"
+	"/9.80 Windows NT 5.1; U; -US Presto/2.8.131 /11.10",
+	"/4.0 ; MSIE 6.0;   Browser 1.1; rev1.5; Windows NT 5.1;",
+	"/5.0 Windows; U; Windows CE 4.21; rv:1.8b4 Gecko/20050720 Minimo/0.007",
+	"BlackBerry9000/5.0.0.93 /MIDP-2.0 /CLDC-1.1 VendorID/179",
+	"/5.0 ; 008/0.83; ://www.80legs.com/webcrawler.html Gecko/2008032620",
+	"/4.0 ; MSIE 7.0; Windows NT 6.0  www.idealobserver.com",
+	"/5.0 ; /1.0; +://www.anyapex.com/.html",
+	"/4.0 ; Arachmo",
+	"/4.0 ; B-l-i--z-B-O-T",
+	"/5.0 ; Baiduspider/2.0; +://.com/search/spider.html",
+	"/5.0 ; Baiduspider/2.0; +://.com/search/spider.html",
+	"/5.0 ; /2.3; MSIE 6.0 ; +://.com/site_owners.html",
+	"/1.0 +://.com/crawler/",
+	"/5.0 ; /2.0; +://.com/.htm",
+	"Sqworm/2.9.85-BETA beta_release; 20011115-775; i686-pc-linux-",
+	"/5.0 ; YandexImages/3.0; +://yandex.com/bots",
+	"/5.0 ; Yahoo! ; ://.yahoo.com//us/ysearch/",
+	"/5.0 ; /1.0; ://www.yodao.com//webmaster/spider/; ",
+	"/5.0 ; /1.0; ://www.yodao.com//webmaster/spider/; ",
+	"/4.0  /1.0  Link Checker @; ://.com",
+	"/4.0  /1.0  Link Checker .dlc@; ://.com",
+	"/4.0  /1.0 -@; ://.com",
+	"/5.0 ; U;  0.6;  /420+ KHTML,  Gecko",
+	"/5.0 ; MSIE 8.0; Windows NT 6.0; /4.0; Acoo Browser 1.98.744; .NET CLR 3.5.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; Acoo Browser; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729;  Browser",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; Acoo Browser; GTB6; /4.0 ; MSIE 6.0; Windows NT 5.1; SV1 ; InfoPath.1; .NET CLR 3.5.30729; .NET CLR 3.0.30618",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1; Acoo Browser; .NET CLR 1.1.4322; .NET CLR 2.0.50727",
+	"/5.0 Macintosh; U; PPC Mac OS X;  /419 KHTML,  Gecko, Safari/419.3 /1.0.ALPHA",
+	"/5.0 Windows; U; Windows NT 5.1; -US /532.2 KHTML,  Gecko ChromePlus/4.0.222.3 /4.0.222.3 Safari/532.2",
+	"/5.0 Windows; U; Windows NT 6.1; -US /534.10 KHTML,  Gecko /8.0.552.215 Safari/534.10 ChromePlus/1.5.1.1",
+	"Links 2.7; Linux 3.7.9-2-ARCH x86_64; GNU C 4.7.1; ",
+	"/5.0 Macintosh; Intel Mac OS X 10_9_3 /537.75.14 KHTML,  Gecko /7.0.3 Safari/7046A194A",
+	"/5.0 PLAYSTATION 3; 3.55",
+	"/5.0 PLAYSTATION 3; 2.00",
+	"/5.0 PLAYSTATION 3; 1.00",
+	"/5.0 Windows NT 6.3; WOW64; rv:24.0 Gecko/20100101 /24.4.0",
+	"/5.0 ; /1.0; +://www.abilogic.com/.html",
+	"SiteBar/3.3.8 Bookmark Server; :///",
+	"iTunes/9.0.3 Macintosh; U; Intel Mac OS X 10_6_2; -",
+	"iTunes/9.0.3 Macintosh; U; Intel Mac OS X 10_6_2; -",
+	"/4.0 ;  3.0; Macintosh",
+	"/5.0 Windows; U; Windows NT 5.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/3.6.3 FM  4.6.1",
+	"/5.0 Windows; U; Windows NT 5.1; ; rv:1.9.2.3 Gecko/20100401 Firefox/3.6.3 .NET CLR 3.5.30729 Prevx 3.0.5 ",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.8.1.8 Gecko/20071004 Iceweasel/2.0.0.8 -2.0.0.6+2.0.0.8-Oetch1",
+	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.8.0.1 Gecko/20060111 Firefox/1.5.0.1",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; {1C69E7AA-C14E-200E-5A77-8EAB2D667A07}",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; acc=baadshah; acc=;  DSL 1.1; ",
+	"/4.0 ; MSIE 5.5; Windows 98",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1;   8.51",
+	"/5.0 Windows; U; Windows NT 5.1; -US; rv:1.8.0.1 Gecko/20060111 Firefox/1.5.0.1",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; snprtz|S26320700000083|2600# Pack 1#2#5#154321|",
+	"/4.0 ; MSIE 6.0; Windows NT 5.1; SV1;  Toolbar; ; .NET CLR 1.1.4322",
+	"/5.0 Macintosh; U; PPC Mac OS X; - /417.9 KHTML,  Gecko Safari/417.8",
+	"/5.0 X11; U; Linux x86_64; -US; rv:1.9.1.3 Gecko/20090913 Firefox/3.5.3",
 
         
 	
 # Gakusei is  605 new Useragents_Append under 
 
-	"Privoxy/1.0"
-	"*/Nutch-0.9-dev"
-	"+//1.0 +  Day"
-	"-DIE-KRAEHE- META-SEARCH-ENGINE/1.1 ://-"
-	"123spider- : 1.02  by "
-	""
-	" ZipCommander  - ://www.zipcommander.com/"
-	"2Bone_LinkChecker/1.0 libwww-perl/5.64"
-	".com LinkChecker v2.0"
+	"Privoxy/1.0",
+	"*/Nutch-0.9-dev",
+	"+//1.0 +  Day",
+	"-DIE-KRAEHE- META-SEARCH-ENGINE/1.1 ://-",
+	"123spider- : 1.02  by ",
+	"",
+	" ZipCommander  - ://www.zipcommander.com/",
+	"2Bone_LinkChecker/1.0 libwww-perl/5.64",
+	".com LinkChecker v2.0",
 	"8484   v 1.0"
-	":/1.0 linux   -mail:  :////search/.html "
-	"A- Search"
-	"A1  Research/1.0.2 +://www.micro-sys.dk/products/-research/ /2007.03.27"
-	"A1  Generator/1.0 +://www.micro-sys.dk/products/-generator/ /2006.01.24"
-	"AbachoBOT"
-	"AbachoBOT  "
-	"ABCdatos BotLink/5.xx.xxx#BBL"
-	"  	  Germany"
-	"/0.1 ; ://.com; @.com"
-	"/0.1libwww-perl/5.47"
-	"Accelatech RSSCrawler/0.4"
-	" 	 Search "
-	"-AI-/1.1.1 crawler    com"
-	"-AI-/1.1.2 aicrawler    com"
-	" Explorer"
-	"Ack ://www.ackerm.com/"
-	""
-	"  v1.50.001"
-	"  v1.52 ://"
-	"- 4.0.x.[xx] ://"
-	"- v3.xx ://  ://.com"
-	"/Nutch-0.9 - Search ; ;     "
-	"ActiveBookmark 1.x"
-	"Activeworlds"
-	"ActiveWorlds/3.xx xxx"
-	" Muncher v4.xx.x"
-	" Muncher v4x  xxxxx"
-	"Adaxas Spider :///"
-	" Browser ://www.avantbrowser.com"
-	"AESOP_com_SpiderMan"
-	"/1.x.x +://"
-	"-/2.0++://.com"
-	"/0.1 libwww-perl/5.48"
-	"AIBOT/2.1 By +www.21seek.com A Real artificial  search  "
-	"AideRSS/1.0 aiderss.com"
-	"/1.0 ; ://.com; @.com"
-	"/2-  dev; ://.com; @.com"
-	"Akregator/1.2.9; librss/remnants"
-	"/3.324"
-	"Alcatel-BG3/1.0 UP.Browser/5.0.3.1.2"
-	" Spider/1.0 +://.com/"
-	"AlertInfo 2.0  by "
-	"AlkalineBOT/1.3"
+	":/1.0 linux   -mail:  :////search/.html ",
+	"A- Search",
+	"A1  Research/1.0.2 +://www.micro-sys.dk/products/-research/ /2007.03.27",
+	"A1  Generator/1.0 +://www.micro-sys.dk/products/-generator/ /2006.01.24",
+	"AbachoBOT",
+	"AbachoBOT  ",
+	"ABCdatos BotLink/5.xx.xxx#BBL",
+	"  	  Germany",
+	"/0.1 ; ://.com; @.com",
+	"/0.1libwww-perl/5.47",
+	"Accelatech RSSCrawler/0.4",
+	" 	 Search ",
+	"-AI-/1.1.1 crawler    com",
+	"-AI-/1.1.2 aicrawler    com",
+	" Explorer",
+	"Ack ://www.ackerm.com/",
+	"",
+	"  v1.50.001",
+	"  v1.52 ://",
+	"- 4.0.x.[xx] ://",
+	"- v3.xx ://  ://.com",
+	"/Nutch-0.9 - Search ; ;     ",
+	"ActiveBookmark 1.x",
+	"Activeworlds",
+	"ActiveWorlds/3.xx xxx",
+	" Muncher v4.xx.x",
+	" Muncher v4x  xxxxx",
+	"Adaxas Spider :///",
+	" Browser ://www.avantbrowser.com",
+	"AESOP_com_SpiderMan",
+	"/1.x.x +://",
+	"-/2.0++://.com",
+	"/0.1 libwww-perl/5.48",
+	"AIBOT/2.1 By +www.21seek.com A Real artificial  search  ",
+	"AideRSS/1.0 aiderss.com",
+	"/1.0 ; ://.com; @.com",
+	"/2-  dev; ://.com; @.com",
+	"Akregator/1.2.9; librss/remnants",
+	"/3.324",
+	"Alcatel-BG3/1.0 UP.Browser/5.0.3.1.2",
+	" Spider/1.0 +://.com/",
+	"AlertInfo 2.0  by ",
+	"AlkalineBOT/1.3",
 	"AlkalineBOT/1.4 1.4.0326.0 RTM"
-	"Allesklar/0.1 libwww-perl/5.46"
-	"Alligator 1.31 .com"
-	"Allrati/1.1 +"
-	"  V2.0 AVS EVAL search@.com"
-	"  V2.0 Compaq  Eval @"
-	"  V2.0 .com crawler@.com"
-	" V2.0B crawler@.com"
-	"/x.xx libwww/x.x.x"
-	"AmfibiBOT"
-	"/0.06 Amfibi Web Search; ://www.amfibi.com; @amfibi.com"
-	"/0.07 Amfibi ; ://www.amfibi.com; @amfibi.com"
-	""
-	"-AWeb/3.4.167SE"
-	"AmigaVoyager/3.4.4 MorphOS/PPC "
-	"AmiTCP Miami AmigaOS 2.04"
-	"Amoi 8512/R21.0 NF-Browser/3.3"
-	"amzn_assoc"
-	" spider 0.1  - ://"
-	"annotate_google; :////annotate_google.user.js"
-	" by ProxyOS: ://www.megaproxy.com"
-	"Anonymizer/1.1"
-	"AnswerBus ://www.answerbus.com/"
-	"  x.0"
-	" x.0"
-	"ANTFresco/x.xx"
-	"-V1.1.5/i586-linux-2.2"
-	"AnzwersCrawl/2.0 anzwerscrawl@;"
-	"Apexoo Spider 1.x"
-	"Aplix HTTP/1.0.1"
-	"Aplix_SANYO_browser/1.x "
-	"Aplix_SEGASATURN_browser/1.x "
-	""
-	" 1.1 www.walhello.com"
-	"  v1.1.4  v1.0.0.4A102"
-	"-PubSub/65.1.1"
-	" ; /5.0; ; FAST Crawler 6.4; ://www.araby.com;"
-	" @euroseek.com"
-
-	"ArchitextSpider"
-	".org_bot"
-	"Argus/1.1 Nutch; ://www.simpy.com/.html; feedback  simpy  com"
-	"Arikus_Spider"
-	"Arquivo-web-crawler ; heritrix/1.12.1 +://arquivo-"
-	"ASAHA Search  Turkey V.001 ://.com/"
-	"-/1.x"
-	"-/1.x .pl/x.x ; .pl/x.x"
-	"ask.24x.info"
-	"AskAboutOil/0.06- Nutch; :///docs//.html; nutch-@askaboutoil.com"
-	"/Nutch-0.8 web crawler; ://; epicurus  gmail  com"
-	"ASPSeek/1.2.5"
-	"ASPseek/"
-	"ASPSeek/1.2.x"
-	"ASPSeek/"
-	"ASPseek/1.2.xx"
-	"ASPSeek/"
-	"ASSORT/0.10"
-	"asterias/2.0"
-	"/1.1 +://www.atlocal.com/local-web--owner.html"
-	"Atomic_Email_Hunter/4.0"
-	"Atomz/1.0"
-	"atSpider/1.0"
-	"Attentio/Nutch-0.9-dev Attentios   crawler; www.attentio.com; info@attentio.com"
-	"AU-MIC/2.0 MMP/2.0"
-	"AUDIOVOX-SMT5600"
-	" V-1.x"
-	"autoemailspider"
-	"autowebdir 1.1 www.autowebdir.com"
-	"AV Fetch 1.0"
-	" Browser ://www.avantbrowser.com"
-	"AVSearch-1.0peter.turney@"
-	"AVSearch-2.0-fusionIdx-14-CompetitorWebSites"
-	"AVSearch-3.0/AVC"
-	"AWeb"
-	"/  Crawler; :///; "
-	" -  your  for better   www.axmo.com search ."
-	"Azureus 2.x.x.x"
-	"BabalooSpider/1.3 BabalooSpider; ://www.babaloo.si; spider@babaloo.si"
-	"/1.x.x +://www.baboom.us"
-	" Browser 3.x"
-	"BaiduImagespider++:///search/s308.html"
-	"BaiDuSpider"
-	"Baiduspider++:///system/05.html"
-	"Baiduspider++://.com/search/spider.htm"
-	"Baiduspider++://.com/search/spider_jp.html"
-	"Balihoo/Nutch-1.0-dev Crawler for Balihoo.com search  - obeys   robots  tags ; ://balihoo.com/index.aspx;   balihoo  com"
+	"Allesklar/0.1 libwww-perl/5.46",,
+	"Alligator 1.31 .com",
+	"Allrati/1.1 +",
+	"  V2.0 AVS EVAL search@.com",
+	"  V2.0 Compaq  Eval @",
+	"  V2.0 .com crawler@.com",
+	" V2.0B crawler@.com",
+	"/x.xx libwww/x.x.x",
+	"AmfibiBOT",
+	"/0.06 Amfibi Web Search; ://www.amfibi.com; @amfibi.com",
+	"/0.07 Amfibi ; ://www.amfibi.com; @amfibi.com",
+	"",
+	"-AWeb/3.4.167SE",
+	"AmigaVoyager/3.4.4 MorphOS/PPC ",
+	"AmiTCP Miami AmigaOS 2.04",
+	"Amoi 8512/R21.0 NF-Browser/3.3",
+	"amzn_assoc",
+	" spider 0.1  - ://",
+	"annotate_google; :////annotate_google.user.js",
+	" by ProxyOS: ://www.megaproxy.com",
+	"Anonymizer/1.1",
+	"AnswerBus ://www.answerbus.com/",
+	"  x.0",
+	" x.0",
+	"ANTFresco/x.xx",
+	"-V1.1.5/i586-linux-2.2",
+	"AnzwersCrawl/2.0 anzwerscrawl@;",
+	"Apexoo Spider 1.x",
+	"Aplix HTTP/1.0.1",
+	"Aplix_SANYO_browser/1.x ",
+	"Aplix_SEGASATURN_browser/1.x ",
+	"",
+	" 1.1 www.walhello.com",
+	"  v1.1.4  v1.0.0.4A102",
+	"-PubSub/65.1.1",
+	" ; /5.0; ; FAST Crawler 6.4; ://www.araby.com;",
+	" @euroseek.com",
+	"ArchitextSpider",
+	".org_bot",
+	"Argus/1.1 Nutch; ://www.simpy.com/.html; feedback  simpy  com",
+	"Arikus_Spider",
+	"Arquivo-web-crawler ; heritrix/1.12.1 +://arquivo-",
+	"ASAHA Search  Turkey V.001 ://.com/",
+	"-/1.x",
+	"-/1.x .pl/x.x ; .pl/x.x",
+	"ask.24x.info",
+	"AskAboutOil/0.06- Nutch; :///docs//.html; nutch-@askaboutoil.com",
+	"/Nutch-0.8 web crawler; ://; epicurus  gmail  com",,
+	"ASPSeek/1.2.5",
+	"ASPseek/",
+	"ASPSeek/1.2.x",
+	"ASPSeek/",
+	"ASPseek/1.2.xx",
+	"ASPSeek/",
+	"ASSORT/0.10",
+	"asterias/2.0",
+	"/1.1 +://www.atlocal.com/local-web--owner.html",
+	"Atomic_Email_Hunter/4.0",
+	"Atomz/1.0",
+	"atSpider/1.0",
+	"Attentio/Nutch-0.9-dev Attentios   crawler; www.attentio.com; info@attentio.com",
+	"AU-MIC/2.0 MMP/2.0",
+	"AUDIOVOX-SMT5600",
+	" V-1.x",
+	"autoemailspider",
+	"autowebdir 1.1 www.autowebdir.com",
+	"AV Fetch 1.0",
+	" Browser ://www.avantbrowser.com",
+	"AVSearch-1.0peter.turney@",
+	"AVSearch-2.0-fusionIdx-14-CompetitorWebSites",
+	"AVSearch-3.0/AVC",
+	"AWeb",
+	"/  Crawler; :///; ",
+	" -  your  for better   www.axmo.com search .",
+	"Azureus 2.x.x.x",
+	"BabalooSpider/1.3 BabalooSpider; ://www.babaloo.si; spider@babaloo.si",
+	"/1.x.x +://www.baboom.us",
+	" Browser 3.x",
+	"BaiduImagespider++:///search/s308.html",
+	"BaiDuSpider",
+	"Baiduspider++:///system/05.html",
+	"Baiduspider++://.com/search/spider.htm",
+	"Baiduspider++://.com/search/spider_jp.html",
+	"Balihoo/Nutch-1.0-dev Crawler for Balihoo.com search  - obeys   robots  tags ; ://balihoo.com/index.aspx;   balihoo  com",
 	"BanBots/1.2 spider@banbots.com"
-	"/2.0.xxxx"
-	"BarcaPro/1.4.xxxx"
-	"BarraHomeCrawler albertof@"
-	"bCentral  -Process"
-	"bdcindexer_2.6.2 research@bdc"
-	"BDFetch"
-	"BDNcentral Crawler v2.3 [] ://www.bdncentral.com/.html X11; I; Linux 2.0.44 i686"
-	"/0.5  link remover of "
-	"/1.0 +:///crawler//"
-	"/2.5.1  crawler :///.html "
-	"BeebwareDirectory/v0.01"
-	" Brother ://.fr/~fpottier/"
-	" Fish v1.0"
-	"BigBrother/"
-	"BigCliqueBOT/1.03-dev ; ://.com; @.com"
-	"BIGLOTRON  2;GNU/Linux"
-	"/Nutch-x.x-dev   Spider; :///; info@.com"
-	"Bilbo/2.3b-UNIX"
-	"/0.8-dev bilgi.com  ; :///nutch/.html; nutch-@"
-	"/1.0 ://www.bilgi.com/; bilgi  bilgi  com"
-	" wjj@"
-	" /1.1"
-	"  V:1.0; ://.com"
-	"Biyubi/x.x  Fenix; G11;  Toledo; es-mx"
-	"BlackBerry7520/4.0.0 /MIDP-2.0 /CLDC-1.1 UP.Browser/5.0.3.3 UP.Link/5.1.2.12  WAP Proxy/1.0"
-	"BlackWidow"
-	"BlackWidow"
-	"Blaiz-/1.0 +://"
-	"Blaiz-/2.00.8222 BE  Search  ://.com"
-	"Blaiz-/2.00.xxxx +://"
-	"BlitzBOT@"
-	"BlitzBOT@  "
-	"/1.x"
-	" 2.13 ://.com/"
-	"Bloglines  Fetch/1.0 ://www.bloglines.com"
-	"Bloglines-Images/0.1 ://www.bloglines.com"
-	"Bloglines/3.1 ://www.bloglines.com"
-	" ://"
-	" info@.com"
-	" @.com"
-	"BlogSearch/1.x +://.com/"
-	"--3"
-	" V 2.01 +://www.blogsnow.com/"
-	"-v1.1 spider@.nl"
-	"blogWatcher_Spider/0.1 :///blogWatcher/"
-	"/1.0 +://.com; rhodes@.com"
-	"/1.0 +://.com/"
-	"/Nutch-0.9  Crawler for Research - obeys   robots  tags ; ://balihoo.com/index.aspx;   balihoo  com"
-	"bluefish 0.6 HTML editor"
-	"BMCLIENT"
-	"BMLAUNCHER"
-	"Bobby/4.0.x RPT-/0.3-3E"
-	"boitho.com-dc/0.xx ://www.boitho.com/.html"
-	"boitho.com-/1.x"
-	"boitho.com-/1.x ://www.boitho.com/.html"
-	"/x.x"
-	"Bookmark Buddy bookmark checker :///"
-	"Bookmark Renewal Check  [:///]"
-	"Bookmark Renewal Check  [:///]"
-	"2/;://.com"
-	" mailto:@yahoo.com"
-	"BPImageWalker/2.0 .com"
-	"  MarcoPolo"
-	"BrightCrawler ://.com/"
-	" +:///.html"
-	"BSDSeek/1.0"
-	"  Detector"
-	"/0.x +://.com/.html"
-	"/180B9704"
-	"BuildCMS crawler ://www.buildcms.com/crawler"
-	"Bulkfeeds/r1752 :///"
-	"@.com"
-	"BunnySlippers"
-	"BurstFindCrawler/1.1 .com; ://.com; crawler@.com"
-	"Buscaplus Robi/1.0 ://www.buscaplus.com/robi/"
-	"BW-C-2.0"
-	"bwh3_user_agent"
-	"/Nutch-0.9 Amfibis web- ; ://www.amfibi.com//; @amfibi.com"
-	"/Nutch-1.0-dev Amfibis web- ; ://www.amfibi.com//; @amfibi.com"
+	"/2.0.xxxx",
+	"BarcaPro/1.4.xxxx",
+	"BarraHomeCrawler albertof@",
+	"bCentral  -Process",
+	"bdcindexer_2.6.2 research@bdc",
+	"BDFetch",
+	"BDNcentral Crawler v2.3 [] ://www.bdncentral.com/.html X11; I; Linux 2.0.44 i686",
+	"/0.5  link remover of ",
+	"/1.0 +:///crawler//",
+	"/2.5.1  crawler :///.html ",
+	"BeebwareDirectory/v0.01",
+	" Brother ://.fr/~fpottier/",
+	" Fish v1.0",
+	"BigBrother/",
+	"BigCliqueBOT/1.03-dev ; ://.com; @.com",
+	"BIGLOTRON  2;GNU/Linux",
+	"/Nutch-x.x-dev   Spider; :///; info@.com",
+	"Bilbo/2.3b-UNIX",
+	"/0.8-dev bilgi.com  ; :///nutch/.html; nutch-@",
+	"/1.0 ://www.bilgi.com/; bilgi  bilgi  com",
+	" wjj@",
+	" /1.1",
+	"  V:1.0; ://.com",
+	"Biyubi/x.x  Fenix; G11;  Toledo; es-mx",
+	"BlackBerry7520/4.0.0 /MIDP-2.0 /CLDC-1.1 UP.Browser/5.0.3.3 UP.Link/5.1.2.12  WAP Proxy/1.0",
+	"BlackWidow",
+	"BlackWidow",
+	"Blaiz-/1.0 +://",
+	"Blaiz-/2.00.8222 BE  Search  ://.com",
+	"Blaiz-/2.00.xxxx +://",
+	"BlitzBOT@",
+	"BlitzBOT@  ",
+	"/1.x",
+	" 2.13 ://.com/",
+	"Bloglines  Fetch/1.0 ://www.bloglines.com",
+	"Bloglines-Images/0.1 ://www.bloglines.com",
+	"Bloglines/3.1 ://www.bloglines.com",
+	" ://",
+	" info@.com",
+	" @.com",
+	"BlogSearch/1.x +://.com/",
+	"--3",
+	" V 2.01 +://www.blogsnow.com/",
+	"-v1.1 spider@.nl",
+	"blogWatcher_Spider/0.1 :///blogWatcher/",
+	"/1.0 +://.com; rhodes@.com",
+	"/1.0 +://.com/",
+	"/Nutch-0.9  Crawler for Research - obeys   robots  tags ; ://balihoo.com/index.aspx;   balihoo  com",
+	"bluefish 0.6 HTML editor",
+	"BMCLIENT",
+	"BMLAUNCHER",
+	"Bobby/4.0.x RPT-/0.3-3E",
+	"boitho.com-dc/0.xx ://www.boitho.com/.html",
+	"boitho.com-/1.x",
+	"boitho.com-/1.x ://www.boitho.com/.html",
+	"/x.x",
+	"Bookmark Buddy bookmark checker :///",
+	"Bookmark Renewal Check  [:///]",
+	"Bookmark Renewal Check  [:///]",
+	"2/;://.com",
+	" mailto:@yahoo.com",
+	"BPImageWalker/2.0 .com",
+	"  MarcoPolo",
+	"BrightCrawler ://.com/",
+	" +:///.html",
+	"BSDSeek/1.0",
+	"  Detector",
+	"/0.x +://.com/.html",
+	"/180B9704",
+	"BuildCMS crawler ://www.buildcms.com/crawler",
+	"Bulkfeeds/r1752 :///",
+	"@.com",
+	"BunnySlippers",
+	"BurstFindCrawler/1.1 .com; ://.com; crawler@.com",
+	"Buscaplus Robi/1.0 ://www.buscaplus.com/robi/",
+	"BW-C-2.0",
+	"bwh3_user_agent",
+	"/Nutch-0.9 Amfibis web- ; ://www.amfibi.com//; @amfibi.com",
+	"/Nutch-1.0-dev Amfibis web- ; ://www.amfibi.com//; @amfibi.com",
 	"CamelHttpStream/1.0"
-	"Cancer    International;"
-	"/1.0"
-	"Carnegie_Mellon_University_Research_WebBOT-->PLEASE READ-->:///~//index.html :///~//index.html"
-	"Carnegie_Mellon_University_WebCrawler :///~//index.html"
-	"Catall Spider"
-	"/-0.1  Crawler; ://.com/; @.com"
-	"/1.0 +:///.html"
-	"/x.x"
-	"CDR/1.7.1 Simulator/0.7+:// /MIDP-1.0 /CLDC-1.0"
+	"Cancer    International;",
+	"/1.0",
+	"Carnegie_Mellon_University_Research_WebBOT-->PLEASE READ-->:///~//index.html :///~//index.html",
+	"Carnegie_Mellon_University_WebCrawler :///~//index.html",
+	"Catall Spider",
+	"/-0.1  Crawler; ://.com/; @.com",
+	"/1.0 +:///.html",
+	"/x.x",
+	"CDR/1.7.1 Simulator/0.7+:// /MIDP-1.0 /CLDC-1.0",
 	"CE-"
-	" - investigator"
-	"/3.0 ://-"
-	"Ceramic    ://.com"
-	"CERN-/2.15"
-	"cfetch/1.0"
-	"CFNetwork/x.x"
-	"- "
-	"/1.x "
-	" Catcher/1.0"
-	"/1.xx LWP/5.xx"
-	"CheckLinks/1.x.x"
-	"CheckUrl"
-	"CheckWeb"
-	"/1.0.0 +://.com/"
-	" Local  2.6"
-	"  1.0"
-	"ChristCRAWLER 2.0"
-	" by   "
-	" ://.com/.html"
-	"Cityreview  +:///crawler/"
+	" - investigator",
+	"/3.0 ://-",
+	"Ceramic    ://.com",
+	"CERN-/2.15",
+	"cfetch/1.0",
+	"CFNetwork/x.x",
+	"- ",
+	"/1.x ",
+	" Catcher/1.0",
+	"/1.xx LWP/5.xx",
+	"CheckLinks/1.x.x",
+	"CheckUrl",
+	"CheckWeb",
+	"/1.0.0 +://.com/",
+	" Local  2.6",
+	"  1.0",
+	"ChristCRAWLER 2.0",
+	" by   ",
+	" ://.com/.html",
+	"Cityreview  +:///crawler/",
 	"CJ Spider/"
-	"CJB.NET Proxy"
-	"/1.0"
-	".com"
-	"/0.9 +://.seznam.cz/"
-	"/2.x +://www.clush.com/.html"
-	"/3.x-BinaryFury +://www.clush.com/.html"
-	"/3.xx-Ajax +://www.clush.com/.html"
-	"/3.xx-Hector +://www.clush.com/.html"
-	"/3.xx-Peleus +://www.clush.com/.html"
-	"COAST WebMaster Pro/4.x.x.xx Windows NT"
-	"Cocoal.icio.us/1.0 v36 Mac OS X; ://www.scifihifi.com/cocoalicious"
-	"/1.X +://www.cogentsoftwaresolutions.com/.html"
-	" BookmarkTracker.com"
-	".cgi/1.xx"
-	"/0.0"
-	"/2.0 :///"
-	"/3 :///"
-	"/x.0"
-	"cometrics- ://"
-	" Browser Center"
-	"complex_network_group/Nutch-0.9-dev    of  --web; :///~networks/crawl; nimakhaj@gmail.com"
-	"Computer_and_Automation_Research_Institute_Crawler crawler@"
-	"/0.7.1 Nutch; :///nutch/.html; nutch-@"
-	"/0.2"
-	"ContentSmartz"
-	"  Spider V6.x"
-	"ConveraCrawler/0.2"
-	"ConveraCrawler/ +://www.authoritativeweb.com/crawl"
-	"ConveraMultiMediaCrawler/0.1 +://www.authoritativeweb.com/crawl"
-	"Cooliris/1.5 CFNetwork/459 /10.0.0d3"
-	"CoralWebPrx/0.1.1x  :///" 
-	"cosmos/0.8_@.com"
-	"cosmos/0.9_@.com"
-	"CoteoNutchCrawler/Nutch-0.9 info [] coteo [] com"
-	"CougarSearch/0.x +://www.cougarsearch.com/faq.shtml"
-	"Covac TexAs "
-	"%203/3.0.1 CFNetwork/339.5 /9.5.0 i386 iMac51"
-	"-0.1 NHN . / +82-2-3011-1954 / @naver.com"
-	"-0.1.x NHN . / +82-2-3011-1954 / @naver.com"
-	"CrawlConvera0.1 @yahoo.com"
-	"Crawler"
-	"Crawler cometsearch@cometsystems.com"
-	"Crawler @"
-	"Crawler V 0.2.x @"
-	"crawler@.com"
-	"CrawlerBoy .com"
-	"/0.1 ; +://www.crawlly.com; crawler@crawlly.com"
-	"CreativeCommons/0.06-dev Nutch; :///docs//.html; nutch-@"
-	"-A100/1.0 UP.Browser/6.3.0.7 GUI MMP/2.0"
-	"CrocCrawler vx.3 [] ://www.croccrawler.com X11; I; Linux 2.0.44 i686"
-	"csci_b659/0.13"
-	"CSE HTML Validator Professional ://www.htmlvalidator.com/"
-	"Cuam Ver0.050bx"
-	"/0.9b ://www.cuasar.com/spider_beta/"
-	"curl/7.10.x i386--linux- libcurl/7.10.x OpenSSL/ ipv6 zlib/1.1.4"
-	"curl/7.7.x i386--freebsd4.3 libcurl 7.7.x SSL 0.9.6 ipv6 "
-	"curl/7.8 i686-pc-linux- libcurl 7.8 OpenSSL 0.9.6"
-	"curl/7.9.x win32 libcurl 7.9.x"
-	"  1.1"
-	"Custo x.x .com"
-	"Custom Spider www.bisnisseek.com /1.0"
-	"/2.0 Macintosh; 68k"
-	"CyberPatrol  "
-	"CyberSpyder Link /2.1.12"
-	"CydralSpider/1.x"
-	"CydralSpider/3.0"
-	"DA 3.5"
-	"DA 4.0"
-	"DA 4.0"
-	"DA 5.0"
-	"DA 7.0"
-	"DAP x.x"
-	" Communications PowerTCP"
-	"DataCha0s/2.0"
-	"DataCha0s/2.0"
-	"DataFountains/DMOZ Downloader"
-	"DataFountains/Dmoz Downloader :///useragents.shtml"
-	"DataFountains/DMOZ  Vector Corpus Creator :///useragents.shtml"
+	"CJB.NET Proxy",
+	"/1.0",
+	".com",
+	"/0.9 +://.seznam.cz/",
+	"/2.x +://www.clush.com/.html",
+	"/3.x-BinaryFury +://www.clush.com/.html",
+	"/3.xx-Ajax +://www.clush.com/.html",
+	"/3.xx-Hector +://www.clush.com/.html",
+	"/3.xx-Peleus +://www.clush.com/.html",
+	"COAST WebMaster Pro/4.x.x.xx Windows NT",
+	"Cocoal.icio.us/1.0 v36 Mac OS X; ://www.scifihifi.com/cocoalicious",
+	"/1.X +://www.cogentsoftwaresolutions.com/.html",
+	" BookmarkTracker.com",
+	".cgi/1.xx",
+	"/0.0",
+	"/2.0 :///",
+	"/3 :///",
+	"/x.0",
+	"cometrics- ://",
+	" Browser Center",
+	"complex_network_group/Nutch-0.9-dev    of  --web; :///~networks/crawl; nimakhaj@gmail.com",
+	"Computer_and_Automation_Research_Institute_Crawler crawler@",
+	"/0.7.1 Nutch; :///nutch/.html; nutch-@",
+	"/0.2",
+	"ContentSmartz",
+	"  Spider V6.x",
+	"ConveraCrawler/0.2",
+	"ConveraCrawler/ +://www.authoritativeweb.com/crawl",
+	"ConveraMultiMediaCrawler/0.1 +://www.authoritativeweb.com/crawl",
+	"Cooliris/1.5 CFNetwork/459 /10.0.0d3",
+	"CoralWebPrx/0.1.1x  :///" ,
+	"cosmos/0.8_@.com",
+	"cosmos/0.9_@.com",
+	"CoteoNutchCrawler/Nutch-0.9 info [] coteo [] com",
+	"CougarSearch/0.x +://www.cougarsearch.com/faq.shtml",
+	"Covac TexAs ",,
+	"%203/3.0.1 CFNetwork/339.5 /9.5.0 i386 iMac51",
+	"-0.1 NHN . / +82-2-3011-1954 / @naver.com",
+	"-0.1.x NHN . / +82-2-3011-1954 / @naver.com",
+	"CrawlConvera0.1 @yahoo.com",
+	"Crawler",
+	"Crawler cometsearch@cometsystems.com",
+	"Crawler @",
+	"Crawler V 0.2.x @",
+	"crawler@.com",
+	"CrawlerBoy .com",
+	"/0.1 ; +://www.crawlly.com; crawler@crawlly.com",
+	"CreativeCommons/0.06-dev Nutch; :///docs//.html; nutch-@",
+	"-A100/1.0 UP.Browser/6.3.0.7 GUI MMP/2.0",
+	"CrocCrawler vx.3 [] ://www.croccrawler.com X11; I; Linux 2.0.44 i686",
+	"csci_b659/0.13",
+	"CSE HTML Validator Professional ://www.htmlvalidator.com/",
+	"Cuam Ver0.050bx",
+	"/0.9b ://www.cuasar.com/spider_beta/",
+	"curl/7.10.x i386--linux- libcurl/7.10.x OpenSSL/ ipv6 zlib/1.1.4",
+	"curl/7.7.x i386--freebsd4.3 libcurl 7.7.x SSL 0.9.6 ipv6 ",
+	"curl/7.8 i686-pc-linux- libcurl 7.8 OpenSSL 0.9.6",
+	"curl/7.9.x win32 libcurl 7.9.x",
+	"  1.1",
+	"Custo x.x .com",
+	"Custom Spider www.bisnisseek.com /1.0",
+	"/2.0 Macintosh; 68k",
+	"CyberPatrol  ",
+	"CyberSpyder Link /2.1.12",
+	"CydralSpider/1.x",
+	"CydralSpider/3.0",
+	"DA 3.5",
+	"DA 4.0",
+	"DA 4.0",
+	"DA 5.0",
+	"DA 7.0",
+	"DAP x.x",
+	" Communications PowerTCP",
+	"DataCha0s/2.0",
+	"DataCha0s/2.0",
+	"DataFountains/DMOZ Downloader",
+	"DataFountains/Dmoz Downloader :///useragents.shtml",
+	"DataFountains/DMOZ  Vector Corpus Creator :///useragents.shtml",
 	"DataparkSearch/4.47 +:///"
-	"DataparkSearch/4.xx :///"
-	"DataSpear/1.0 Spider; ://www.dataspear.com/spider.html; spider@dataspear.com"
-	"/0.2 DataSpear Spider ; ://dssb.dataspear.com/.html; dssb@dataspear.com"
-	" ://www.sicher-durchs-/.html"
-	"/1.7"
-	"/0.x"
-	"://.com"
-	" 1.4b"
-	"DC-/x.xx"
-	"/1.1"
-	"DDD"
-	"dds explorer v1.0 "
-	" 1.2 ://.com/spider"
-	"DeadLinkCheck/0.4.0 libwww-perl/5.xx"
-	" Link Calculator v1.0"
-	"deepak-USC/ISI"
-	"DeepIndex"
-	"DeepIndex  ://.com "
-	"DeepIndex .deepindex.com"
-	"del.icio.us-thumbnails/1.0 /5.0 ; Konqueror/3.4; FreeBSD KHTML/3.4.2  Gecko"
-	"/9.0.5-fix1"
-	"Demo  DOT 16b"
-	"Demo  Z 16b"
-	"Denmex websearch ://search.denmex.com"
-	"dev-spider2.searchpsider.com/1.3b"
-	"DevComponents.com  "
-	"DiaGem/1.1 :///diagem.html"
-	"/x.0"
-	""
-	"Digger/1.0 JDK/1.3.0rc3"
-	"DigOut4U"
-	"/1.2"
-	"Dillo/0.8.5--misc"
-	"Dillo/0.x.x"
-	"disastrous/1.0.5  with  2.5.1; :///disastrous.html; archangel77@del.icio.us"
-	"DISCo  x.x"
-	"disco/Nutch-0.9 experimental crawler; .com; disco-crawl@.com"
-	"disco/Nutch-1.0-dev experimental crawler; .com; disco-crawl@.com"
-	"DittoSpyder"
-	"dloader/1.0"
-	".com  Link Ckeck Tool.   to: dnsr@.com"
-	"DoCoMo/1.0/Nxxxi/c10"
-	"DoCoMo/1.0/Nxxxi/c10/TB"
-	"DoCoMo/1.0/P502i/c10  CHTML Proxy/1.0"
-	"DoCoMo/2.0 P900iVc100;TB;W24H11"
-	"DoCoMo/2.0 SH901iSc100;TB;W24H12  .com"
-	"DoCoMo/2.0 SH902i ; Y!J-SRD/1.0; ://///search//-27.html"
-	"DoCoMo/2.0/SO502i ; Y!J-SRD/1.0; ://///search//-27.html"
-	"/1.0 Windows; U; WinNT4.0; -US; rv:1.0.0 Gecko/20020804"
+	"DataparkSearch/4.xx :///",
+	"DataSpear/1.0 Spider; ://www.dataspear.com/spider.html; spider@dataspear.com",
+	"/0.2 DataSpear Spider ; ://dssb.dataspear.com/.html; dssb@dataspear.com",
+	" ://www.sicher-durchs-/.html",
+	"/1.7",
+	"/0.x",
+	"://.com",
+	" 1.4b",
+	"DC-/x.xx",
+	"/1.1",
+	"DDD",
+	"dds explorer v1.0 ",
+	" 1.2 ://.com/spider",
+	"DeadLinkCheck/0.4.0 libwww-perl/5.xx",
+	" Link Calculator v1.0",
+	"deepak-USC/ISI",
+	"DeepIndex",
+	"DeepIndex  ://.com ",
+	"DeepIndex .deepindex.com",
+	"del.icio.us-thumbnails/1.0 /5.0 ; Konqueror/3.4; FreeBSD KHTML/3.4.2  Gecko",
+	"/9.0.5-fix1",
+	"Demo  DOT 16b",
+	"Demo  Z 16b",
+	"Denmex websearch ://search.denmex.com",
+	"dev-spider2.searchpsider.com/1.3b",
+	"DevComponents.com  ",
+	"DiaGem/1.1 :///diagem.html",
+	"/x.0",
+	"",
+	"Digger/1.0 JDK/1.3.0rc3",
+	"DigOut4U",
+	"/1.2",
+	"Dillo/0.8.5--misc",
+	"Dillo/0.x.x",
+	"disastrous/1.0.5  with  2.5.1; :///disastrous.html; archangel77@del.icio.us",
+	"DISCo  x.x",
+	"disco/Nutch-0.9 experimental crawler; .com; disco-crawl@.com",
+	"disco/Nutch-1.0-dev experimental crawler; .com; disco-crawl@.com",
+	"DittoSpyder",
+	"dloader/1.0",
+	".com  Link Ckeck Tool.   to: dnsr@.com",
+	"DoCoMo/1.0/Nxxxi/c10",
+	"DoCoMo/1.0/Nxxxi/c10/TB",
+	"DoCoMo/1.0/P502i/c10  CHTML Proxy/1.0",
+	"DoCoMo/2.0 P900iVc100;TB;W24H11",
+	"DoCoMo/2.0 SH901iSc100;TB;W24H12  .com",
+	"DoCoMo/2.0 SH902i ; Y!J-SRD/1.0; ://///search//-27.html",
+	"DoCoMo/2.0/SO502i ; Y!J-SRD/1.0; ://///search//-27.html",
+	"/1.0 Windows; U; WinNT4.0; -US; rv:1.0.0 Gecko/20020804",
 	"/experimental"
-	"DonutP; Windows98SE"
-	"/1.0 @.com ://.com"
-	" /3.x.x.x"
-	"  2.x"
-	" Express 1.0"
-	" Master"
-	"  3.0"
-	" Wonder"
-	"- Linkcheck ://-/"
-	"1.1 +://www.sql--/-tools/"
-	".1.0"
-	"Dr.Web R  scanner: ://.drweb.com/"
-	"Dragonfly  Reader"
-	"/1.0 :///.html"
-	"Drupal +:///"
-	" 01"
-	" 71"
-	" 81"
-	" VA"
-	"dtSearchSpider"
-	"Dual Proxy"
-	"/1.0; +://duckduckgo.com/.html"
-	" 0.1  - .com"
-	" 0.1  - ://.com/.html"
-	" 0.1 "
-	"- 1.0 www.vigiltech.com/esensedisclaim.html"
-	"-:///~/es/"
-	"/2.0 ; heritrix/2.0.0-SNAPSHOT-20071024.170148 +://www.eapollo-opto.com"
-	"EARTHCOM.info/1.x [www.earthcom.info]"
-	"EARTHCOM.info/ [www.earthcom.info]"
-	"EasyDL/3.xx"
-	"EasyDL/3.xx ://.com//"
-	" 1.4b"
-	"eCatch/3.0"
-	"EchO!/2.0"
-	" Search VxB"
-	"egothor/ +:///.html"
-	"/4.8 +://www.egoto.com/.htm"
-	"ejupiter.com"
-	"EldoS TimelyWeb/3.x"
-	"/1.0 +:///crawler//"
-	"ELI/20070402:2.0 DAUM RSS  Daum Communications .; +:///aboutkr.html"
-	"ELinks 0.x.x; Linux 2.4.20 i586; 132x60"
-	"ELinks/0.x.x ; NetBSD 1.6.2 sparc; 132x43"
-	"EmailSpider"
-	"EmailWolf 1.00"
-	".com "
-	".com  ://.com/.aspx"
-	"EMPAS_ROBOT"
-	"/1.x ://www.enaball.com/crawler.html"
-	"endo/1.0 Mac OS X; ppc i386; :///endo"
-	"Enfish Tracker"
-	"Enterprise_Search/1.0"
-	"Enterprise_Search/1.0.xxx"
-	"Enterprise_Search/1.00.xxx;MSSQL :///es-"
-	"envolk/1.7 +://www.envolk.com/"
-	"envolk[ITS]spider/1.6+://www.envolk.com/envolkspider.html"
-	"EroCrawler"
-	"ES.NET_Crawler/2.0 :///"
-	"eseek-larbin_2.6.2 crawler@exactseek.com"
-	"ESISmartSpider"
-	"eStyleSearch 4 ; MSIE 6.0; Windows NT 5.0"
-	" 15"
-	"/0.x +://.com "
-	"/0.x +://.com GetRobots"
-	"/0.x +://.com PreCheck"
-	"/1.0 ://"
-	"EvaalSE - @evaal.com"
-	"eventax/1.3 eventax; :///; info@"
-	"- Inc./0.1 R&D ; =-1-24; ://.com/"
-	"- Inc./0.1 R&D ; ://.com/"
-	"-Images/1.0"
-	"-/1.0"
-	"/2.0"
-	"/3.0"
-	"ExactSearch"
-	"ExactSeek Crawler/0.1"
-	"exactseek-crawler-2.63 crawler@exactseek.com"
-	"exactseek-pagereaper-2.63 crawler@exactseek.com"
-	"exactseek.com"
-	" NG/  //0.120"
-	"Excalibur  Spider V6.5.4"
-	"Execrawl/1.0 Execrawl; ://www.execrawl.com/; @execrawl.com"
-	" crawler/ crawler crawler for .com; ://.com/; info    com"
-	"/ crawler ; "
-	"  Sleuth"
-	"Express WebPictures www.express-.com"
-	"ExtractorPro"
-	"  Finder"
-	"EyeCatcher -/1.0"
-	" 1.09  ://www.factbites.com/"
-	" : ://www.factbites.com/robots"
-	"/2.0.x"
-	"FANGCrawl/0.01"
-	"FARK.com link verifier"
-	" Crawler  "
-	"FAST  Crawler 6 Experimental"
-	"FAST  Crawler 6 / Scirus scirus-crawler@.no; ://www.scirus.com//contactus/"
-	"FAST  Crawler 6  by   @fastsearch.com"
-	"FAST  Crawler 6  by Comperio AS sts@comperio.no"
-	"FAST  Crawler 6  by FAST FAST"
-	"FAST  Crawler 6  by Pages Jaunes @pagesjaunes.fr"
-	"FAST  Crawler 6  by  Web Crawler search_comments\\sensis\\com\\"
+	"DonutP; Windows98SE",
+	"/1.0 @.com ://.com",
+	" /3.x.x.x",
+	"  2.x",
+	" Express 1.0",
+	" Master",
+	"  3.0",
+	" Wonder",
+	"- Linkcheck ://-/",
+	"1.1 +://www.sql--/-tools/",
+	".1.0",
+	"Dr.Web R  scanner: ://.drweb.com/",
+	"Dragonfly  Reader",
+	"/1.0 :///.html",
+	"Drupal +:///",
+	" 01",
+	" 71",
+	" 81",
+	" VA",
+	"dtSearchSpider",
+	"Dual Proxy",
+	"/1.0; +://duckduckgo.com/.html",
+	" 0.1  - .com",
+	" 0.1  - ://.com/.html",
+	" 0.1 ",
+	"- 1.0 www.vigiltech.com/esensedisclaim.html",
+	"-:///~/es/",
+	"/2.0 ; heritrix/2.0.0-SNAPSHOT-20071024.170148 +://www.eapollo-opto.com",
+	"EARTHCOM.info/1.x [www.earthcom.info]",
+	"EARTHCOM.info/ [www.earthcom.info]",
+	"EasyDL/3.xx",
+	"EasyDL/3.xx ://.com//",
+	" 1.4b",
+	"eCatch/3.0",
+	"EchO!/2.0",
+	" Search VxB",
+	"egothor/ +:///.html",
+	"/4.8 +://www.egoto.com/.htm",
+	"ejupiter.com",
+	"EldoS TimelyWeb/3.x",
+	"/1.0 +:///crawler//",
+	"ELI/20070402:2.0 DAUM RSS  Daum Communications .; +:///aboutkr.html",
+	"ELinks 0.x.x; Linux 2.4.20 i586; 132x60",
+	"ELinks/0.x.x ; NetBSD 1.6.2 sparc; 132x43",
+	"EmailSpider",
+	"EmailWolf 1.00",
+	".com ",
+	".com  ://.com/.aspx",
+	"EMPAS_ROBOT",
+	"/1.x ://www.enaball.com/crawler.html",
+	"endo/1.0 Mac OS X; ppc i386; :///endo",
+	"Enfish Tracker",
+	"Enterprise_Search/1.0",
+	"Enterprise_Search/1.0.xxx",
+	"Enterprise_Search/1.00.xxx;MSSQL :///es-",
+	"envolk/1.7 +://www.envolk.com/",
+	"envolk[ITS]spider/1.6+://www.envolk.com/envolkspider.html",
+	"EroCrawler",
+	"ES.NET_Crawler/2.0 :///",
+	"eseek-larbin_2.6.2 crawler@exactseek.com",
+	"ESISmartSpider",
+	"eStyleSearch 4 ; MSIE 6.0; Windows NT 5.0",
+	" 15",
+	"/0.x +://.com ",
+	"/0.x +://.com GetRobots",
+	"/0.x +://.com PreCheck",
+	"/1.0 ://",
+	"EvaalSE - @evaal.com",
+	"eventax/1.3 eventax; :///; info@",
+	"- Inc./0.1 R&D ; =-1-24; ://.com/",
+	"- Inc./0.1 R&D ; ://.com/",
+	"-Images/1.0",
+	"-/1.0",
+	"/2.0",
+	"/3.0",
+	"ExactSearch",
+	"ExactSeek Crawler/0.1",
+	"exactseek-crawler-2.63 crawler@exactseek.com",
+	"exactseek-pagereaper-2.63 crawler@exactseek.com",
+	"exactseek.com",
+	" NG/  //0.120",
+	"Excalibur  Spider V6.5.4",
+	"Execrawl/1.0 Execrawl; ://www.execrawl.com/; @execrawl.com",
+	" crawler/ crawler crawler for .com; ://.com/; info    com",
+	"/ crawler ; ",
+	"  Sleuth",
+	"Express WebPictures www.express-.com",
+	"ExtractorPro",
+	"  Finder",
+	"EyeCatcher -/1.0",
+	" 1.09  ://www.factbites.com/",
+	" : ://www.factbites.com/robots",
+	"/2.0.x",
+	"FANGCrawl/0.01",
+	"FARK.com link verifier",
+	" Crawler  ",
+	"FAST  Crawler 6 Experimental",
+	"FAST  Crawler 6 / Scirus scirus-crawler@.no; ://www.scirus.com//contactus/",
+	"FAST  Crawler 6  by   @fastsearch.com",
+	"FAST  Crawler 6  by Comperio AS sts@comperio.no",
+	"FAST  Crawler 6  by FAST FAST",
+	"FAST  Crawler 6  by Pages Jaunes @pagesjaunes.fr",
+	"FAST  Crawler 6  by  Web Crawler search_comments\\sensis\\com\\",
 	"FAST  Crawler 6  by  Press Holdings crawler@"
-	"FAST  Crawler 6  by WWU wardi@uni-"
-	"FAST  Crawler/6 www.fastsearch.com"
-	"FAST  Crawler/6.4 helpdesk  .no"
-	"FAST  retriever ; MSIE 5.5; /4.0"
-	"FAST MetaWeb Crawler helpdesk  fastsearch  com"
-	"  Crawler"
-	"FAST-WebCrawler/2.2.10  Search crawler@.no; ://.no/faq/faqfastwebsearch/faqfastwebcrawler.html"
-	"FAST-WebCrawler/2.2.6 crawler@.no; ://.no/faq/faqfastwebsearch/faqfastwebcrawler.html"
-	"FAST-WebCrawler/2.2.7 crawler@.no; ://.no/faq/faqfastwebsearch/faqfastwebcrawler.html://.no"
-	"FAST-WebCrawler/2.2.8 crawler@.no; ://.no/faq/faqfastwebsearch/faqfastwebcrawler.html://.no"
-	"FAST-WebCrawler/3.2 "
-	"FAST-WebCrawler/3.3 crawler@.no; ://.no/?c=faqs/crawler"
-	"FAST-WebCrawler/3.4/ crawler@.no; ://.no/?c=faqs/crawler"
-	"FAST-WebCrawler/3.4/ crawler@.no; ://.no/?c=faqs/crawler"
-	"FAST-WebCrawler/3.5 atw-crawler    no; ://.no/?c=faqs/crawler"
-	"FAST-WebCrawler/3.6 atw-crawler    no; ://.no//"
-	"FAST-WebCrawler/3.6/ crawler@.no; ://.no/?c=faqs/crawler"
-	"FAST-WebCrawler/3.7 atw-crawler    no; ://.no//"
-	"FAST-WebCrawler/3.7/ atw-crawler    no;://.no//"
-	"FAST-WebCrawler/3.8 atw-crawler    no; ://.no//"
-	"FAST-WebCrawler/3.8/Fresh atw-crawler    no; ://.no//"
-	"FAST-WebCrawler/3.x "
-	"FAST-WebCrawler/3.x  mm dash crawler    no"
-	" crawler  2.0 +://"
-	" ://www.ay-.com"
-	"FastCrawler 3.0.1 crawler@1klik.dk"
-	"FastSearch Web Crawler for  SuperPages .watters@fastsearch.com"
-	"Favcollector/2.0 info@favcollector.com ://www.favcollector.com/"
-	"FavIconizer"
-	" crawler/0.6 ://"
-	"Favorites  ://"
-	"Favorites Sweeper v.2.03"
-	"/1.0"
-	"FDM 1.x"
-	"FDM 2.x"
-	" Seeker  RSS  Seeker ://.com/"
-	"Feed24.com"
-	"::/0.0x"
-	"/0.1 ; MSIE 6.0; Windows NT 5.1"
-	"FeedChecker/0.01"
-	"/2.7 ://www.newsgator.com/;  Windows XP"
-	"Feedfetcher--iGoogleGadgets; +://.com/feedfetcher.html"
-	"Feedfetcher-; +://.com/feedfetcher.html"
-	"FeedForAll  v2"
-	"FeedHub FeedDiscovery/1.0 ://www.feedhub.com"
-	"FeedHub MetaDataFetcher/1.0 ://www.feedhub.com"
-	"  Crawler 1.0"
-	"Feedreader 3.xx  by "
-	"Feedshow/x.0 ://www.feedshow.com; 1 subscriber"
-	" ://www.feedshow.com"
-	"FeedZcollector v1.x Platinum ://www.feeds4all.com/feedzcollector"
+	"FAST  Crawler 6  by WWU wardi@uni-",
+	"FAST  Crawler/6 www.fastsearch.com",
+	"FAST  Crawler/6.4 helpdesk  .no",
+	"FAST  retriever ; MSIE 5.5; /4.0",
+	"FAST MetaWeb Crawler helpdesk  fastsearch  com",
+	"  Crawler",
+	"FAST-WebCrawler/2.2.10  Search crawler@.no; ://.no/faq/faqfastwebsearch/faqfastwebcrawler.html",
+	"FAST-WebCrawler/2.2.6 crawler@.no; ://.no/faq/faqfastwebsearch/faqfastwebcrawler.html",
+	"FAST-WebCrawler/2.2.7 crawler@.no; ://.no/faq/faqfastwebsearch/faqfastwebcrawler.html://.no",
+	"FAST-WebCrawler/2.2.8 crawler@.no; ://.no/faq/faqfastwebsearch/faqfastwebcrawler.html://.no",
+	"FAST-WebCrawler/3.2 ",
+	"FAST-WebCrawler/3.3 crawler@.no; ://.no/?c=faqs/crawler",
+	"FAST-WebCrawler/3.4/ crawler@.no; ://.no/?c=faqs/crawler",
+	"FAST-WebCrawler/3.4/ crawler@.no; ://.no/?c=faqs/crawler",
+	"FAST-WebCrawler/3.5 atw-crawler    no; ://.no/?c=faqs/crawler",
+	"FAST-WebCrawler/3.6 atw-crawler    no; ://.no//",
+	"FAST-WebCrawler/3.6/ crawler@.no; ://.no/?c=faqs/crawler",
+	"FAST-WebCrawler/3.7 atw-crawler    no; ://.no//",
+	"FAST-WebCrawler/3.7/ atw-crawler    no;://.no//",
+	"FAST-WebCrawler/3.8 atw-crawler    no; ://.no//",
+	"FAST-WebCrawler/3.8/Fresh atw-crawler    no; ://.no//",
+	"FAST-WebCrawler/3.x ",
+	"FAST-WebCrawler/3.x  mm dash crawler    no",
+	" crawler  2.0 +://",
+	" ://www.ay-.com",
+	"FastCrawler 3.0.1 crawler@1klik.dk",
+	"FastSearch Web Crawler for  SuperPages .watters@fastsearch.com",
+	"Favcollector/2.0 info@favcollector.com ://www.favcollector.com/",
+	"FavIconizer",
+	" crawler/0.6 ://",
+	"Favorites  ://",
+	"Favorites Sweeper v.2.03",
+	"/1.0",
+	"FDM 1.x",
+	"FDM 2.x",
+	" Seeker  RSS  Seeker ://.com/",
+	"Feed24.com",
+	"::/0.0x",
+	"/0.1 ; MSIE 6.0; Windows NT 5.1",
+	"FeedChecker/0.01",
+	"/2.7 ://www.newsgator.com/;  Windows XP",
+	"Feedfetcher--iGoogleGadgets; +://.com/feedfetcher.html",
+	"Feedfetcher-; +://.com/feedfetcher.html",
+	"FeedForAll  v2",
+	"FeedHub FeedDiscovery/1.0 ://www.feedhub.com",
+	"FeedHub MetaDataFetcher/1.0 ://www.feedhub.com",
+	"  Crawler 1.0",
+	"Feedreader 3.xx  by ",
+	"Feedshow/x.0 ://www.feedshow.com; 1 subscriber",
+	" ://www.feedshow.com",
+	"FeedZcollector v1.x Platinum ://www.feeds4all.com/feedzcollector",
 	"Felix -  Crawler +://.com"
-	"fetch libfetch/2.0"
-	"FFC  Door Spider"
-	"Filangy/0.01- Filangy; :///docs//.html; filangy-@filangy.com"
-	"Filangy/1.0x Filangy; ://www.filangy.com/?inc=; filangy-@filangy.com"
-	"Filangy/1.0x Filangy; :///docs//.html; filangy-@filangy.com"
-	"/1.0 +://"
-	" x.x"
-	"Filtrbox/1.0"
-	"FindAnISP.com_ISP_Finder_v99a"
-	" Crawler ://.no/gulesider/"
-	"findlinks/x.xxx +://wortschatz.uni-/findlinks/"
+	"fetch libfetch/2.0",
+	"FFC  Door Spider",
+	"Filangy/0.01- Filangy; :///docs//.html; filangy-@filangy.com",
+	"Filangy/1.0x Filangy; ://www.filangy.com/?inc=; filangy-@filangy.com",
+	"Filangy/1.0x Filangy; :///docs//.html; filangy-@filangy.com",
+	"/1.0 +://",
+	" x.x",
+	"Filtrbox/1.0",
+	"FindAnISP.com_ISP_Finder_v99a",
+	" Crawler ://.no/gulesider/",
+	"findlinks/x.xxx +://wortschatz.uni-/findlinks/",
 	"-prefetch"
-	"Firefly/1.0"
-	"Firefly/1.0 ;  4.0; MSIE 5.5"
-	"Firefox kastaneta03@hotmail.com"
-	"Firefox_1.0.6 kasparek@naparek.cz"
-	"FirstGov.gov Search - POC:firstgov.webmasters@.gov"
-	"/0.7.2 Flaptor Crawler; ://www.flaptor.com; crawler  flaptor  com"
-	"FLATARTS_FAVICO"
-	"Flexum spider"
-	"Flexum/2.0"
-	" 2.0 RPT-/0.3-3"
-	"flunky"
-	"fly/6.01 libwww/4.0D"
-	" 1.0/://"
-	"/2.5.2 +://.com/addurl.html"
-	"FocusedSampler/1.0"
-	".com Spider/0.1  1 .com"
-	"   ://.com/.html "
-	".com  ://.com/b.html "
-	"Fooky.com//; ://www.fooky.com/scorpionbots"
-	"Francis/1.0 francis@ :///"
-	" Locator 1.8"
-	"- -link validator /0.1"
-	".com-/1.0 ://.com; spiderinfo@.com"
-	"/1.0 +://www.frelic.com/"
-	"/x.xx"
-	"FreshNotes crawler<  problems to crawler--freshnotes--com"
-	" 01"
-	"FTB- ://.co.uk/"
-	"Full Web  0416B"
-	"Full Web  0516B"
-	"Full Web  2816B"
-	"FuseBulb.Com"
-	"/5.0 Windows; U; Windows NT 6.1; -US /534.3 KHTML,  Gecko BlackHawk/1.0.195.0 /127.0.0.1 Safari/62439616.534"
-	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729"
-	"/5.0  4 1.52 /536.26 KHTML,  Gecko"
-	"/5.0 Windows NT 6.1; rv:26.0 Gecko/20100101 Firefox/26.0 /26.0.0.2"
-	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2"
-	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729"
-	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0"
-	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; .NET CLR 2.0.50727; InfoPath.2"
-	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US"
-	"/4.0 ; MSIE 6.1; Windows XP"
+	"Firefly/1.0",
+	"Firefly/1.0 ;  4.0; MSIE 5.5",
+	"Firefox kastaneta03@hotmail.com",
+	"Firefox_1.0.6 kasparek@naparek.cz",
+	"FirstGov.gov Search - POC:firstgov.webmasters@.gov",
+	"/0.7.2 Flaptor Crawler; ://www.flaptor.com; crawler  flaptor  com",
+	"FLATARTS_FAVICO",
+	"Flexum spider",
+	"Flexum/2.0",
+	" 2.0 RPT-/0.3-3",
+	"flunky",
+	"fly/6.01 libwww/4.0D",
+	" 1.0/://",
+	"/2.5.2 +://.com/addurl.html",
+	"FocusedSampler/1.0",
+	".com Spider/0.1  1 .com",
+	"   ://.com/.html ",
+	".com  ://.com/b.html ",
+	"Fooky.com//; ://www.fooky.com/scorpionbots",
+	"Francis/1.0 francis@ :///",
+	" Locator 1.8",
+	"- -link validator /0.1",
+	".com-/1.0 ://.com; spiderinfo@.com",
+	"/1.0 +://www.frelic.com/",
+	"/x.xx",
+	"FreshNotes crawler<  problems to crawler--freshnotes--com",
+	" 01",
+	"FTB- ://.co.uk/",
+	"Full Web  0416B",
+	"Full Web  0516B",
+	"Full Web  2816B",
+	"FuseBulb.Com",
+	"/5.0 Windows; U; Windows NT 6.1; -US /534.3 KHTML,  Gecko BlackHawk/1.0.195.0 /127.0.0.1 Safari/62439616.534",
+	"/5.0 Windows; U; Windows NT 6.1; ; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0 Windows; U; Windows NT 5.2; -US; rv:1.9.1.3 Gecko/20090824 Firefox/3.5.3 .NET CLR 3.5.30729",
+	"/5.0  4 1.52 /536.26 KHTML,  Gecko",
+	"/5.0 Windows NT 6.1; rv:26.0 Gecko/20100101 Firefox/26.0 /26.0.0.2",
+	"/4.0 ; MSIE 8.0; Windows NT 6.1; WOW64; /4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2",
+	"/4.0 ; MSIE 8.0; Windows NT 6.0; /4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729",
+	"/4.0 ; MSIE 8.0; Windows NT 5.2; Win64; x64; /4.0",
+	"/4.0 ; MSIE 8.0; Windows NT 5.1; /4.0; SV1; .NET CLR 2.0.50727; InfoPath.2",
+	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
+	"/4.0 ; MSIE 6.1; Windows XP",
 	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"	        			
 			]
 			
