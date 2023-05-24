@@ -8243,9 +8243,9 @@ class MainLoop():
                 print ('Error to read file.')
         while True:                
             try:
-                num_threads = int(input('> Enter the number of thread [200]: '))
+                num_threads = int(input('> Enter the number of thread [400]: '))
             except:
-                num_threads = 200
+                num_threads = 400
             break
 
         for i in range(num_threads):
