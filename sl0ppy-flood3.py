@@ -6,7 +6,7 @@
 #  Team      : sl0ppyr00t
 #  Build     : 20232405
 #
-# 
+#  Todo, add "," behind 6k UA
 
 import urllib.request, os, threading, time, random, sys, colorama
 from colorama import Fore, Style
