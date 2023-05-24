@@ -9,9 +9,9 @@ A https & http flooder, hitting your servers with 503 server error
 * Throwing 503 server errors, on proper load balanced sites!!
 
 # Load balanced tested..
-* nginx apache nginx-reuseport
-* nginx apache 
-* likely more, like cf protected sites (not tested yet!.)
+* nginx + apache + nginx-reuseport
+* nginx + apache load balanced.
+* Likely others, (not tested yet.)
 
 # Usage 
 * `python sl0ppy-flood3.py`
