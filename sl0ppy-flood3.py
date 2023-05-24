@@ -8246,7 +8246,7 @@ class Spammer(threading.Thread):
         print(Fore.RED + "0000000000000000000000000000")
         print(Fore.YELLOW + "DDos, By Team sl0ppyr00t!!")
         print(Fore.RED + "0000000000000000000000000000")
-	print(Fore.WHITE + "")
+        print(Fore.WHITE + "") 
         sys.stdout.write("Thread #%4d | %4d\%d | Proxy@%s"%(self.num, N, len(self.lista), self.lista[N]))
     def run(self):
         global N
