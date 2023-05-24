@@ -479,7 +479,7 @@ ua = ["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.
 	"/9.61 X11; Linux i686; U; pl Presto/2.1.1",
 	"/9.61 X11; Linux i686; U;  Presto/2.1.1",
 	"/9.61 X11; Linux i686; U;  Presto/2.1.1",
-,	"/9.61 Windows NT 6.0; U;  Presto/2.1.1",
+	"/9.61 Windows NT 6.0; U;  Presto/2.1.1",
 	"/9.61 Windows NT 6.0; U; -BR Presto/2.1.1",
 	"/9.61 Windows NT 6.0; U; ://lucideer.com; -GB Presto/2.1.1",
 	"/9.61 Windows NT 6.0; U;  Presto/2.1.1",
