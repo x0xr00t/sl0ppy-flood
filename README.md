@@ -1,5 +1,6 @@
 # sl0ppy-flood
-A https & http flooder with urllib3 
+A https & http flooder, 503 error your servers
+
 
 # Usage 
 * `python sl0ppy-flood3.py`
