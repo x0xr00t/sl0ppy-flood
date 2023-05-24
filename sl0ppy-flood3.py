@@ -20,7 +20,14 @@ ref = [
     'https://search.yahoo.com/',
     'https://www.facebook.com/',
     'https://twitter.com/',
-    'https://www.youtube.com/'
+    'https://www.youtube.com/',
+    'https://www.snap.com/',
+    'https://www.tiktok.com/',
+    'https://www.0day.today/',
+    'https://www.vulncheck.com/',
+    'https://www.github.com/',
+    'https://www.checkhost.com/'
+	
 ]
 ua = ["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.0.1 Fennec/10.0.1",
 	"Mozilla/5.0 (Android; Linux armv7l; rv:2.0.1) Gecko/20100101 Firefox/4.0.1 Fennec/2.0.1",
