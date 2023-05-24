@@ -5,8 +5,13 @@ A https & http flooder, hitting your servers with 503 server error
 * A list of 7k + User Agent to connect with, these consist out of a large customized list. 
 * A referal list that needs to be worked on bit more. 
 * Proxy list for connections, using the user agents to connect with 
-* Proper load balanced site, nginx + apache load balanced will not stand a chance against this!!
+* Proper load balanced site, nginx + apache + nginx-reuseport load balanced, will not stand a chance against this!!
 * Throwing 503 server errors, on proper load balanced sites!!
+
+# Load balanced tested..
+* nginx apache nginx-reuseport
+* nginx apache 
+* likely more, like cf protected sites (not tested yet!.)
 
 # Usage 
 * `python sl0ppy-flood3.py`
