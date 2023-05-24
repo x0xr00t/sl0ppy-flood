@@ -1,7 +1,7 @@
 # sl0ppy-flood
 A https & http flooder, hitting your servers with 503 server error 
 
-# https|http flooder. 
+# https|http flooder
 * A 7k + User Agent to connect with. 
 * A referal list that needs to be worked on bit more. 
 * Proxy list for connections
