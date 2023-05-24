@@ -1,6 +1,5 @@
 # sl0ppy-flood
-A https & http flooder, 503 error your servers
-
+A https & http flooder, 503 server error 
 
 # Usage 
 * `python sl0ppy-flood3.py`
