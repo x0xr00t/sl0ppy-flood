@@ -8273,7 +8273,7 @@ def title():
 class MainLoop():
     
     def __init__(self):
-        if os.name in ("nt", "dos", "ce"):
+        if os.name in ("nt", "dos", "ce", "pe", "me" "slr", "0x"):
             title()
     def check_url(self, url):
         if url[0]+url[1]+url[2]+url[3] == "www.":
@@ -8316,9 +8316,9 @@ class MainLoop():
                 print ('Error to read file.')
         while True:                
             try:
-                num_threads = int(input('> Enter the number of thread [700]: '))
+                num_threads = int(input('> Enter the number of thread [1400]: '))
             except:
-                num_threads = 700
+                num_threads = 1400
             break
 
         for i in range(num_threads):
