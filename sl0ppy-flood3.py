@@ -8276,9 +8276,9 @@ class MainLoop():
         if os.name in ("nt", "dos", "ce", "pe", "me" "slr", "0x"):
             title()
     def check_url(self, url):
-        if url[0]+url[1]+url[2]+url[3] == "www.":
+        if url[0]+url[1]+url[2]+url[3]+url[4]+url[5]+url[6]+url[7] == "www.":
             url = "https://" + url
-        elif url[0]+url[1]+url[2]+url[3] == "http":
+        elif url[0]+url[1]+url[2]+url[3]+url[4]+url[5]+url[6]+url[7] == "http":
             pass
         else:
             url = "https://" + url
