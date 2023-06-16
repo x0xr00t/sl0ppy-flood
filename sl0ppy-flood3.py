@@ -8273,12 +8273,12 @@ def title():
 class MainLoop():
     
     def __init__(self):
-        if os.name in ("nt", "dos", "ce", "pe", "me" "slr", "0x"):
+        if os.name in ("nt", "dos", "ce", "pe", "me" "slr", "0x", "Mac", "Unix", "Win", "NSA" ):
             title()
     def check_url(self, url):
-        if url[0]+url[1]+url[2]+url[3]+url[4]+url[5]+url[6]+url[7] == "www.":
+        if url[0]+url[1]+url[2]+url[3] == "www.":
             url = "https://" + url
-        elif url[0]+url[1]+url[2]+url[3]+url[4]+url[5]+url[6]+url[7] == "http":
+        elif url[0]+url[1]+url[2]+url[3] == "http":
             pass
         else:
             url = "https://" + url
