@@ -8282,7 +8282,7 @@ def title():
 
 class MainLoop():
     def __init__(self):
-        if os.name in ("nt", "dos", "ce", "pe", "me", "slr", "0x", "Mac", "Unix", "Win", "NSA", "BeOS", "Amiga", "VMS"):
+        if os.name in ("nt", "posix", "mac", "os2", "ce", "java", "riscos", "atheos", "amigaos", "beos", "uwin", "vms", "cygwin", "zos", "aix", "irix", "osf1", "hpux", "sunos", "freebsd", "openbsd", "netbsd", "darwin", "linux", "solaris", "haiku", "aros", "syllable", "skyos", "hurd", "minix", "android", "ios", "qnx", "blackberry", "webos", "windowsphone", "windowsce", "symbian", "microsoft", "dec", "sgi", "hp", "sun", "macintosh", "win32", "posix"):
             title()
 
     def check_url(self, url):
