@@ -21,7 +21,7 @@ A https & http flooder, hitting your servers with 503 server error
 * `enter threads`
 
 # change log 
-* Added extra os.name for bypassing 
+* Added more os.name for bypassing 
 
 # Legal Disclaimer: 
 * I am not responsible for U using it on non authorized systems, make sure u use it on systems u own or are authorized on. 
