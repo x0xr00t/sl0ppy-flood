@@ -1,5 +1,5 @@
 # sl0ppy-flood
-A https & http flooder, hitting your servers with 503 server error 
+A https & http flooder, hitting your servers with 503 server error, Other errors it gives 504, 502.
 
 # https|http flooder
 * Added bypass
