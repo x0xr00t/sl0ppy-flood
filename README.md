@@ -22,7 +22,8 @@ A https & http flooder, hitting your servers with 503 server error
 
 # change log 
 * Added more os.name for bypassing 
-
+* fixed colors for stdout sum times this showed red or yellow, should now be fixed
+  
 # Legal Disclaimer: 
 * I am not responsible for U using it on non authorized systems, make sure u use it on systems u own or are authorized on. 
 
