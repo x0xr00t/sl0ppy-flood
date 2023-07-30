@@ -8237,6 +8237,7 @@ class Spammer(threading.Thread):
             'Cache-directive': 'no-cache',
             'Pragma': 'no-cache',
             'Upgrade-Insecure-Requests': '1',
+            'X-Forwarded-For': '.'.join(str(random.randint(0, 255)) for _ in range(4)),  # Add random IP address to X-Forwarded-For
         }
         self.Lock = threading.Lock()
         self.lista = lista
@@ -8272,7 +8273,7 @@ class Spammer(threading.Thread):
                 N += 1
                 self.request()
                 # Add random delay to simulate human behavior
-                time.sleep(random.uniform(0.5, 1.5))
+                time.sleep(random.uniform(0.1, 0.5))
             except:
                 pass
         sys.exit(0)
