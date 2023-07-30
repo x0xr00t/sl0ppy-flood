@@ -12,8 +12,6 @@ import time
 import random
 import string
 import sys
-import asyncio
-import aiohttp
 import threading
 import time
 import urllib.request
@@ -8242,12 +8240,11 @@ class Spammer(threading.Thread):
             'Cache-directive': 'no-cache',
             'Pragma': 'no-cache',
             'Upgrade-Insecure-Requests': '1',
-            'X-Forwarded-For': '.'.join(str(random.randint(0, 255)) for _ in range(4)),  # Add random IP address to X-Forwarded-For
         }
         self.Lock = threading.Lock()
         self.lista = lista
 
-    async def request(self, session):
+    def request(self):
         global N
         data = None
         if N >= (len(self.lista) - 1):
@@ -8266,22 +8263,20 @@ class Spammer(threading.Thread):
         sys.stdout.write(Fore.WHITE + f"Thread #{self.num:4d} | {N:4d}/{len(self.lista)} | Proxy@{self.lista[N]}")
         sys.stdout.flush()
         sys.stdout.write("\r")
-
-    async def run(self):
+	    
+    def run(self):
         global N
         self.Lock.acquire()
         print("Thread #%4d |" % self.num)
         self.Lock.release()
-        await asyncio.sleep(1)
-        async with aiohttp.ClientSession() as session:
-            while True:
-                try:
-                    N += 1
-                    await self.request(session)
-                    # Add random delay to simulate human behavior
-                    await asyncio.sleep(random.uniform(0.1, 0.5))
-                except:
-                    pass
+        time.sleep(1)
+        while True:
+            try:
+                N += 1
+                self.request()
+            except:
+                pass
+        sys.exit(0)
 
 def title():
     sys.stdout.write("                                                                                          \n")
@@ -8343,11 +8338,8 @@ class MainLoop():
             except:
                 print('Invalid input. Please enter a number.')
 
-        loop = asyncio.get_event_loop()
         for i in range(num_threads):
-            loop.create_task(Spammer(url, i + 1, proxy_list).run())
-
-        loop.run_forever()
+            Spammer(url, i + 1, proxy_list).start()
 
 if __name__ == '__main__':
     N = 0
