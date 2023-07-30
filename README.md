@@ -24,12 +24,14 @@ A https & http flooder, hitting your servers with 503 server error, Other errors
 * Added more os.name for bypassing 
 * fixed colors for stdout sum times this showed red or yellow, should now be fixed
 * Added extra sqeez for the the ddos impact on load balanced sites see the following
-* `  1.) Increase Concurrent Requests: To increase the impact, we can increase the number of concurrent requests sent by each thread.
+ ```
+1.) Increase Concurrent Requests: To increase the impact, we can increase the number of concurrent requests sent by each thread.
 
-   2.) Randomize User-Agent and Referer: Load-balancers often detect and block common User-Agent and Referer strings. We can use a larger and more diverse list of User-Agent and Referer headers to make the requests appear more legitimate and difficult to detect.
+2.) Randomize User-Agent and Referer: Load-balancers often detect and block common User-Agent and Referer strings. We can use a larger and more diverse list of User-Agent and Referer headers to make the requests appear more legitimate and difficult to detect.
 
-   3.) Add Random Delays: Adding random delays between requests can simulate human behavior and make the attack harder to mitigate.`
-  
+3.) Add Random Delays: Adding random delays between requests can simulate human behavior and make the attack harder to mitigate.
+```
+
 # Legal Disclaimer: 
 * I am not responsible for U using it on non authorized systems, make sure u use it on systems u own or are authorized on. 
 
