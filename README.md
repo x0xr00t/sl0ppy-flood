@@ -22,7 +22,7 @@ A https & http flooder, hitting your servers with 503 server error, Other server
 
 # change log 
 * Added more os.name for bypassing 
-* fixed colors for stdout sum times this showed red or yellow, should now be fixed
+
 
 
 # Legal Disclaimer: 
