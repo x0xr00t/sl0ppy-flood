@@ -8233,7 +8233,9 @@ class Spammer(threading.Thread):
         self.num = number
         self.headers = {
             'User-Agent': random.choice(ua),
+            'Keep-Alive', random.randint(110,9960),
             'Referer': random.choice(ref),
+            'Accept-Charset', 'ISO-8859-1,utf-8;q=0.7,*;q=0.7',
             'Accept-Encoding': 'gzip;q=0,deflate;q=0',
             'Connection': 'Keep-Alive',
             'Cache-Control': 'no-cache, no-store, must-revalidate',
