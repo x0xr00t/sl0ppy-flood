@@ -30,7 +30,7 @@ A https & http flooder, hitting your servers with 503 server error, Other server
 * `python sl0ppy-flood3.py`
 * `enter host`
 * `enter proxy list`
-* `enter threads` (for legacy cpu, i5-5th-gen, or cpu with 4core use: 300|400 threads, for 6core or more use desired threads.)
+* `enter threads` (for legacy cpu, i5-5th-gen, or cpu with 4core use: 600 threads, for 6core or more use desired threads.)
 
 # change log 
 * Added more os.name for bypassing 
