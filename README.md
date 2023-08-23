@@ -8,11 +8,23 @@ A https & http flooder, hitting your servers with 503 server error, Other server
 * Proxy list for connections, using the user agents to connect with 
 * Proper load balanced site, nginx + apache + nginx-reuseport load balanced, will not stand a chance against this!!
 * Throwing 503 server errors, on proper load balanced sites!!
+* cloudflare bypass 
 
 # Load balanced tested..
 * nginx + apache + nginx-reuseport
 * nginx + apache load balanced.
 * Likely others, (not tested yet.)
+
+# server errors 
+* throws 503 server error
+* throws 502 server error 
+* throws 501 server error 
+* throws 508 server error resource limited reached. 
+
+# tested on cloudflare site.
+* throws 508 server error resource limited reached. 
+
+
 
 # Usage 
 * `python sl0ppy-flood3.py`
