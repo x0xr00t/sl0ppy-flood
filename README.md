@@ -34,6 +34,7 @@ A https & http flooder, hitting your servers with 503 server error, Other server
 
 # change log 
 * Added more os.name for bypassing 
+* Added random keep alive 
 
 
 
