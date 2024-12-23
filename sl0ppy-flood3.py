@@ -14,6 +14,7 @@ import string
 import sys
 import threading
 import urllib.request
+import socket
 
 from sys import stdout
 from colorama import Fore, Style
@@ -8224,7 +8225,7 @@ ua = ["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.
 	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
 	"/4.0 ; MSIE 6.1; Windows XP",
 	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"	        			
-			]
+	]		]
 			
 
 class Spammer(threading.Thread):
