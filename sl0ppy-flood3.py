@@ -8237,6 +8237,7 @@ class Spammer(threading.Thread):
             'User-Agent': random.choice(ua),
             'Keep-Alive': random.randint(110, 9960),
             'Referer': random.choice(ref),
+            'x-Forwarded-For': 8.8.1.1
         }
         self.Lock = threading.Lock()
         self.lista = lista
