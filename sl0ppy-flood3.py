@@ -12,7 +12,6 @@ import time
 import random
 import string
 import sys
-import ssl
 import threading
 import urllib.request
 import socket
