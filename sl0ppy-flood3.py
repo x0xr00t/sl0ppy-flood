@@ -8288,7 +8288,17 @@ class Spammer(threading.Thread):
 
 class MainLoop:
     def __init__(self):
-        if os.name in ("nt", "posix", "mac", "os2", "ce", "java", "riscos", "atheos", "amigaos", "beos", "uwin", "vms", "cygwin", "zos", "aix", "irix", "osf1", "hpux", "sunos", "freebsd", "openbsd", "netbsd", "darwin", "linux", "solaris", "haiku", "aros", "syllable", "skyos", "hurd", "minix", "android", "ios", "qnx", "blackberry", "webos", "windowsphone", "windowsce", "symbian", "microsoft", "dec", "sgi", "hp", "sun", "macintosh", "win32", "posix"):
+        if os.name in ("aix", "amigaos", "android", "aros", "atheos", "beos", "blackberry", "bsd", "ce", 
+    "chromiumos", "cp/m", "cygwin", "darwin", "dec", "dragonflybsd", "edos", "ems", 
+    "freebsd", "gnu", "gnu/hurd", "gnu/linux", "haiku", "hp", "hpux", "hurd", "inferno", 
+    "ios", "irix", "java", "linux", "lynxos", "mac", "macintosh", "maemo", "mandriva", 
+    "meego", "minix", "microsoft", "morphos", "ms-dos", "mvs", "netbsd", "nucleus", 
+    "nt", "openbsd", "opensolaris", "os2", "os400", "os9", "osf1", "palmos", "plan9", 
+    "posix", "qnx", "riscos", "rtem", "sco", "sgi", "sinix", "skyos", "solaris", 
+    "sunos", "symbian", "syllable", "tanenbaum", "tizen", "tru64", "ubuntu", "ultrix", 
+    "unix", "unixware", "uwin", "vms", "vxworks", "webos", "win32", "windows", 
+    "windowsce", "windowsmobile", "windowsphone", "wince", "wrlinux", "xenix", "yospos", 
+    "zos"):
             self.title()
 
     def title(self):
