@@ -8310,14 +8310,14 @@ class MainLoop:
         sys.stdout.write("             " + "+0000000000000000000000000000000000000000000000000000000+\n")
         sys.stdout.write("\n")
 
-    def check_url(self, url):
-        if url[:4] == "www.":
-            url = "https://" + url
-        elif url[:4] == "http":
-            pass
-        else:
-            url = "https://" + url
-        return url
+def check_url(url):
+    if url.startswith("www."):
+        url = "https://" + url
+    elif url.startswith("http"):
+        pass
+    else:
+        url = "https://" + url
+    return url
 
     def setup(self):
         global N
