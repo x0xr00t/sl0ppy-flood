@@ -14,6 +14,7 @@ import string
 import sys
 import threading
 import urllib.request
+import requests 
 
 from sys import stdout
 from colorama import Fore, Style
