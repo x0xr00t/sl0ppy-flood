@@ -37,6 +37,11 @@ A https & http flooder, hitting your servers with 503 server error, Other server
 * Added random keep alive 
 
 
+# usage new versions 
+* python3 -m venv venv
+* source venv/bin/activate
+* pip install requests urllib3==1.26.16 chardet==3.0.4
+
 
 # Legal Disclaimer: 
 * I am not responsible for U using it on non authorized systems, make sure u use it on systems u own or are authorized on. 
